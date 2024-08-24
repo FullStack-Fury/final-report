@@ -1,5 +1,11 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
+
+* Facilio: https://facilio.com/
+* Asset Panda: https://www.assetpanda.com/
+* 
+
+
 ### 2.1.1. Análisis competitivo.
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
