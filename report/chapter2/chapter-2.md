@@ -91,3 +91,17 @@
 **Visión del Futuro:**
 - ¿Cómo te gustaría que evolucionara el sistema actual para facilitar tu trabajo?
 - ¿Qué cambios o mejoras crees que serían más beneficiosos para ti en la gestión de recursos y espacios?
+
+### 2.2.2. Registro de entrevistas  
+
+- Nombres:
+- Apellidos:
+- Edad:
+- Distrito:
+- Video:
+
+[//]: # (IMAGEN VIDEO)
+
+URL: 
+Tiempo: 
+- Resumen:
