@@ -105,3 +105,9 @@
 URL: 
 Tiempo: 
 - Resumen:
+
+### 2.3.5 As-is Scenario Mapping
+- **Segmento objetivo:** Administrador
+  ![as-is1](../../assets/as-is-admin.jpg)
+- **Segmento objetivo:** Profesores y Auxiliares    
+  ![as-is2](../../assets/as-is-prof.jpg)
