@@ -172,7 +172,7 @@ a los de EduSpace.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-1. Estrategias para Aprovechar las Fortalezas de EduSpace:
+1. Estrategias para Aprovechar las Fortalezas de EduSpace
 
 * **Especialización en el Sector Educativo**: Desarrollar contenido 
   de marketing y estudios de caso específicos para instituciones 
@@ -185,7 +185,7 @@ a los de EduSpace.
   demostraciones que muestren cómo estas funciones simplifican la 
   gestión y ahorran tiempo.
 
-2. Estrategias para Enfrentar las Debilidades de EduSpace:
+2. Estrategias para Enfrentar las Debilidades de EduSpace
 
 * **Foco Limitado en el Sector Educativo**: Explorar oportunidades para 
   adaptar y expandir la plataforma a otros sectores que también 
@@ -198,7 +198,7 @@ a los de EduSpace.
   específicas de EduSpace están diseñadas para resolver 
   problemas únicos en instituciones educativas.
 
-3. Estrategias para Aprovechar las Oportunidades:
+3. Estrategias para Aprovechar las Oportunidades
 
 * **Expansión a Otras Áreas del Sector Educativo**: Investigar y desarrollar nuevas 
   funcionalidades que puedan ser útiles para la gestión de recursos tecnológicos 
@@ -210,7 +210,7 @@ a los de EduSpace.
   estrategias de entrada específicas para estos mercados, incluyendo
   asociaciones con proveedores locales y campañas de concienciación.
 
-4. Estrategias para Mitigar las Amenazas:
+4. Estrategias para Mitigar las Amenazas
 
 * **Competencia de Plataformas Generales y Económicas**: Diferenciarse mediante
   una propuesta de valor clara que destaque la especialización y las
