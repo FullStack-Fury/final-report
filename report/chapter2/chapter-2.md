@@ -219,5 +219,5 @@ a los de EduSpace.
   
 * **Rápido Avance Tecnológico**: Crear un ciclo de feedback continuo con los
   usuarios para identificar áreas de mejora y priorizar actualizaciones
-  basadas en sus necesidades y en las últimas innovaciones tecnológicas
+  basadas en sus necesidades y en las últimas innovaciones tecnológicas. 
 
