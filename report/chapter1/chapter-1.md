@@ -1,4 +1,4 @@
-# 1.2. Solution Profile
+# 1.2. Solution Profil
 
 EduSpace fue diseñado para lograr una gestión integral y eficiente de los espacios educativos en 
 instituciones con grandes infraestructuras. Sin embargo, hemos observado que el producto no está 
