@@ -34,13 +34,13 @@ Entre los desafíos que enfrenta se encuentran la adaptación a los cambios en p
 
 ### ENTREVISTA 2
 
-Nombres:Esau Juan 
+Nombres: Esau Juan 
 
-Apellidos:Huannca Cabrera
+Apellidos: Huanca Cabrera
 
 Edad:55
 
-Distrito:Villa Maria del Triunfo
+Distrito: Villa Maria del Triunfo
 
 Video:
 
