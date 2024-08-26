@@ -185,7 +185,7 @@ a los de EduSpace.
   demostraciones que muestren cómo estas funciones simplifican la 
   gestión y ahorran tiempo.
 
-2. Estrategias para Enfrentar las Debilidades de EduSpace
+1. Estrategias para Enfrentar las Debilidades de EduSpace
 
 * **Foco Limitado en el Sector Educativo**: Explorar oportunidades para 
   adaptar y expandir la plataforma a otros sectores que también 
