@@ -317,6 +317,8 @@ a los de EduSpace.
 
 # 2.2.2. Registro de entrevistas
 
+##### Segmento 1: Administradores de Instituciones Educativas
+
 ### Entrevista 1
 
 Nombres:
@@ -379,6 +381,13 @@ Esaú utiliza una variedad de dispositivos para llevar a cabo su trabajo, incluy
 En cuanto a habilidades, Esaú se destaca en liderazgo, planificación, organización, comunicación efectiva y resolución de problemas. Sus objetivos incluyen mejorar la calidad de la educación, incrementar la eficiencia en el uso de recursos, y fomentar un ambiente de aprendizaje innovador. Los desafíos que enfrenta incluyen la adaptación a los cambios en la educación y la gestión de recursos, especialmente en la adquisición de equipos y la dependencia de los pagos de pensiones.
 
 Esaú busca en las herramientas de gestión características adicionales como integración con otros sistemas, análisis detallados y reportes. También sugiere que la gestión de ambientes deportivos y personal podría beneficiarse de la implementación de tecnologías emergentes y un sistema más ágil y flexible. Finalmente, Esaú destaca la necesidad de mejorar la gestión administrativa con un software que apoye eficient
+
+##### Segmento 2: Docentes y Auxiliares
+### Entrevista 1
+
+### Entrevista 2
+
+### Entrevista 3
 
 
 ### 2.3.5 As-is Scenario Mapping
