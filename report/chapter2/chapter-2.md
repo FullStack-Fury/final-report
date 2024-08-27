@@ -371,7 +371,7 @@ Entre los desafíos que enfrenta se encuentran la adaptación a los cambios en p
 *Segmento objetivo:* Administradores
 
 
-![](../../assets/interview1a.PNG)
+![](../../assets/entrevista2a.PNG)
 
 #### Resumen de la entrevista:
 
