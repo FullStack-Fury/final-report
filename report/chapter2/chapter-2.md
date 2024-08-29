@@ -383,11 +383,29 @@ En cuanto a habilidades, Esaú se destaca en liderazgo, planificación, organiza
 Esaú busca en las herramientas de gestión características adicionales como integración con otros sistemas, análisis detallados y reportes. También sugiere que la gestión de ambientes deportivos y personal podría beneficiarse de la implementación de tecnologías emergentes y un sistema más ágil y flexible. Finalmente, Esaú destaca la necesidad de mejorar la gestión administrativa con un software que apoye eficient
 
 ##### Segmento 2: Docentes y Auxiliares
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/EaOeO0exZXVHq2Ch6i5ylvoBY115MGuowJeCiB1mkpjfKA?e=KnXQeB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### Entrevista 1
+
+**Nombres:** Maria Soledad
+
+**Apellidos:** Baygorrea Paquiyauri
+
+**Edad:** 40 años
+
+**Ciudad:** Ayacucho
 
 ### Entrevista 2
 
+**Nombres:** Karina
+
+**Apellidos:** Baygorrea Paquiyauri
+
+**Edad:** 40 años
+
+**Ciudad:** Ayacucho
+
 ### Entrevista 3
+
 
 
 ### 2.3.5 As-is Scenario Mapping
