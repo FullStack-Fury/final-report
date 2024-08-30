@@ -297,15 +297,8 @@ Además, nuestra solución automatiza el cálculo de salarios, bonificaciones, d
 
 # 1.2. Solution Profile
 
-EduSpace fue diseñado para lograr una gestión integral y eficiente de los espacios educativos en
-instituciones con grandes infraestructuras. Sin embargo, hemos observado que el producto no está
-cumpliendo plenamente con estos objetivos, lo que está causando desafíos en la coordinación de personal
-y en la comunicación entre miembros de la institución. Para mejorar EduSpace y asegurar que
-nuestros clientes tengan más éxito, debemos enfocar nuestros esfuerzos en optimizar la coordinación
-de personal mediante funciones más intuitivas, integrar herramientas de
-comunicación más efectivas, perfeccionar el cálculo de salarios e inventarios para mayor
-precisión y transparencia, y automatizar la notificación de averías para una rápida resolución.
-Al abordar estas áreas, estaríamos asegurando un entorno educativo eficiente y bien administrado.
+EduSpace es una startup que optimiza la gestión de espacios educativos en universidades, colegios, institutos, y otras instituciones. Para obtener más informacion necesaria para la realizacion de nuestra startup, nos basamos en la teoria de  5 ‘W’s y 2 ‘H’s, con las preguntas,Who, What, Where, When, Why, How & How Much. Asi pues, se podra mostrar los resultados a continuacion:
+
 
 ## 1.2.1. Antecedentes y Problemática
 
@@ -329,29 +322,21 @@ para mantener la eficiencia y evitar errores
 
 - ### _WHERE?_
 
-La problemática ocurre en instituciones educativas
-con grandes infraestructuras tales como escuelas, universidades,
-centros de formación técnica y otras instituciones de educación superior.
-En estos entornos, la gestión de numerosos espacios, equipos y personal se vuelve compleja,
-requiriendo coordinación efectiva para asegurar su funcionamiento.
+La problemática de la eficiencia en el uso de los espacios educativos ocurriría dentro de instituciones como universidades, colegios, institutos, y otras organizaciones educativas .Estos espacios incluyen aulas, laboratorios, bibliotecas, áreas deportivas, y salas comunes. En estos entornos, la gestión y coordinación diaria se complica debido a la dispersión de recursos y la falta de un sistema centralizado. Esta situación afecta la comunicación entre los empleados, desde docentes hasta personal administrativo y de mantenimiento, y provoca retrasos en la toma de decisiones y dificultades para notificar cambios o incidencias, impactando negativamente en la operación y eficiencia de la institución
 
 - ### _WHY?_
 
-Nuestra solución ofrece una medida centralizada y automatizada
-que facilita la coordinación del personal, mejora la comunicación y
-optimiza la administración de recursos. Así pues, se distingue por su
-enfoque integral que no solo gestiona aulas y equipos, sino que también
-automatiza cálculos salariales, controla inventarios con valoraciones contables,
-y proporciona notificaciones en tiempo real sobre cambios y averías
+El problema de la eficiencia en el uso de los espacios educativos ocurre debido a la falta de integración y automatización en la gestión de múltiples áreas dentro de instituciones, como universidades, colegios e institutos. La dependencia de sistemas desintegrados o métodos manuales genera una comunicación deficiente entre departamentos, retrasos en la toma de decisiones, y dificultades para reasignar responsabilidades o notificar incidencias. Este problema se puede solucionar mediante la implementación de una aplicación centralizada como EduSpace, que ofrece un registro detallado y automatizado de cada espacio educativo y del personal asociado, facilitando la coordinación y comunicación interna, optimizando el uso de los recursos disponibles, y mejorando la eficiencia operativa de la institución.
+
 
 - ### _WHO?_
 
 En la problemática abordada por la solución,
-los involucrados incluyen a docentes, personal de limpieza,
+los involucrados incluyen a docentes, personal administrativo,
 y otros miembros del equipo de una institución educativa.
 Esto se debe a que los trabajadores interactúan con la aplicación
-para mejorar la comunicación con sus supervisores, gestionar sus tareas diarias,
-y acceder a la información necesaria para realizar su trabajo de manera eficiente.
+para la separacion de aulas, planificacion de clases, solicitud de
+recursos adicionales, entre otras tareas.
 
 - ### _HOW?_
 
@@ -377,24 +362,16 @@ de espacios, personal y recursos.
 
 ### 1.2.2.1. LEAN UX PROBLEM STATEMENT
 
-Las instituciones educativas con grandes infraestructuras enfrentan
-desafíos significativos en la gestión de sus espacios y personal.
-A pesar de que EduSpace se diseñó para abordar estos problemas,
-la solución actual no está satisfaciendo completamente las necesidades de
-coordinación y comunicación de sus usuarios.
+Nuestro servicio fue diseñado para archivar y gestionar de manera eficiente los espacios educativos en instituciones pequeñas o grandes, como universidades, colegios e institutos. Hemos observado que el producto tiene algunos fallos, como la falta de integración entre módulos, problemas de comunicación interna, y dificultades en la reasignación de recursos en tiempo real. Estos fallos son causados por la dependencia de sistemas desintegrados y métodos manuales que no permiten un seguimiento preciso. Aun así, con todo lo anterior, el producto puede seguir mejorando al implementar soluciones que optimicen la coordinación, automatización y comunicación dentro de las instituciones educativas.
 
 ##### **a. DOMAIN**
 
-El dominio es la gestión de espacios educativos en instituciones
-con grandes infraestructuras. EduSpace se centra en mejorar la eficiencia
-y organización en la administración de aulas, ambientes deportivos, personal y recursos.
+EduSpace se centra en la gestión integral y eficiente de espacios educativos en instituciones de todos los tamaños. Está diseñado para mejorar la administración de aulas, ambientes deportivos, personal y recursos.
 
 
 ##### **b. CUSTOMER SEGMENTS**
 
-Instituciones educativas con grandes infraestructuras,
-como universidades y colegios, que necesitan gestionar
-múltiples espacios y personal de manera eficiente.
+EduSpace atiende a instituciones educativas con infraestructuras de diversos tamaños, desde pequeñas hasta grandes, como universidades y colegios, que requieren una gestión eficiente de múltiples espacios y personal.
 
 ##### **c. PAIN POINTS**
 
@@ -405,19 +382,15 @@ múltiples espacios y personal de manera eficiente.
 
 ##### **d. GAP**
 
-La falta de una solución integrada que centralice la gestión de espacios, personal y recursos,
-automatice procesos administrativos y mejore la comunicación interna.
+Existe la necesidad de una solución integrada que centralice la gestión de espacios, personal y recursos, automatice procesos administrativos y mejore la comunicación interna. Actualmente, EduSpace esta en proceso de cumplir con estos objetivos, asu asi se tiene algunos incovenientes en la coordinación del personal y la comunicación dentro de las instituciones.
 
 ##### **e. VISION/STRATEGY**
 
-EduSpace busca ofrecer una plataforma integral que facilite la gestión eficiente de
-espacios educativos, automatice tareas administrativas, y mejore la comunicación y coordinación
-del personal, contribuyendo a una operación más organizada y menos costosa.
+EduSpace busca ofrecer una plataforma integral que facilite la gestión eficiente de espacios educativos, automatice tareas administrativas y mejore la comunicación y coordinación del personal. Al abordar las brechas identificadas, EduSpace contribuirá a una operación más organizada y rentable.
 
 ##### **f. INITIAL SEGMENT**
 
-Las grandes instituciones educativas enfrentan problemas de coordinación de espacios
-y administración de personal, que buscan una solución digital para optimizar estos procesos.
+Las grandes instituciones educativas que enfrentan problemas en la coordinación de espacios y la administración de personal están buscando una solución digital para optimizar estos procesos. EduSpace fue diseñado para abordar estas necesidades, pero requiere mejoras adicionales para cumplir plenamente con sus objetivos.
 
 
 #### 1.2.2.2. Lean UX  Assumptions
