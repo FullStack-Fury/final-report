@@ -443,7 +443,7 @@ Norma busca en una herramienta de gestión características como facilidad de us
 *Distrito:* Huamanga
 
 
-![](../../assets/interview1a.PNG)
+![](../../assets/teacher-interview-1.JPG)
 
 *Minuto de inicio de la entrevista:* xxxx
 
@@ -471,7 +471,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-![](../../assets/entrevista2a.PNG)
+![](../../assets/teacher-interview-2.JPG)
 
 
 #### Resumen de la entrevista:
