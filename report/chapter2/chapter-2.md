@@ -440,6 +440,7 @@ En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recurs
 ### 2.3.3.USER JOURNEY MAPPING
 
 - User jorney mapping: Administrador
+
   ![](/assets/End-to-end journey_Michael_Sanchez.png)
 
 ### 2.3.5 As-is Scenario Mapping
