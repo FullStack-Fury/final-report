@@ -389,6 +389,40 @@ En cuanto a habilidades, Esaú se destaca en liderazgo, planificación, organiza
 
 Esaú busca en las herramientas de gestión características adicionales como integración con otros sistemas, análisis detallados y reportes. También sugiere que la gestión de ambientes deportivos y personal podría beneficiarse de la implementación de tecnologías emergentes y un sistema más ágil y flexible. Finalmente, Esaú destaca la necesidad de mejorar la gestión administrativa con un software que apoye eficient
 
+### Entrevista 03
+
+*Nombres:* Norma Elvira
+
+*Apellidos:* Navarro Pinedo
+
+*Edad:* 54 años
+
+*Distrito:* Villa María del Triunfo
+
+*Segmento objetivo:* Administradores
+
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/norma.PNG?token=GHSAT0AAAAAACWGYYFKOMAGHT4BQNZPNQ3KZWRKEQA)
+
+#### Resumen de la entrevista:
+Norma Elvira Navarro Pinedo, de 54 años, es la promotora de la Institución Educativa Santa María del Camino en Villa María del Triunfo, donde ha trabajado durante 10 años. Norma desempeña múltiples roles dentro de la institución, incluyendo la gestión de infraestructura, el apoyo a los aprendizajes de los estudiantes y la supervisión del personal docente. Su equipo está compuesto por 10 personas, que incluyen personal administrativo, de mantenimiento, y coordinadores de los tres niveles de educación.
+
+En cuanto a la gestión de recursos, Norma menciona que la revisión del inventario, especialmente de recursos tecnológicos, se realiza cada 3 a 6 meses. Además, utiliza dispositivos como PCs, tablets y celulares para sus tareas diarias, con Google Chrome como su navegador preferido. Aunque actualmente no cuenta con un software específico para la gestión, planea implementar uno en el próximo año.
+
+Norma destaca sus habilidades en manejo de conflictos, prevención de violencia, y creación de un clima laboral positivo. Su principal objetivo es mejorar los aprendizajes de los estudiantes, promoviendo un enfoque lúdico y basado en la investigación científica. También se enfoca en la capacitación constante del personal docente para asegurar un alto nivel de calidad educativa.
+
+Entre los desafíos que enfrenta, Norma menciona la gestión del comportamiento de los estudiantes, especialmente en primaria y secundaria, debido a la falta de tiempo de calidad por parte de los padres. Además, encuentra frustrante la falta de preparación de algunos profesores en el uso de herramientas tecnológicas, lo que complica la implementación de nuevas metodologías de enseñanza.
+
+Norma busca en una herramienta de gestión características como facilidad de uso, buenas instrucciones, y capacidad para integrarse en el entorno educativo, permitiendo una mayor eficiencia en su trabajo. También expresa interés en evolucionar el sistema actual para mejorar la infraestructura deportiva, viendo en el deporte un medio crucial para el desarrollo integral de los estudiantes.
+
+*Minuto de inicio de la entrevista:* 9:06
+
+*Minuto de fin de la entrevista:* 9:06
+
+*Duración de la entrevista:* 21:00
+
+*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 
 ##### Segmento 2: Docentes de instituciones educativas
 
