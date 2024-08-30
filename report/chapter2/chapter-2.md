@@ -392,30 +392,21 @@ Esaú busca en las herramientas de gestión características adicionales como in
 
 Este matriz organiza y visualiza las tareas que ambos User Personas realizan para cumplir con sus objetivos dentro de la institución. La matriz está diseñada para resaltar la frecuencia e importancia de cada tarea, proporcionando una visión clara de las responsabilidades y desafíos que enfrentan en su día a día. La identificación de estas tareas permite entender mejor las necesidades y expectativas de cada persona, lo cual es fundamental para el diseño de soluciones efectivas.
 
-| Tareas                                                      | Ana Ruiz(Docente) | Michael Sanchez(Administrador) |
-|-------------------------------------------------------------|-------------------|--------------------------------|
-| Planificacion de Clases                                     | Frecuencia: Alta  | Frecuencia: Baja               | 
-|                                                             | Importancia: Alta | Importancia: Baja              | 
-| Solicitud de Recursos Adicionales                           | Frecuencia: Media | Frecuencia: Baja               | 
-|                                                             | Importancia: Alta | Importancia: Media             |
-| Gestionar el personal a cargo de cada espacio               | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Registro de cambio de aula                                  | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Recepcion de Notificacion sobre cambios                     | Frecuencia: Alta  | Frecuencia: Alta               | 
-|                                                             | Importancia: Alta | Importancia: Alta              |
-| Administracion de Salarios                                  | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Gestion de Inventarios de Equipos                           | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Coordinacion de mantenimiento de equipos                    | Frecuencia: Baja  | Frecuencia: Alta               |
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Registro de los ambientes deportivos, y docente responsable | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Datos de trabajadores(Docentes, personal de limpieza, etc)  | Frecuencia: Baja  | Frecuencia: Alta               | 
-|                                                             | Importancia: Baja | Importancia: Alta              |
-| Verificacion y solicitud de cambios de aula                 | Frecuencia: Alta  | Frecuencia: Media              | 
-|                                                             | Importancia: Alta | Importancia: Baja              |
+|                                                             | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
+|-------------------------------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
+| **TAREAS**                                                  |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
+| Planificacion de Clases                                     |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Solicitud de Recursos Adicionales                           |       Media        |      Alta       |              Baja               |      Media      | 
+| Gestionar el personal a cargo de cada espacio               |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro de cambio de aula                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Recepcion de Notificacion sobre cambios                     |        Alta        |      Alta       |              Alta               |      Alta       | 
+| Administracion de Salarios                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Gestion de Inventarios de Equipos                           |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Coordinacion de mantenimiento de equipos                    |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro de los ambientes deportivos, y docente responsable |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Datos de trabajadores(Docentes, personal de limpieza, etc)  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Verificacion y solicitud de cambios de aula                 |        Alta        |      Alta       |              Media              |      Baja       | 
+
 
 
 ### Tareas con Mayor Frecuencia e Importancia
@@ -439,9 +430,13 @@ En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recurs
 
 ### 2.3.3.USER JOURNEY MAPPING
 
-- User jorney mapping: Administrador
+- User journey mapping: Docente
 
-  ![](/assets/End-to-end journey_Michael_Sanchez.png)
+![](/assets/Map_journey_AnaRuiz.png)
+
+- User journey mapping: Administrador
+
+![](/assets/Map_journey_Michael.png)
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Administrador
