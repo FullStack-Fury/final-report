@@ -383,8 +383,9 @@ Esaú busca en las herramientas de gestión características adicionales como in
 ## 2.3.NEEDFINDING
 
 ### 2.3.1.USER PERSONAS
+- User Persona Docente
 ![](/assets/Ana Ruiz-Userpersona.png)
-
+- User Persona Administrador
 ![](/assets/Michael Sanchez-User persona.png)
 
 ### 2.3.2 USER TASK MATRIX
@@ -438,7 +439,8 @@ En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recurs
 
 ### 2.3.3.USER JOURNEY MAPPING
 
-
+- User jorney mapping: Administrador
+  ![](/assets/End-to-end journey_Michael_Sanchez.png)
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Administrador
