@@ -436,6 +436,9 @@ Ambos roles dependen de recibir notificaciones oportunas para poder realizar aju
 
 En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recursos y coordinación de actividades, Michael Sanchez maneja aspectos financieros y de inventario cruciales para la operación institucional. Las tareas y prioridades reflejan sus respectivas responsabilidades y cómo cada uno contribuye al funcionamiento eficiente de la institución.
 
+### 2.3.3.USER JOURNEY MAPPING
+
+
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Administrador
