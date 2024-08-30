@@ -430,8 +430,7 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 *Duración de las entrevistas :* xxxxxxxx
 
-*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/EaOeO0exZXVHq2Ch6i5ylvoBY115MGuowJeCiB1mkpjfKA?e=OhwFOR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### *Entrevista 01*
 
 *Nombres:* Maria Soledad
