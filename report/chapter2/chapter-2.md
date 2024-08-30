@@ -486,6 +486,64 @@ XXXXXXXXXXXXXXXXXXXXXXXX
 *Link de la entrevista:* xxxxxxxxxxx
 
 
+## 2.3.NEEDFINDING
+
+### 2.3.1.USER PERSONAS
+- User Persona Docente
+![](/assets/Ana Ruiz-Userpersona.png)
+- User Persona Administrador
+![](/assets/Michael Sanchez-User persona.png)
+
+### 2.3.2 USER TASK MATRIX
+
+Este matriz organiza y visualiza las tareas que ambos User Personas realizan para cumplir con sus objetivos dentro de la institución. La matriz está diseñada para resaltar la frecuencia e importancia de cada tarea, proporcionando una visión clara de las responsabilidades y desafíos que enfrentan en su día a día. La identificación de estas tareas permite entender mejor las necesidades y expectativas de cada persona, lo cual es fundamental para el diseño de soluciones efectivas.
+
+|                                                             | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
+|-------------------------------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
+| **TAREAS**                                                  |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
+| Planificacion de Clases                                     |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Solicitud de Recursos Adicionales                           |       Media        |      Alta       |              Baja               |      Media      | 
+| Gestionar el personal a cargo de cada espacio               |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro de cambio de aula                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Recepcion de Notificacion sobre cambios                     |        Alta        |      Alta       |              Alta               |      Alta       | 
+| Administracion de Salarios                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Gestion de Inventarios de Equipos                           |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Coordinacion de mantenimiento de equipos                    |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro de los ambientes deportivos, y docente responsable |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Datos de trabajadores(Docentes, personal de limpieza, etc)  |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Verificacion y solicitud de cambios de aula                 |        Alta        |      Alta       |              Media              |      Baja       | 
+
+
+
+### Tareas con Mayor Frecuencia e Importancia
+
+#### **Recepción de Notificaciones sobre Cambios:**
+- Ana Ruiz: Alta frecuencia e importancia. Ana necesita estar constantemente al tanto de cualquier cambio en la asignación de aulas y recursos para poder ajustar sus planes y coordinar con otros docentes.
+- Michael Sanchez: Alta frecuencia e importancia. Javier debe recibir notificaciones sobre problemas con los equipos y estado del inventario para gestionar la administración y mantenimiento eficientemente.
+#### **Verificación y Solicitud de Cambios en Aulas:**
+- Ana Ruiz: Alta frecuencia e importancia. Ana verifica la disponibilidad de aulas regularmente y solicita cambios según sea necesario para su planificación de clases.
+- Michael Sanchez: Baja frecuencia y media importancia. Aunque no realiza estas tareas con frecuencia, debe estar informado para coordinar con otros departamentos.
+### Tareas con Diferencias Significativas
+#### **Gestión del Inventario de Equipos y Coordinación de Mantenimiento:**
+- Michael Sanchez: Alta frecuencia e importancia. Javier supervisa el inventario y la coordinación del mantenimiento, asegurando que los recursos estén disponibles y funcionando correctamente.
+- Ana Ruiz: Baja frecuencia e importancia. Ana no gestiona directamente el inventario ni coordina el mantenimiento, aunque se beneficia indirectamente de la disponibilidad de los equipos.
+## Coincidencias
+#### **Recepción de Notificaciones sobre Cambios:**
+Ambos roles dependen de recibir notificaciones oportunas para poder realizar ajustes necesarios en sus respectivos ámbitos de trabajo.
+
+
+En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recursos y coordinación de actividades, Michael Sanchez maneja aspectos financieros y de inventario cruciales para la operación institucional. Las tareas y prioridades reflejan sus respectivas responsabilidades y cómo cada uno contribuye al funcionamiento eficiente de la institución.
+
+### 2.3.3.USER JOURNEY MAPPING
+
+- User journey mapping: Docente
+
+![](/assets/Map_journey_AnaRuiz.png)
+
+- User journey mapping: Administrador
+
+![](/assets/Map_journey_Michael.png)
+
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Administrador
