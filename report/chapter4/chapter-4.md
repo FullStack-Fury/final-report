@@ -68,9 +68,217 @@ También utilizaremos un sistema de categorización matricial para la gestión d
 Como equipo, hemos optado por incorporar el patrón de diseño en forma de Z en nuestro sitio web. Esta técnica de diseño web es altamente efectiva para mejorar la experiencia del usuario, guiando su atención hacia los elementos clave y potenciando la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda, asegurándonos de que sea lo primero que llame la atención del usuario. Justo enfrente, en la esquina superior derecha, ubicamos la barra de navegación, acompañada de un llamado a la acción destacado.
 
 ## 4.2. Information Architecture.
+
+En base a nuestra aplicación, hemos decidido que nuestro diseño y organización visual será jerárquico, para que los usuarios puedan distinguir claramente la importancia de cada funcionalidad de la app. Al mismo tiempo, utilizamos un sistema moderno y sencillo para atraer a los usuarios.
+
 ### 4.2.1. Organization Systems.
+
+**Landing Page**
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;"> 
+    <tr> 
+        <th>Tópico</th> 
+        <th>Descripción</th>   
+    </tr> 
+    <tr> 
+        <td>Home</td> 
+        <td>La página de inicio muestra una vista general del servicio y destaca las características clave de EduSpace.</td> 
+    </tr> 
+    <tr> 
+        <td>About Us</td> 
+        <td>En esta sección, EduSpace explica nuestro compromiso con la gestión eficiente de espacios educativos. También proporcionamos ejemplos de la información detallada que la app web ofrece, como el control de inventario, la automatización de cálculos salariales, y la organización de recursos.</td> 
+    </tr> 
+    <tr> 
+        <td>Packages</td> 
+        <td>La página ofrece una descripción detallada de los planes disponibles: un plan para pequeñas infraestructuras y un plan premium para grandes infraestructuras, destacando las funcionalidades avanzadas de cada uno.</td> 
+    </tr>  
+    <tr> 
+        <td>Contact</td> 
+        <td>Esta sección proporciona información de contacto para soporte y consultas</td>
+    </tr> 
+    <tr> 
+        <td>Sign In</td> 
+        <td>La página para que el usuario ingrese a su cuenta. Aquí se solicitan las credenciales de inicio de sesión y se ofrece la opción de recuperar la contraseña en caso de olvido.</td> 
+    </tr> 
+    <tr>   
+        <td>Sign Up</td> 
+        <td>La página para que el usuario se registre en EduSpace. Incluye un formulario para ingresar información básica como nombre, correo electrónico y contraseña, así como la opción de aceptar los términos y condiciones del servicio.</td> 
+    </tr> 
+</table>
+
+**App web**
+
+App Web
+
+* Tabla de Organización para Administradores
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th>Feature</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>Página principal con un resumen de datos clave, como informes recientes, estado de espacios, y notificaciones urgentes.</td>
+  </tr>
+  <tr>
+    <td>Registro de Ambientes</td>
+    <td>Registro de espacios deportivos, aulas y otros ambientes, incluyendo detalles como el equipamiento y el docente responsable.</td>
+  </tr>
+  <tr>
+    <td>Gestión de Cambios de Aula y Reuniones</td>
+    <td>Permite gestionar y registrar cambios de aula o reuniones, notificando a los docentes y otros usuarios afectados.</td>
+  </tr>
+  <tr>
+    <td>Gestión de Datos de Trabajadores</td>
+    <td>Acceso y administración de la información de docentes, personal de limpieza y otros trabajadores, incluyendo datos personales y profesionales.</td>
+  </tr>
+  <tr>
+    <td>Gestión del Personal a Cargo</td>
+    <td>Asignación y reasignación de personal responsable de cada espacio, con opciones para reasignar en caso de ausencias.</td>
+  </tr>
+  <tr>
+    <td>Automatización de Cálculos Salariales</td>
+    <td>Automatización del cálculo de salarios, incluyendo bonificaciones, descuentos, y retenciones, con opción para visualizar y modificar registros.</td>
+  </tr>
+  <tr>
+    <td>Notificaciones</td>
+    <td>Sistema de notificaciones que alerta sobre cambios en los espacios, reportes pendientes, y actualizaciones importantes.</td>
+  </tr>
+  <tr>
+    <td>Perfil</td>
+    <td>Acceso a la información personal y profesional del administrador, con opciones para editar datos y visualizar historial de salarios y bonificaciones.</td>
+  </tr>
+  <tr>
+    <td>Cerrar Sesión</td>
+    <td>Opción para cerrar sesión de manera segura.</td>
+  </tr>
+</table>
+
+* Tabla de Organización para Docentes
+
+<h3>Tabla de Organización para Docentes</h3>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Feature</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>Página principal con un resumen de tareas, notificaciones, y un calendario de actividades asignadas.</td>
+  </tr>
+  <tr>
+    <td>Notificaciones de Cambios de Aula o Reuniones</td>
+    <td>Alertas sobre cambios de aula o reuniones, incluyendo detalles del nuevo espacio, hora y participantes.</td>
+  </tr>
+  <tr>
+    <td>Reserva de Espacios Deportivos y Ambientes</td>
+    <td>Sistema para reservar espacios deportivos y ambientes compartidos, con información sobre disponibilidad y reglas de uso.</td>
+  </tr>
+  <tr>
+    <td>Reporte de Averías en Equipos</td>
+    <td>Herramienta para reportar averías o problemas con equipos o recursos del ambiente, con seguimiento del estado de resolución.</td>
+  </tr>
+  <tr>
+    <td>Visualización de Salarios y Bonificaciones</td>
+    <td>Acceso a la información sobre salarios, bonificaciones, descuentos y retenciones, con un historial de pagos recibidos.</td>
+  </tr>
+  <tr>
+    <td>Visualización de Espacios Disponibles</td>
+    <td>Consulta de los espacios libres, ocupados y sus fechas de disponibilidad, facilitando la planificación de actividades.</td>
+  </tr>
+  <tr>
+    <td>Perfil</td>
+    <td>Información personal y profesional del docente, con opciones para editar datos y visualizar historial de salarios y otras compensaciones.</td>
+  </tr>
+  <tr>
+    <td>Cerrar Sesión</td>
+    <td>Opción para cerrar sesión de manera segura.</td>
+  </tr>
+</table>
+
 ### 4.2.2. Labeling Systems.
+
+En esta sección, se explica las estrategias empleadas para etiquetar y organizar la información dentro de la plataforma wev EduSpace, buscando mantener la simplicidad y evitar la confusión para los visitantes y usuarios. Las etiquetas se diseñan para ser claras y concisas, utilizando el mínimo número de palabras necesario para representar eficazmente los conjuntos de información y sus asociaciones.
+
+Principios de Etiquetado:
+
+- Claridad: Cada etiqueta debe ser fácilmente comprensible por todos los usuarios, independientemente de su rol (administrador o docente).
+- Consistencia: Se mantiene un lenguaje uniforme en todas las secciones de la aplicación para evitar confusión.
+- Brevedad: Las etiquetas se formulan con el menor número de palabras posibles sin perder claridad o precisión.
+
+Etiquetas para Administradores:
+
+- Home: Resumen y acceso rápido a funciones clave.
+- Environments and Equipment: Registro y gestión de ambientes (aulas, deportivos, etc.).
+- Classroom Changes and Meetings: Administración de cambios de aulas o reuniones.
+- Personal Data: Gestión de datos y roles de trabajadores.
+- Personnel Management: Asignación y reasignación de personal responsable de cada espacio. 
+- Salary Calculation: Automatización y visualización de cálculos salariales.
+- Notifications: Alertas y actualizaciones importantes.
+- Profile: Información personal y profesional del administrador.
+- Log Out: Opción para cerrar sesión.
+
+Etiquetas para Docentes:
+
+- Home: Resumen de tareas y calendario de actividades.
+- Notifications: Notificaciones sobre cambios de aula o reuniones.
+- Reservations: Reserva de espacios deportivos y aulas.
+- Breakdown Reports: Reporte de averías en equipos o recursos.
+- Wages: Visualización de salarios y bonificaciones.
+- Availability: Consulta de espacios disponibles y ocupados.
+- Profile: Información personal y profesional del docente.
+- Log Out: Opción para cerrar sesión.
+
+
+Estas etiquetas están diseñadas para facilitar la navegación y comprensión de la plataforma, asegurando que los usuarios puedan acceder rápidamente a las funciones que necesitan, sin tener que interpretar términos complicados o ambiguos. La simplicidad en el etiquetado también ayuda a minimizar el tiempo de aprendizaje y maximiza la eficiencia en el uso de la aplicación.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda
+
+- Title: 
+
+<div style="text-align: center;">
+
+```html
+<title>EduSpace</title>
+```
+
+</div>
+
+- Meta Description: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="description" content="Platform that simplifies the management of educational infrastructures."/>
+```
+
+</div>
+
+
+- Meta Keyboard: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="keywords" content="Management, platform, optimization, automation, coordination, inventory, reservation, infrastructure, communication"/>
+```
+
+</div>
+
+- Meta Author: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="author" content="Los ProDevs"/>
+<meta name="copyright" content="Copyright EduSpace team" />
+```
+
+</div>
+
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
