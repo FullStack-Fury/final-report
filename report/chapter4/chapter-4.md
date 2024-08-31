@@ -157,7 +157,6 @@ App Web
 
 * Tabla de Organización para Docentes
 
-<h3>Tabla de Organización para Docentes</h3>
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <th>Feature</th>
