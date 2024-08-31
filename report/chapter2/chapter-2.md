@@ -74,7 +74,7 @@ a los de EduSpace.
   <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado objetivo</td>
-    <td>Instituciones educativas con grandes infraestructuras que buscan optimizar la 
+    <td>Instituciones educativas con grandes y pequeñas infraestructuras que buscan optimizar la 
       gestión de sus espacios y recursos.</td>
     <td>Grandes empresas e instituciones que buscan centralizar la gestión de sus 
       instalaciones con un enfoque en sostenibilidad.</td>
@@ -85,7 +85,7 @@ a los de EduSpace.
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
-    <td>Marketing dirigido a administradores de grandes instituciones educativas, destacando 
+    <td>Marketing dirigido a administradores de grandes y de pequeñas instituciones educativas, destacando 
       la eficiencia y el control exhaustivo de recursos.</td>
     <td>Enfoque en la sostenibilidad y la eficiencia, con campañas dirigidas a administradores 
       de instalaciones y responsables de sostenibilidad.</td>
@@ -119,7 +119,7 @@ a los de EduSpace.
   </tr>
   <tr>
     <td>Canales de distribución (Web y/o Móvil)</td>
-    <td>Plataforma web como mobile</td>
+    <td>Plataforma web</td>
     <td>Plataforma web con soporte para aplicaciones móviles y monitoreo en tiempo real.</td>
     <td>Plataforma web con una interfaz accesible desde dispositivos móviles.</td>
     <td>Plataforma web con soluciones móviles para acceso y gestión remota.</td>
