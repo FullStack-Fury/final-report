@@ -544,6 +544,18 @@ En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recurs
 
 ![](/assets/Map_journey_Michael.png)
 
+### 2.3.4 Empathy Mapping.
+
+En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
+
+
+ **Segmento 1: Administrador**
+![](../../assets/Michael Sanchez-e.png)
+
+**Segmento 2: Docente**
+![](../../assets/Ana.png)
+
+
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Administrador
