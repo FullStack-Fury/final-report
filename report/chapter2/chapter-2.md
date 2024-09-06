@@ -428,7 +428,7 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 *Inicio de las entrevistas :* 00:00
 
-*Duración de las entrevistas :* xxxxxxxx
+*Duración de las entrevistas :* 26:51
 
 *Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/EaOeO0exZXVHq2Ch6i5ylvoBY115MGuowJeCiB1mkpjfKA?e=OhwFOR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### *Entrevista 01*
@@ -444,11 +444,11 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 ![](../../assets/teacher-interview-1.JPG)
 
-*Minuto de inicio de la entrevista:* xxxx
+*Minuto de inicio de la entrevista:* 00:00
 
-*Minuto de fin de la entrevista:* xxxx
+*Minuto de fin de la entrevista:* 12:30
 
-*Duración de la entrevista:* xxxxx
+*Duración de la entrevista:* 12:30
 
 #### Resumen de la entrevista:
 
@@ -477,13 +477,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 XXXXXXXXXXXXXXXXXXXXXXXX
 
-*Minuto de inicio de la entrevista:* xx
+*Minuto de inicio de la entrevista:* 12:44
 
-*Minuto de fin de la entrevista:* xxx
+*Minuto de fin de la entrevista:* 19:40
 
-*Duración de la entrevista:* xx
-
-*Link de la entrevista:* xxxxxxxxxxx
+*Duración de la entrevista:* 7:04
 
 
 ## 2.3.NEEDFINDING
