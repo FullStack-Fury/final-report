@@ -536,11 +536,11 @@ En resumen, mientras que Ana Ruiz se enfoca más en la gestión de aulas, recurs
 
 - User journey mapping: Docente
 
-![](/assets/Map_journey_AnaRuiz.png)
+![](../../assets/Map_journey_AnaRuiz.png)
 
 - User journey mapping: Administrador
 
-![](/assets/Map_journey_Michael.png)
+![](../../assets/Map_journey_Michael.png)
 
 ### 2.3.4 Empathy Mapping.
 
