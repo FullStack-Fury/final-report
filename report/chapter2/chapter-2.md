@@ -488,9 +488,9 @@ XXXXXXXXXXXXXXXXXXXXXXXX
 
 ### 2.3.1.USER PERSONAS
 - User Persona Docente
-![](/assets/Ana Ruiz-Userpersona.png)
+!![](../../assets/Ana%20Ruiz-Userpersona.png)
 - User Persona Administrador
-![](/assets/Michael Sanchez-User persona.png)
+  ![](../../assets/Michael%20Sanchez-User%20persona.png)
 
 ### 2.3.2 USER TASK MATRIX
 
@@ -548,7 +548,7 @@ En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivo
 
 
  **Segmento 1: Administrador**
-![](../../assets/Michael Sanchez-e.png)
+![](../../assets/Michael%20Sanchez-e.png)
 
 **Segmento 2: Docente**
 ![](../../assets/Ana.png)
