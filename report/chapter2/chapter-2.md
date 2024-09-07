@@ -602,7 +602,7 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
    <br>
    <br>
-5. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
    usuario dentro de la aplicación.
 
    Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
