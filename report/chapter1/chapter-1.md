@@ -396,32 +396,97 @@ Las grandes instituciones educativas que enfrentan problemas en la coordinación
 #### 1.2.2.2. Lean UX  Assumptions
 
 ##### Business Assumptions
-- Las características de nuestra aplicación serán suficientes para satisfacer las necesidades de nuestros clientes.
-- Nuestros clientes serán administradores de instituciones educativas y el personal que trabaja en dichas instituciones.
-- Nuestros clientes estarán dispuestos a pagar de acuerdo con el plan de suscripción que elijan.
-- Generaremos ingresos a través de la venta de planes de suscripción a nuestras clientes.
+    
+- **Creemos que nuestros clientes tienen la necesidad de:** gestionar de manera eficiente la información y procesos administrativos en instituciones educativas.
+
+- **Estas necesidades se pueden satisfacer con:** una aplicación web diseñada específicamente para instituciones educativas, que facilite la administración de estudiantes, personal, recursos y pagos.
+
+- **Nuestros clientes iniciales son (o serán):** docentes de instituciones educativas y personal administrativo que buscan optimizar sus procesos.
+
+- **El valor principal que un cliente quiere obtener de nuestro servicio es:** eficiencia operativa y una mejor gestión de recursos educativos.
+
+- **Los clientes también pueden obtener estos beneficios adicionales:** mejora en la coordinación del personal y reducción de errores en la gestión de datos.
+
+- **Adquiriremos a la mayoría de nuestros clientes a través de:** campañas de marketing digital, demostraciones en línea y referencias de clientes existentes.
+
+- **Ganaremos dinero mediante:** la venta de planes de suscripción adaptados a las necesidades de las instituciones educativas.
+
+- **Nuestra competencia principal en el mercado será:** otras plataformas de gestión educativa que no ofrecen una solución integral o específica para instituciones educativas.
+
+- **Les superaremos debido a:** nuestro enfoque especializado en instituciones educativas y nuestra capacidad para ofrecer una solución completa que abarque todas sus necesidades administrativas.
+
+- **El mayor riesgo para nuestro producto es:** que las instituciones educativas no perciban un valor claro en la adopción de una nueva plataforma o que el plan de suscripción no se ajuste a sus necesidades.
+
+
 ##### Business Outcomes Assumptions
 
-- El tener una interfaz facil de usar y que visualmente sea atractiva lograra que menos del 10% de los usuarios dejen de usar la aplicación.
-- Al permitir que los usuarios puedan gestionar los espacios de su centro educativo y
-  automatizar la gestion del calculo de salarios de manera eficiente, seremos recomendados por nuestros clientes.
-- Ofrecer la aplicación en múltiples idiomas incrementará la base de usuarios.
+- **Desarrollo de una Comunidad Especializada:** Una interfaz fácil de usar y visualmente atractiva permitirá que menos del 10% de los usuarios abandonen la aplicación después de usarla durante el primer mes. Esto fomentará una tasa de retención del 90%, ayudando a crear una comunidad activa en torno a la plataforma.
+
+- **Generación de Ingresos Sostenibles:** Al permitir que el 50% de los usuarios gestionen los espacios de su centro educativo y automatizar el cálculo de salarios de manera eficiente, se espera que al menos el 30% de nuestros clientes nos recomienden a otras instituciones dentro de los primeros seis meses. Estas recomendaciones impulsarán un crecimiento orgánico de un 20% en la base de clientes en el primer año.
+
+- **Expansión de la Base de Usuarios:** Ofrecer la aplicación en múltiples idiomas incrementará la base de usuarios en un 25% en los primeros seis meses, permitiendo que más instituciones educativas de diferentes regiones utilicen la plataforma y contribuyendo a un crecimiento anual del 15%.
 ##### User Assumptions
-- Nuestros usuarios necesitan una aplicación para mejorar la gestión de sus espacios y la comunicación entre sus trabajadores.
-- Los usuarios necesitan que la aplicacion se adapte a diferentes dispositivos para poder acceder a ella en cualquier momento.
-- A los usuarios les gustaria poder tener un registro de los ambientes, equipos y recursos de su centro educativo.
-- Los usuarios necesitan comunicarse con sus trabajadores de manera eficiente, y los trabajadores necesitan tener acceso a la informacion de manera rapida.
+- ¿Quién es el usuario?
+
+  - Los usuarios son administradores y personal de centros educativos que necesitan mejorar la gestión de espacios y la comunicación interna.
+
+- ¿Dónde encaja nuestro producto en su trabajo o vida?
+
+  - El producto se adapta al trabajo diario de los usuarios, facilitando la gestión de ambientes, equipos y recursos del centro educativo, y mejorando la comunicación entre el personal.
+
+- ¿Qué problemas resuelve nuestro producto?
+
+  - Resuelve la falta de una gestión centralizada de los espacios y recursos, y optimiza la comunicación entre trabajadores.
+
+- ¿Cuándo y cómo se utiliza nuestro producto?
+
+  - Se utiliza diariamente para gestionar ambientes y recursos del centro educativo, y para facilitar la comunicación interna entre los trabajadores.
+
+- ¿Qué características son importantes?
+
+  - Adaptabilidad a diferentes dispositivos para un acceso en cualquier momento, registro de los ambientes y recursos del centro, y una comunicación eficiente y rápida con el personal.
+
+- ¿Cómo debería verse y comportarse nuestro producto?
+
+  - Debe ser intuitivo, con un diseño responsivo que funcione en diversos dispositivos y que permita un acceso rápido y eficiente a la información necesaria para la gestión y comunicación interna.
+
+- El valor principal que un usuario quiere obtener de nuestra funcionalidad es:
+
+  - Mejora en la gestión de los espacios y recursos, junto con una comunicación más eficiente entre los trabajadores.
+
+- Los usuarios también pueden obtener estos beneficios adicionales:
+
+  - Acceso rápido a la información en cualquier momento y desde cualquier dispositivo.
+
+- El mayor riesgo para el usuario es:
+
+  - Que la aplicación no se adapte correctamente a diferentes dispositivos o que no facilite la comunicación interna como se espera.
 ##### User Outcomes Assumptions
-- Al implementar un sistema de notificaciones, los usuarios podran estar al tanto de los eventos y cambios en la aplicacion.
-- Si la interfaz es intuitiva y facil de usar, el tiempo de familiarizacion de los usuarios se reducirá.
-- Si la aplicacion introduce funciones para hacer un registro del inventario de equipos y recursos, los usuarios
-  podran tener un mejor control de los recursos de su centro educativo y aumentar su productividad.
+- Acceso a Notificaciones y Actualizaciones:
+
+  - Al implementar un sistema de notificaciones, se espera que el 80% de los usuarios reciban y respondan a los eventos y cambios importantes en la aplicación dentro de las primeras 24 horas. Esto mejorará su capacidad de gestionar tareas en tiempo real, optimizando su productividad en un 15%.
+
+- Reducción del Tiempo de Familiarización:
+
+  - Una interfaz intuitiva y fácil de usar reducirá el tiempo de familiarización de los usuarios en un 30%, permitiendo que al menos el 90% de ellos dominen las funcionalidades básicas en menos de una semana sin necesidad de capacitaciones adicionales.
+
+- Mejora en el Control de Inventarios:
+
+  - Con la introducción de funciones para registrar y gestionar el inventario de equipos y recursos, se espera que los usuarios logren un aumento del 25% en el control y monitoreo de sus recursos. Esto resultará en una mejora de la productividad en un 20%, al optimizar el uso de los recursos disponibles en los centros educativos.##### Feature Assumptions
+
 ##### Feature Assumptions
-- Si implementes una caracteristica que permita registrar los ambientes deportivos, y el equipamento de los mismos,
-  los usuarios podran tener un mejor control de los recursos.
-- Al implementar la gestion de personal a cargo de cada espacio conseguiremos que los usuarios puedan tener un mejor control de los espacios
-  y aumentar su productividad.
-- Al implementar una caracteristica que permita automatizar el calculo de salarios, los usuarios podran ahorrar tiempo al realizar esta tarea.
+- Acceso a Notificaciones y Actualizaciones:
+
+  - Sistema de Notificaciones en Tiempo Real: Implementar una funcionalidad que envíe notificaciones automáticas sobre eventos importantes y cambios en la aplicación, permitiendo a los usuarios reaccionar rápidamente. Esto ayudará a que el 80% de los usuarios estén al tanto de las actualizaciones dentro de las primeras 24 horas.
+
+- Reducción del Tiempo de Familiarización:
+
+  - Interfaz Intuitiva y Fácil de Usar: Desarrollar una interfaz que sea simple e intuitiva, reduciendo el tiempo de aprendizaje en un 30%. Se espera que el 90% de los usuarios puedan dominar las funciones principales en menos de una semana sin necesidad de capacitación adicional.
+
+- Mejora en el Control de Inventarios:
+
+  - Gestión de Inventarios de Recursos: Crear una funcionalidad que permita a los usuarios registrar y gestionar el inventario de equipos y recursos en su centro educativo. Esto incrementará el control y monitoreo de los recursos en un 25%, mejorando la productividad en un 20% al optimizar el uso de los mismos.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -431,9 +496,6 @@ Las grandes instituciones educativas que enfrentan problemas en la coordinación
   cuando sigamos teniendo la misma cantidad o mas de usuarios que en el primer mes.
 - Nosotros creemos que ofrecer la aplicación en múltiples idiomas incrementará la base de usuarios. Sabremos que es verdad cuando tengamos
   como minimo un 30% de usuarios de otros paises en el tercer mes.
-- Nosotros creemos que al ofrecer una aplicacion intuitiva y facil de usar, la familiarizacion de los usuarios sera rapida. Sabremos
-  que es verdad
-- 
 #### 1.2.2.4 Lean UX Canvas
 
 ![Lean UX Canvas Template](https://github.com/user-attachments/assets/63fef9b5-7072-4bdd-b376-2a773e860f3b)
