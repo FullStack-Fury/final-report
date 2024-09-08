@@ -280,15 +280,62 @@ Las meta etiquetas nos permiten codificar y especificar metadatos en una página
 
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
+
+
 ## 4.3. Landing Page UI Design.
+
+EduSpace ha sido diseñado con un enfoque en la simplicidad, claridad y facilidad de navegación para el usuario. A continuación, se detalla cómo se han implementado las decisiones de diseño y la arquitectura de contenido para ofrecer una experiencia intuitiva y fluida a los usuarios.
+
 ### 4.3.1. Landing Page Wireframe.
+
+En esta sección se mostrará una representación de la landing page para Desktop Web Browser y Web Mobile Browser:
+
+**Landing Page para Desktop Web Browser:**
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/e7c861f3-781f-4dc2-bc7a-210a4762b4a0" alt="LP-desktop">
+</div>
+</br>
+
+**Web Mobile Browser**
+
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/016beaa8-5e38-4253-9c81-37a91eb1a3fc" alt="LP-webmobile">
+</div>
+</br>
+
 ### 4.3.2. Landing Page Mock-up.
+
+**Landing Page para Desktop Web Browser:**
+
+<br>
+<div style="text-align: center;">
+    <img src="" alt="LandingPage">
+</div>
+</br>
+
+**Web Mobile Browser**
+
+<br>
+<div style="text-align: center;">
+    <img src="" alt="LandingPage">
+</div>
+</br>
+
 ## 4.4. Web Applications UX/UI Design.
+
+
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
+
+
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagrams.
