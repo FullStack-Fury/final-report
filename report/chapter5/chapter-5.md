@@ -214,46 +214,38 @@ una de las tareas identificadas para el sprint.
 
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrolló fue la primera version del Landing Page, se implementaron las distintas secciones para conocer más sobre nuestra plataforma. Con ello completamos el primer sprint de implementación.
 
-| Repository                  | Branch | Commit Id | Commit Message | Commit message body | Committed on |
-|-----------------------------|--------|-----------|----------------|---------------------|--------------|
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
-
+| Repository | Branch | Commit Id | Commit Message | Commit message body | Committed on |
+|------------|--------|-----------|----------------|---------------------|--------------|
+| pro-devs-SI730/landing-page | main | 41170e | fix(html): header picture name modified | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 14c9fbc | feat: button for language added | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 7b28f6d | feat: spanish html added | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 4217571 | feat: button for i18n and styles added | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 4bd2f5a | Merge remote-tracking branch 'origin/develop' into ariana | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 47ee00e | fix(html): cards position fixed | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | e591222 | fix(landing-page): tools | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 832490d | feat(dashboard): dashboards added. | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | 870ef91 | feat(landing-page): tools | - | Sep 8, 2024  |
+| pro-devs-SI730/landing-page | main | ac9421c | fix(html): camila's section modified | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 6891dca | Merge remote-tracking branch 'origin/randel' into develop | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 8a62faa | feat(footer): added footer section. | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 14ae088 | feat(contact-us): added contact-us form section. | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 2f1f09e | feat(membership/customers): advance customers section in index.html, styles.css and main.js | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | bf43c8b | feat(css): About us styles | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 9cad35c | feat(css): about section finished | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | ea8503f | feat(css): all css | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 5f8a664 | fix(html): title of hero fixed | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 70e2564 | feat(html): footer, contactus and plan section added | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 71c8e7e | feat(html): abut section added | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 7592218 | feat(html): hero added | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 6b8c528 | feat(html): navbar styles added | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | 1d8c5db | feat(html): navbar added | - | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main | bea1a65 | chore: first commit | - | Sep 7, 2024  |
 
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Para la entrega de este primer Sprint se realizó el desarrollo de la Landing Page. Por ello, en esta sección se centro en la implementación de los archivos feature, basados en User Stories, que contiene nuestro landing page.
-
-| Repository                          | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|-------------------------------------|--------|-----------|----------------|---------------------|---------------------|
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
-| pro-devs-SI730/landing-page         |        |           |                |                     |                     |
+Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
