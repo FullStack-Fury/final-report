@@ -284,11 +284,11 @@ Las meta etiquetas nos permiten codificar y especificar metadatos en una página
 
 ## 4.3. Landing Page UI Design.
 
-EduSpace ha sido diseñado con un enfoque en la simplicidad, claridad y facilidad de navegación para el usuario. A continuación, se detalla cómo se han implementado las decisiones de diseño y la arquitectura de contenido para ofrecer una experiencia intuitiva y fluida a los usuarios.
+EduSpace ha sido diseñado con un enfoque en la simplicidad, claridad y facilidad de navegación para el usuario. A continuación, se detalla cómo se han implementado las decisiones de diseño y la arquitectura de contenido para ofrecer una experiencia intuitiva y fluida a los usuarios: https://www.figma.com/design/Q3cqQ43xjgSDNbMcEt9jFp/Untitled?node-id=0-1&t=Emd2juyWQeysGjnS-1 
 
 ### 4.3.1. Landing Page Wireframe.
 
-En esta sección se mostrará una representación de la landing page para Desktop Web Browser y Web Mobile Browser:
+En esta sección se mostrará una representación de la landing page para Desktop Web Browser y Web Mobile Browser
 
 **Landing Page para Desktop Web Browser:**
 <br>
@@ -307,11 +307,13 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 ### 4.3.2. Landing Page Mock-up.
 
+En esta sección se presentará una representación de la landing page tanto para Desktop Web Browser y Web Mobile Browser
+
 **Landing Page para Desktop Web Browser:**
 
 <br>
 <div style="text-align: center;">
-    <img src="" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/776cf9ab-2347-4ca2-b9c4-1f5ff35f3ee7" alt="LandingPage">
 </div>
 </br>
 
@@ -319,16 +321,56 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 <br>
 <div style="text-align: center;">
-    <img src="" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/bd85d9ed-7d92-4e22-854b-3ec0c96f0de5" alt="LandingPage">
 </div>
 </br>
 
 ## 4.4. Web Applications UX/UI Design.
 
+El diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) de EduSpace ha sido desarrollado meticulosamente para ofrecer una plataforma eficiente y fácil de usar tanto para administradores como para docentes. En esta etapa, nos hemos centrado en asegurar una navegación intuitiva, mejorar la accesibilidad y organizar los elementos visuales de manera que simplifiquen la interacción con las múltiples funciones de la plataforma. La elaboración de mockups y wireframes se encuentra en el siguiente link: https://www.figma.com/design/Q3cqQ43xjgSDNbMcEt9jFp/Untitled?node-id=1-906&t=Emd2juyWQeysGjnS-1
 
 ### 4.4.1. Web Applications Wireframes.
+
+En esta sección se presentan los wireframes iniciales de la aplicación web de EduSpace, los cuales actúan como una referencia visual para la estructura y el diseño de los elementos en la interfaz. Estos prototipos brindan una visión detallada sobre la disposición de los componentes principales y las interacciones del usuario en distintas pantallas.
+
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/38e8e4eb-daac-4c71-9261-168969442799" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/59728800-39e0-470d-9850-1990d8c59d75" alt="Web App">
+</div>
+</br>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
+
+
+A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que ilustran el diseño visual detallado de las pantallas principales. Estos diseños reflejan la apariencia definitiva de las interfaces para los usuarios, incluyendo el proceso de registro e inicio de sesión, así como los paneles tanto para administradores como para docentes.
+
+**Sign Up and Sign In**
+
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d361d2dd-7a6c-46f1-bd61-1099bc82b459" alt="Web App">
+</div>
+</br>
+
+**Dashboard Admin**
+
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/057a4816-13e9-48fa-ab9b-bfb4e6792343" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/2e1c09f1-3107-4eb5-b8a1-ce30c0e2b38b" alt="Web App">
+</div>
+</br>
+
+**Dashboard Admin**
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/98214b30-34d2-4506-96bb-9811bed528a4" alt="Web App">
+</div>
+</br>
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 
