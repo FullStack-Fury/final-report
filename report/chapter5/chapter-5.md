@@ -160,55 +160,16 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.2. Sprint Backlog 1
 
-<table>
-<tr>
-    <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 1</th>
-  </tr>
-      <tr>
-    <td colspan="3">User Story</td>
-    <td colspan="10">Work-Item/Task</td>
-  </tr>
-  <tr>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
-    <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
-</tr>
-  <tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Añadir información relevante de la aplicación</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Franz, Gustavo, Camila, Ariana,Randel </td>
-    <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Franz</td>
-    <td colspan="1">Done</td>
-<tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Camila</td>
-    <td colspan="1">Done</td>
-</tr>
-</table>
+| User Story Id | User Story Title                                  | Work-Item/Task Id | Work-Item/Task Title                                    | Description                                                                                                  | Estimation | Assigned To | Status |
+|---------------|---------------------------------------------------|-------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------|-------------|--------|
+| US02          | Encontrar información del propósito de la aplicación | UT01              | Barra de tareas con principales propósitos               | Añadir una barra de tareas sencilla y que dirija a las secciones importantes del Landing page                 | 1          | Franz       | Done   |
+| US03          | Visualización de imágenes y gráficos relevantes    | UT02              | Añadir header con su imagen                              | Añadir el header con su imagen.                                                                               | 1          | Franz       | Done   |
+| US03          | Visualización de imágenes y gráficos relevantes    | UT03              | Añadir sección de características de la aplicación       | Añadir el dashboard de características de la aplicación de administrador y docente                            | 2          | Gustavo     | Done   |
+| US04          | Tipografía cómoda y agradable estéticamente        | UT04              | Añadir tipografía con colores verdes y amarillos         | Añadir tipografía que cumpla con lo mostrado en el prototipado                                                | 1          | Franz       | Done   |
+| US02          | Encontrar información del propósito de la aplicación | UT05              | Añadir las etiquetas tools                               | Añadir la información sobre las herramientas que proporciona nuestra aplicación.                              | 1          | Ariana      | Done   |
+| US01          | Accesibilidad de la aplicación en diferentes dispositivos | UT06              | Crear el diseño del responsive                           | Crear el responsive que garantice una visualización óptima en distintos dispositivos y tamaños de pantalla     | 1          | Camila      | Done   |
+| US03          | Visualización de imágenes y gráficos relevantes    | UT07              | Añadir la sección de planes                              | Crear una sección dedicada a dar información sobre los planes de servicio                                     | 1          | Camila      | Done   |
+| US02          | Encontrar información del propósito de la aplicación | UT08              | Añadir formulario                                        | Crear una sección dedicada para el Contact Us de la landing page                                              | 1          | Randel      | Done   |
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
