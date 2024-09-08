@@ -377,6 +377,7 @@ Entre los desafíos que enfrenta se encuentran la adaptación a los cambios en p
 
 *Duración de la entrevista:* 04:23
 
+
 *Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
