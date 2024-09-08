@@ -454,7 +454,9 @@ https://www.figma.com/proto/nLhruFv9tjQadbH3U4TwWg/Wireflow?node-id=2001-921&nod
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+![](assets/ContextDiagram.jpg)
 ### 4.6.2. Software Architecture Container Diagrams.
+![](assets/ContainerDiagram.jpg)
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
