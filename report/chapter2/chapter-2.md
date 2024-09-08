@@ -319,34 +319,34 @@ a los de EduSpace.
 
 ##### Segmento 1: Administradores de Instituciones Educativas
 
-*Inicio de las entrevistas :* 00:00
+Inicio de las entrevistas : 00:00
 
-*Duración de las entrevistas :* 9:06
+Duración de las entrevistas : 9:06
 
-*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-### *Entrevista 01*
+### Entrevista 01
 
-*Nombres:* Segunda Yolanda
+Nombres: Segunda Yolanda
 
-*Apellidos:* Navarro Pinedo
+Apellidos: Navarro Pinedo
 
-*Edad:* 55 años
+Edad: 55 años
 
-*Distrito:* Villa Maria del Triunfo
+Distrito: Villa Maria del Triunfo
 
-*Segmento objetivo:* Administradores
+Segmento objetivo: Administradores
 
 
 ![](../../assets/interview1a.PNG)
 
-*Minuto de inicio de la entrevista:* 0:00
+Minuto de inicio de la entrevista: 0:00
 
-*Minuto de fin de la entrevista:* 4:43
+Minuto de fin de la entrevista: 4:43
 
-*Duración de la entrevista:* 04:43
+Duración de la entrevista: 04:43
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 #### Resumen de la entrevista:
@@ -357,27 +357,28 @@ Yolanda destaca por sus habilidades en administración de recursos, planificaci�
 Entre los desafíos que enfrenta se encuentran la adaptación a los cambios en políticas educativas , que a menudo retrasa la toma de decisiones. Además, experimenta frustraciones relacionadas con la falta de recursos y apoyo. Yolanda busca en un software de administración características como facilidad de uso, integración con otros sistemas, análisis detallados y acceso móvil en las herramientas de gestión. Propone que el sistema actual evolucione para implementar tecnologías emergentes, fomentar la colaboración y desarrollar un sistema más ágil y flexible.
 
 
-### *Entrevista 02*
+### Entrevista 02
 
-*Nombres:* Esau Juan
+Nombres: Esau Juan
 
-*Apellidos:* Huanca Cabrera
+Apellidos: Huanca Cabrera
 
-*Edad:* 55 años
+Edad: 55 años
 
-*Distrito:* Villa Maria del Triunfo
+Distrito: Villa Maria del Triunfo
 
 
 
 ![](../../assets/entrevista2a.PNG)
 
-*Minuto de inicio de la entrevista:* 4:43
+Minuto de inicio de la entrevista: 4:43
 
-*Minuto de fin de la entrevista:* 9:06
+Minuto de fin de la entrevista: 9:06
 
-*Duración de la entrevista:* 04:23
+Duración de la entrevista: 04:23
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
 
@@ -391,25 +392,25 @@ Esaú busca en las herramientas de gestión características adicionales como in
 
 ### Entrevista 03
 
-*Nombres:* Norma Elvira
+Nombres: Norma Elvira
 
-*Apellidos:* Navarro Pinedo
+Apellidos: Navarro Pinedo
 
-*Edad:* 54 años
+Edad: 54 años
 
-*Distrito:* Villa María del Triunfo
+Distrito: Villa María del Triunfo
 
-*Segmento objetivo:* Administradores
+Segmento objetivo: Administradores
 
 ![](../../assets/entrevista3.PNG)
 
-*Minuto de inicio de la entrevista:* 9:06
+Minuto de inicio de la entrevista: 9:06
 
-*Minuto de fin de la entrevista:* 17:25
+Minuto de fin de la entrevista: 17:25
 
-*Duración de la entrevista:* 8:19
+Duración de la entrevista: 8:19
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
 Norma Elvira Navarro Pinedo, de 54 años, es la promotora de la Institución Educativa Santa María del Camino en Villa María del Triunfo, donde ha trabajado durante 10 años. Norma desempeña múltiples roles dentro de la institución, incluyendo la gestión de infraestructura, el apoyo a los aprendizajes de los estudiantes y la supervisión del personal docente. Su equipo está compuesto por 10 personas, que incluyen personal administrativo, de mantenimiento, y coordinadores de los tres niveles de educación.
@@ -424,50 +425,51 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 
 
-
 ##### Segmento 2: Docentes de instituciones educativas
 
-*Inicio de las entrevistas :* 00:00
+Inicio de las entrevistas : 00:00
 
-*Duración de las entrevistas :* 26:51
+Duración de las entrevistas : 26:51
 
-*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/EaOeO0exZXVHq2Ch6i5ylvoBY115MGuowJeCiB1mkpjfKA?e=OhwFOR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-### *Entrevista 01*
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/EaOeO0exZXVHq2Ch6i5ylvoBY115MGuowJeCiB1mkpjfKA?e=OhwFOR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-*Nombres:* Maria Soledad
+### Entrevista 01
 
-*Apellidos:* Baygorrea Paquiyauri
+Nombres: Maria Soledad
 
-*Edad:* 45 años
+Apellidos: Baygorrea Paquiyauri
 
-*Distrito:* Huamanga
+Edad: 45 años
+
+Distrito: Huamanga
 
 
 ![](../../assets/teacher-interview-1.JPG)
 
-*Minuto de inicio de la entrevista:* 00:00
+Minuto de inicio de la entrevista: 00:00
 
-*Minuto de fin de la entrevista:* 12:30
+Minuto de fin de la entrevista: 12:30
 
-*Duración de la entrevista:* 12:30
+Duración de la entrevista: 12:30
 
 #### Resumen de la entrevista:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Maria Baygorrea tiene 45 años y es de Ayacucho - Huamanga. Ella trabaja como docente
+en la Institución Educativa Mariscal Caceres '
 
 
 
-*Link de la entrevista:* 
+Link de la entrevista:
 
-### *Entrevista 02*
+### Entrevista 02
 
-*Nombres:* Karina
+Nombres: Karina
 
-*Apellidos:* Baygorrea Paquiyauri
+Apellidos: Baygorrea Paquiyauri
 
-*Edad:* 35 años
+Edad: 35 años
 
-*Distrito:* Huamanga
+Distrito: Huamanga
 
 
 
@@ -478,12 +480,37 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 XXXXXXXXXXXXXXXXXXXXXXXX
 
-*Minuto de inicio de la entrevista:* 12:44
+Minuto de inicio de la entrevista: 12:44
 
-*Minuto de fin de la entrevista:* 19:40
+Minuto de fin de la entrevista: 19:40
 
-*Duración de la entrevista:* 7:04
+Duración de la entrevista: 7:04
 
+### ENTREVISTA3
+
+Nombres: Rosa Elvira
+
+Apellidos: Loayza Bolaños
+
+Edad:47
+
+Distrito: Tacna
+
+Video:
+
+![Entrevista 3](../../assets/entrevistaDocenteRosaLoayza.png)
+
+Inicio: 9:10
+
+Duracion: 6:49 minutos
+
+Resumen:
+
+Rosa Loayza, de 47 años. Es Docente de una institución educativa local de la ciudad de Tacna, con experiencia laboral en docencia secundaria y superior de 12 años en el área de física. Muestra mucho interés por el aprendizaje continuo de sus estudiantes.
+
+Rosa utiliza principalmente laptop para su área de trabajo, y prefiere Google Chrome como navegador. Menciona el uso de áres comunes compartidos como laboratorios para el buen desempeño académico de sus alumnos y de enseñanza de parte de ella. Muestra cierta problemática dentro de la gestión de reserva de espacios comunes como los laboratorios tanto como una visualización rápida de sus horarios de clase actuales.
+
+Es por ello que muestra mucho interés en el desarrollo e implementación de nuestro producto y su sistema más ágil de gestión de recursos dentro de la institución educativa, menciona que le ayudaría mucho, agilizaría muchos tiempos de coordinación y tendría mejores resultados vistos dentro de las calificaciones de sus estudiantes.
 
 ## 2.3.NEEDFINDING
 
