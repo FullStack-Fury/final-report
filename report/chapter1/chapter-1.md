@@ -124,6 +124,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
           <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Escalante Baygorrea, Janiel Franz: Delegación de partes que trabajaria cada integrante, ayuda en temas de gitflow, conventional commits y corrección de errores.</li>
+          <li>Ariana Alehli, Huapaya Buitron: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe</li>
           <li></li>
         </ul> 
       </td>
@@ -140,7 +141,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>          
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
-          <li></li>
+          <li>Ariana Alehli, Huapaya Buitron: Asignacion de los User Personas, User Staks and User Journey Mapping </li>
           <li></li>
           <li></li>
         </ul>
