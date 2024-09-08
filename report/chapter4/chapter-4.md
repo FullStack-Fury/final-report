@@ -387,3 +387,4 @@ A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que i
 ### 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+![](../../assets/db.png)
