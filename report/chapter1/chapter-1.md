@@ -33,8 +33,8 @@ Grupo: 03
 |  Ventura Allasi, Randel Russell  | U201910669  |
 | Janiel Franz Escalante Baygorrea | U2019112668 |
 |  Huapaya Buitron, Ariana Alheli  | U201819645  |
-|   Camila Leonor, Espinoza Vivas  |  U202214572 |
-|                .                 |     U2      |
+|  Camila Leonor, Espinoza Vivas   | U202214572  |
+|   Huanca Navarro Gustavo Esau    | U202215285  |
 
 Agosto 2024
 
@@ -69,8 +69,8 @@ Agosto 2024
         <ul>
           <li>Ventura Allasi, Randel Russell</li>
           <li>Escalante Baygorrea, Janiel Franz</li>
-          <li>.</li>
-          <li>.</li>
+          <li>Huanca Navarro, Gustavo Esau</li>
+          <li>Espinoza Vivas, Camila Leonor</li>
           <li>.</li>
         </ul>
       </td>
@@ -121,9 +121,9 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
+          <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
+          <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Escalante Baygorrea, Janiel Franz: Delegación de partes que trabajaria cada integrante, ayuda en temas de gitflow, conventional commits y corrección de errores.</li>
-          <li></li>
-          <li></li>
           <li></li>
         </ul> 
       </td>
