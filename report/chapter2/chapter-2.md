@@ -346,7 +346,7 @@ a los de EduSpace.
 
 *Duración de la entrevista:* 04:43
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 #### Resumen de la entrevista:
@@ -377,7 +377,7 @@ Entre los desafíos que enfrenta se encuentran la adaptación a los cambios en p
 
 *Duración de la entrevista:* 04:23
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
 
@@ -401,7 +401,15 @@ Esaú busca en las herramientas de gestión características adicionales como in
 
 *Segmento objetivo:* Administradores
 
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/norma.PNG?token=GHSAT0AAAAAACWGYYFKOMAGHT4BQNZPNQ3KZWRKEQA)
+![](../../assets/entrevista3.PNG)
+
+*Minuto de inicio de la entrevista:* 9:06
+
+*Minuto de fin de la entrevista:* 17:25
+
+*Duración de la entrevista:* 8:19
+
+*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EY53acHUmgNHo_byFtqSCZIB9wJWuwtluKwuIVvvgOmXuQ?e=Qg6Jie&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
 Norma Elvira Navarro Pinedo, de 54 años, es la promotora de la Institución Educativa Santa María del Camino en Villa María del Triunfo, donde ha trabajado durante 10 años. Norma desempeña múltiples roles dentro de la institución, incluyendo la gestión de infraestructura, el apoyo a los aprendizajes de los estudiantes y la supervisión del personal docente. Su equipo está compuesto por 10 personas, que incluyen personal administrativo, de mantenimiento, y coordinadores de los tres niveles de educación.
@@ -414,13 +422,6 @@ Entre los desafíos que enfrenta, Norma menciona la gestión del comportamiento 
 
 Norma busca en una herramienta de gestión características como facilidad de uso, buenas instrucciones, y capacidad para integrarse en el entorno educativo, permitiendo una mayor eficiencia en su trabajo. También expresa interés en evolucionar el sistema actual para mejorar la infraestructura deportiva, viendo en el deporte un medio crucial para el desarrollo integral de los estudiantes.
 
-*Minuto de inicio de la entrevista:* 9:06
-
-*Minuto de fin de la entrevista:* 9:06
-
-*Duración de la entrevista:* 21:00
-
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/Eb3Aq-vjceFPuSs90_FGy-8BzsN8Sn2LiTuuBo9-XN1lDA?e=iIlmXl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
