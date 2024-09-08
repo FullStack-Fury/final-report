@@ -107,24 +107,17 @@ CSS: Entre las prácticas empleadas se menciona:
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
-Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con
-una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
-comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
 
-1. Crear una carpeta llamada "docs" para alojar el Landing Page.
-2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y
-   una carpeta llamada "img" que contenga las imágenes.
-3. Cargar los archivos al repositorio mediante un commit.
-4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
-5. Especificar la carpeta "docs" como la fuente de la página.
-6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
-   llevará al Landing Page desplegado
+Para el despliegue de nuestra Landing Page, empleamos GitHub Pages como herramienta de deployment. Creamos un repositorio en GitHub llamado "landing-page" donde alojamos todo el código de la página, realizando el despliegue directamente desde la rama "main". Esta integración permitió un proceso ágil y automatizado, asegurando que cualquier actualización en el código de la rama principal se reflejara inmediatamente en la página en producción.
+
+![](../../assets/Github_Repositorio.PNG)
+   
 
 ## GithubPages
 
-Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
-De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
-Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
+Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
+
+![](../../assets/Github_Pages.PNG)
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
@@ -288,13 +281,7 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Para el despliegue de la Landing Page, utilizamos la herramienta GitHub Pages para realizar el deployment. Creamos un repositorio en el cual almacenamos el código de nuestra Landing Page.
-
-![](../../assets/Github_Repositorio.PNG)
-
-Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web.
-
-![](../../assets/Github_Pages.PNG)
+![alt text](../../assets/screen-lp.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
