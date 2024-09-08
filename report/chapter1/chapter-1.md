@@ -71,7 +71,7 @@ Agosto 2024
           <li>Escalante Baygorrea, Janiel Franz</li>
           <li>Huanca Navarro, Gustavo Esau</li>
           <li>Espinoza Vivas, Camila Leonor</li>
-          <li>.</li>
+          <li>Huapaya Buitron, Ariana Alheli</li>
         </ul>
       </td>
       <td>
