@@ -122,7 +122,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
           <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
-          <li></li>
+          <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li></li>
           <li></li>
         </ul> 
@@ -140,7 +140,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>          
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Huanca Navarro, Gustavo Esau: Asistí regularmente a las reuniones de equipo, aporté en la planificación de tareas y ofrecí ayuda para cumplir con los objetivos de cada capítulo. Participé en la discusión de metas y proporcioné retroalimentación para mejorar el proceso de trabajo.</li>
-          <li></li>
+          <li>Camila Espinoza, Camila Leonor: Asistencia a las reuniones de equipo, ofreciendo apoyo constante a los miembros en diversas tareas. Contribuí en el desarrollo del contenido del informe y el Student Outcome. Además, brindé asistencia en la implementación y revisión del código para la landing page. </li>
           <li></li>
           <li></li>
         </ul>
