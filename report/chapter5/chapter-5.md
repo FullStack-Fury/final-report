@@ -156,7 +156,7 @@ una de las tareas identificadas para el sprint.
 | Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
 | Sum of Story Points             | 4 Story Points.                                                                                                                                                  |
 
-</table>
+
 
 ### 5.2.1.2. Sprint Backlog 1
 
