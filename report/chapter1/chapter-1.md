@@ -28,13 +28,13 @@ Producto:
 
 Grupo: 03
 
-|           Integrantes            |   Código    |
-|:--------------------------------:|:-----------:|
-|  Ventura Allasi, Randel Russell  | U201910669  |
-| Janiel Franz Escalante Baygorrea | U2019112668 |
-|  Huapaya Buitron, Ariana Alheli  | U201819645  |
-|   Camila Leonor, Espinoza Vivas  |  U202214572 |
-|                .                 |     U2      |
+|           Integrantes            |   Código   |
+|:--------------------------------:|:----------:|
+|  Ventura Allasi, Randel Russell  | U201910669 |
+| Janiel Franz Escalante Baygorrea | U201912668 |
+|  Huapaya Buitron, Ariana Alheli  | U201819645 |
+|   Camila Leonor, Espinoza Vivas  | U202214572 |
+|                .                 |     U2     |
 
 Agosto 2024
 
@@ -121,7 +121,7 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
-          <li></li>
+          <li>Escalante Baygorrea Janiel Franz: </li>
           <li></li>
           <li></li>
           <li></li>
@@ -139,7 +139,7 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>          
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
-          <li></li>
+          <li>Escalante Baygorrea Janiel Franz: </li>
           <li></li>
           <li></li>
           <li></li>
