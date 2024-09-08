@@ -1,5 +1,9 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+### Segmento: Administradores
+![](../../assets/to-be-admin.jpg)
+### Segmento: Docentes
+![](../../assets/to-be-teacher.jpg)
 ## 3.2. User Stories.
 
 **Users Stories**
