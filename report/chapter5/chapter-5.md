@@ -310,11 +310,11 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 
 Commits:
 
-![alt text](/assets/Insights.png)
+![alt text](../../assets/Insights.png)
 
 Analiticas de Colaboración:
 
-![alt text](/assets/AnaliticasLanding.png)
+![alt text](../../assets/AnaliticasLanding.png)
 
 # Conclusiones
 
