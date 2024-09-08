@@ -216,20 +216,20 @@ En esta sección se presentan los avances de implementación con relación a los
 
 | Repository                  | Branch | Commit Id | Commit Message | Commit message body | Committed on |
 |-----------------------------|--------|-----------|----------------|---------------------|--------------|
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master |           |                | -                   |              |
-| pro-devs-SI730/landing-page | master | bea1a65   | Initial commit | -                   | Sep 7, 2024  |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
+| pro-devs-SI730/landing-page | main   |           |                | -                   |              |
 
 
 
@@ -261,33 +261,34 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ed
 
 Sección de Inicio: Se implementó el Header y la página principal de nuestra Landing Page.
 
-![alt text](/assets/Landing1.png)
+![alt text](../../assets/Landing1.png)
 
-Sección de Aplicación: Se implementó la sección de la aplicación detallando el propósito de la misma.
+Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
 
-![alt text](/assets/Landing2.png)
+![alt text](../../assets/Landing2.png)
 
-Sección de Servicios: Se implementó la sección de los servicios ofrecidos.
+Sección Tools: Se implementó la sección de las herramientas ofrecidas.
 
-![alt text](/assets/Landing3.png)
+![alt text](../../assets/Landing3.png)
 
-![alt text](/assets/Landing4.png)
 
-Sección de Planes: Se implementó la sección de ver los tipos de suscripción.
+Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
 
-![alt text](/assets/Landing5.png)
+![alt text](../../assets/Landing5.png)
 
-Sección de Creadores: Se añadió la sección de información sobre los desarrolladores de la plataforma.
+![alt text](../../assets/Landing4.png)
 
-![alt text](/assets/Landing6.png)
+Sección de What our customers saying: Se añadió la sección de reseñas.
 
-Sección de About the Team: Se implementó la sección del About the Team
+![alt text](../../assets/Landing6.png)
 
-![alt text](/assets/Landing7.png)
+Sección Plans: Se implementó la sección de los planes disponibles
 
-Sección de About the Product: Se implementó la sección del About the Product
+![alt text](../../assets/Landing7.png)
 
-![alt text](/assets/Landing8.png)
+Sección Contact Us: Se implementó la sección que permite contactarnos
+
+![alt text](../../assets/Landing8.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
