@@ -33,8 +33,8 @@ Grupo: 03
 |  Ventura Allasi, Randel Russell  | U201910669  |
 | Janiel Franz Escalante Baygorrea | U2019112668 |
 |  Huapaya Buitron, Ariana Alheli  | U201819645  |
-|   Camila Leonor, Espinoza Vivas  |  U202214572 |
-|                .                 |     U2      |
+|  Camila Leonor, Espinoza Vivas   | U202214572  |
+|   Huanca Navarro Gustavo Esau    | U202215285  |
 
 Agosto 2024
 
@@ -69,7 +69,7 @@ Agosto 2024
         <ul>
           <li>Ventura Allasi, Randel Russell</li>
           <li>Escalante Baygorrea, Janiel Franz</li>
-          <li>.</li>
+          <li>Huanca Navarro, Gustavo Esau</li>
           <li>.</li>
           <li>.</li>
         </ul>
@@ -121,7 +121,7 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
-          <li></li>
+          <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
           <li></li>
           <li></li>
           <li></li>
@@ -139,7 +139,7 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>          
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
-          <li></li>
+          <li>Huanca Navarro, Gustavo Esau: Asistí regularmente a las reuniones de equipo, aporté en la planificación de tareas y ofrecí ayuda para cumplir con los objetivos de cada capítulo. Participé en la discusión de metas y proporcioné retroalimentación para mejorar el proceso de trabajo.</li>
           <li></li>
           <li></li>
           <li></li>
