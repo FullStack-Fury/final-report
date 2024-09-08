@@ -453,7 +453,8 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 #### Resumen de la entrevista:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Maria Baygorrea tiene 45 años y es de Ayacucho - Huamanga. Ella trabaja como docente
+en la Institución Educativa Mariscal Caceres '
 
 
 
