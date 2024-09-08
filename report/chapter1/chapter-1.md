@@ -70,7 +70,7 @@ Agosto 2024
           <li>Ventura Allasi, Randel Russell</li>
           <li>Escalante Baygorrea, Janiel Franz</li>
           <li>Huanca Navarro, Gustavo Esau</li>
-          <li>.</li>
+          <li>Espinoza Vivas, Camila Leonor</li>
           <li>.</li>
         </ul>
       </td>
