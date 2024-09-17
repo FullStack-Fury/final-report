@@ -401,7 +401,8 @@ Esaú busca en las herramientas de gestión características adicionales como in
 
 *Segmento objetivo:* Administradores
 
-![](../../assets/entrevista3.PNG)
+
+![](../../assets/entrevista3a.PNG)
 
 *Minuto de inicio de la entrevista:* 9:06
 
