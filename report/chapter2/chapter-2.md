@@ -485,7 +485,7 @@ en la Institución Educativa Mariscal Caceres '
 
 *Distrito:* Tacna
 
-![Entrevista 3](../../assets/entrevistaDocenteRosaLoayza.png)
+![Entrevista 3](../../assets/EntrevistaDocenteRosaLoayza.png)
 
 Inicio: 9:10
 
