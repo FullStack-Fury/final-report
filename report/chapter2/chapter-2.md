@@ -475,15 +475,29 @@ en la Institución Educativa Mariscal Caceres '
 ![](../../assets/teacher-interview-2.JPG)
 
 
-#### Resumen de la entrevista:
+### *ENTREVISTA3*
 
-XXXXXXXXXXXXXXXXXXXXXXXX
+*Nombres:* Rosa Elvira
 
-*Minuto de inicio de la entrevista:* 12:44
+*Apellidos:* Loayza Bolaños
 
-*Minuto de fin de la entrevista:* 19:40
+*Edad:* 47
 
-*Duración de la entrevista:* 7:04
+*Distrito:* Tacna
+
+![Entrevista 3](../../assets/entrevistaDocenteRosaLoayza.png)
+
+Inicio: 9:10
+
+Duracion: 6:49 minutos
+
+Resumen:
+
+Rosa Loayza, de 47 años. Es Docente de una institución educativa local de la ciudad de Tacna, con experiencia laboral en docencia secundaria y superior de 12 años en el área de física. Muestra mucho interés por el aprendizaje continuo de sus estudiantes.
+
+Rosa utiliza principalmente laptop para su área de trabajo, y prefiere Google Chrome como navegador. Menciona el uso de áres comunes compartidos como laboratorios para el buen desempeño académico de sus alumnos y de enseñanza de parte de ella. Muestra cierta problemática dentro de la gestión de reserva de espacios comunes como los laboratorios tanto como una visualización rápida de sus horarios de clase actuales.
+
+Es por ello que muestra mucho interés en el desarrollo e implementación de nuestro producto y su sistema más ágil de gestión de recursos dentro de la institución educativa, menciona que le ayudaría mucho, agilizaría muchos tiempos de coordinación y tendría mejores resultados vistos dentro de las calificaciones de sus estudiantes.
 
 # 2.2.3 Análisis de entrevistas
 
