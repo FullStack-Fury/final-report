@@ -499,7 +499,7 @@ Las grandes instituciones educativas que enfrentan problemas en la coordinación
   como minimo un 30% de usuarios de otros paises en el tercer mes.
 #### 1.2.2.4 Lean UX Canvas
 
-![Lean UX Canvas Template](https://github.com/user-attachments/assets/63fef9b5-7072-4bdd-b376-2a773e860f3b)
+![Lean UX Canvas Template](https://github.com/user-attachments/assets/b0bd67bc-152a-40aa-8a84-cae501584851)
 
 ## 1.3. Segmentos Objetivos
 
