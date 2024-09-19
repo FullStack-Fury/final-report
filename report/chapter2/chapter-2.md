@@ -489,8 +489,8 @@ XXXXXXXXXXXXXXXXXXXXXXXX
 ## 2.3.NEEDFINDING
 
 ### 2.3.1.USER PERSONAS
-- User Persona Docente
-!![](../../assets/Ana%20Ruiz-Userpersona.png)
+- User Persona Docente:
+![](../../assets/Ana%20Ruiz-Userpersona.png)
 - User Persona Administrador
   ![](../../assets/Michael%20Sanchez-User%20persona.png)
 
