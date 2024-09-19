@@ -454,7 +454,13 @@ Norma busca en una herramienta de gestión características como facilidad de us
 
 #### Resumen de la entrevista:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+María Baigorrea Paquillauri, de 46 años, es docente en un colegio de Ayacucho y cuenta con 14 años de experiencia en el nivel inicial. Enseña diversas áreas curriculares, incluyendo comunicación, matemática, ciencia y tecnología, arte y religión. Utiliza recursos como pizarras interactivas, tabletas y papelógrafos en su aula, aunque enfrenta problemas técnicos con frecuencia.
+
+María gestiona su trabajo principalmente a través de su celular y laptop, utilizando WhatsApp para comunicarse con el director y otros docentes. Sin embargo, carece de un sistema digital para gestionar reservas de espacios, reportar averías o solicitar permisos, lo que le causa demoras y complicaciones en su labor.
+
+Considera crucial la comunicación efectiva y el uso de tecnologías modernas para optimizar la gestión de recursos y espacios. Aunque no tiene objetivos específicos en cuanto a la cantidad de recursos, busca aprovechar al máximo lo que tiene, a pesar de la falta de personal especializado. Entre los desafíos que enfrenta, destaca la coordinación verbal con otros docentes para el uso de espacios compartidos, como el patio.
+
+María expresa su deseo de contar con una herramienta tecnológica que facilite la gestión educativa, mejorando así su labor docente y la experiencia de aprendizaje de sus estudiantes.
 
 
 
@@ -477,7 +483,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #### Resumen de la entrevista:
 
-XXXXXXXXXXXXXXXXXXXXXXXX
+Karina Baygorrea Paquiyauri, docente de inicial en Huamanga, se especializa en los cursos de Comunicación, Matemática y Ciencia y Ambiente. Utiliza medios verbales y WhatsApp para comunicarse con los padres y gestionar solicitudes. En su aula, emplea material audiovisual, papelotes y un televisor, y en caso de avería del televisor, debe solicitar asistencia técnica a través de los padres de familia.
+
+Karina utiliza su laptop principalmente para reuniones de interaprendizaje con otros docentes, dado que la institución carece de una aplicación propia y acceso a internet. La organización de la reserva de espacios se realiza mediante reuniones entre las maestras para crear un cronograma que evite conflictos, y cualquier cambio se comunica por WhatsApp o verbalmente.
+
+Entre sus habilidades destacan la comunicación efectiva y la colaboración con colegas. Karina enfrenta desafíos relacionados con la falta de tecnología en la institución, lo que limita su capacidad para gestionar recursos y espacios de manera más eficiente. Su objetivo es optimizar la enseñanza a pesar de estas limitaciones, buscando siempre mejorar la experiencia educativa de sus estudiantes.
 
 *Minuto de inicio de la entrevista:* 12:44
 
