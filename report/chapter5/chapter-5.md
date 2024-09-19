@@ -44,18 +44,25 @@ Software Development
 
  <br>
 
-Software Deployment
-1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
+5. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
    accederán a través de la línea de comandos en sus sistemas locales.
 
-   Ruta de referencia: https://git-scm.com/
-   <br>
-   <br>
-   Software Documentation and Project Management
-2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
+Ruta de referencia: https://git-scm.com/
+<br>
+<br>
+Software Documentation and Project Management
+6. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
    tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
 
    Ruta de referencia: https://github.com/
+
+<br>
+
+Software Deployment
+
+1. Github Pages: GitHub Pages es un servicio de alojamiento web que permite a los usuarios crear y publicar sitios web estáticos directamente desde sus repositorios de GitHub. Es especialmente útil para proyectos personales, portafolios, documentación de proyectos o blogs.
+
+Ruta de referencia: https://pages.github.com/
 
 
 ### 5.1.2. Source Code Management.
