@@ -496,6 +496,50 @@ Entre sus habilidades destacan la comunicación efectiva y la colaboración con 
 *Duración de la entrevista:* 7:04
 
 
+### ENTREVISTA3
+
+Nombres: Rosa Elvira
+
+Apellidos: Loayza Bolaños
+
+Edad:47
+
+Distrito: Tacna
+
+Video:
+
+![](../../assets/EntrevistaDocenteRosaLoayza.png)
+
+Inicio: 9:10
+
+Duracion: 6:49 minutos
+
+Resumen:
+
+<div align="justify">
+Rosa Loayza, de 47 años. Es Docente de una institución educativa local de la ciudad de Tacna, con experiencia laboral en docencia secundaria y superior de 12 años en el área de física. Muestra mucho interés por el aprendizaje continuo de sus estudiantes.
+<br>
+Rosa utiliza principalmente laptop para su área de trabajo, y prefiere Google Chrome como navegador. Menciona el uso de áres comunes compartidos como laboratorios para el buen desempeño académico de sus alumnos y de enseñanza de parte de ella. Muestra cierta problemática dentro de la gestión de reserva de espacios comunes como los laboratorios tanto como una visualización rápida de sus horarios de clase actuales.
+
+Es por ello que muestra mucho interés en el desarrollo e implementación de nuestro producto y su sistema más ágil de gestión de recursos dentro de la institución educativa, menciona que le ayudaría mucho, agilizaría muchos tiempos de coordinación y tendría mejores resultados vistos dentro de las calificaciones de sus estudiantes.
+</div>
+
+# 2.2.3 Análisis de entrevistas
+
+<p align="justify">
+<h4>Análisis del segmento Docentes</h4>
+Por un lado, el 100% de los entrevistados tiene una edad superior a 30 años, de los cúales el 66.6% se encuentra entre los 35 y 50 años de edad. Asimismo, un 100% de los entrevistados considera un proceso tedioso el tener que realizar los registros de espacios compartidos, algunos lo hacen presencialmente y otros no disponen de las 24 horas del día para el acceso al registro. Por otro lado, el 100% de los entrevistados nos habló que su medio de comunicación para hacer este registro es a través de WhatsApp para hacerlo manualmente, en el cuál comunican los registros de reserva de espacios educativos a los administradores y demás responsables de gestión. A su vez, el 100% cuenta con más de 2 años y medio de experiencia en educación, de los cuáles el 66.6% cuenta con más de 5 años de experiencia usando medios tecnológicos en su desempeño laboral. De igual
+manera, el 100% de los entrevistados mencionan que los registros se hacen diarios y cada uno ellos maneja diferentes horas según su área. Por otra parte, la totalidad de los entrevistas afirman que ocurrieron errores en el registro de los datos, ya sea
+que alguien se olvidó de hacerlo o que al hacer el registro puede haber un fallo al trasladar los datos al papel. Igualmente, el 33.3% considera que un problema sería la capacitación del personal de adminsitración, a lo cuál podemos añadir que un 33% parecía costarle entender las preguntas y la solución propuesta. El 100% de los entrevistados asegura utilizar Google Chrome como principal navegador. Finalmente el 100% de los entrevistados considera que hacer el seguimiento al registro de las áreas comunes de la institución en cualquier momento del día y hacer un registro y/o edición de la reserva de estos mismos ampliaría tanto su desempeño laboral como el rendimiento de los estudiantes de la institución.
+
+<h4>Análisis del segmento Administradores de Instituciones Educativas</h4>
+Por un lado, el 100% de los administradores tiene una edad superior a 36 años, de los cuales el 40% se encuentra entre los 40 y 50 años de edad. Asimismo, un 100% de los administradores considera un proceso tedioso el tener que gestionar la administración de recursos, finanzas, recursos humanos y espacios comunes de la institución educativa, la mayoría lo hace en registros word y excel en bases de datos locales de la institución y no disponen de las 24 horas del día para el acceso al registro. Por otro lado, el 100% de los administradores indicó que su medio de comunicación para hacer este registro es a través de WhatsApp, Teams y Meet, en el cual se comunican los registros de la administración y gestión de la IIEE. A su vez, el 100% de los administradores cuenta con más de 8 años y medio de experiencia en adminsitración y gestión educativa, de los cuales el 66% tiene más de 6 años de experiencia utilizando medios tecnológicos en su trabajo. De igual manera, el 100% de los administradores mencionan que los registros se hacen diariamente, y cada uno maneja diferentes horarios según su área. Por otra parte, la totalidad de los administradores afirma que han ocurrido errores en el registro de datos, ya sea porque alguien se olvidó de hacerlo o porque al registrar puede haber fallos al transferir los datos al papel. Asimismo, el 33.3% considera que un problema sería la capacitación del personal administrativo, y se puede añadir que a un 33% le pareció incómodo solo poder trabajar desde la base de datos de su institución. El 100% de los administradores asegura utilizar Google Chrome como su navegador principal. Finalmente, el 100% considera que poder hacer el seguimiento y registro de los espacios comunes de la institución en cualquier momento del día, así como registrar y/o editar las reservas, ampliaría tanto su eficiencia administrativa como el rendimiento general de la institución.
+
+</p>
+<p align="justify">En conclusión, los entrevistados destacan la necesidad de simplificar y agilizar el proceso de registrar, visualizar y editar reservas de aulas y espacios abiertos en común de la institución educativa. En ambas situaciones, los entrevistados utilizan métodos tradicionales como documentos físicos, base de datos locales o documentos de Google con poco tiempo de alcance de visualización para llevar un registro de las reservas y espacios abiertos de la institución, enfrentan desafíos como la demora en el proceso, olvidos de los registros o pérdida de estos mismos. Sin embargo, muestran disposición para adoptar nuestras soluciones que faciliten esta tarea. En este contexto, EduSpace emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, registro en tiempo real, visualización de estos mismos en cualquier momento del día y la conexión y comunicación directa con los supervisores, administradores y/o directores de la IIEE. Nuestra aplicación muestra el potencial de simplificar estos procesos tanto para ayudar a nuestros usuarios docentes y administradores de la institución educativa usuaria, ayudando a la IIEE a gestionar de manera más efectiva su administración completa e íntegra dentro de un solo espacio, EduSpace.</p>
+
+<p> </p>
+
 ## 2.3.NEEDFINDING
 
 ### 2.3.1.USER PERSONAS
