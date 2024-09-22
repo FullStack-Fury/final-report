@@ -302,6 +302,158 @@ Analiticas de Colaboración:
 
 ![alt text](../../assets/AnaliticasLanding.png)
 
+
+
+
+
+
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 1
+
+Para este segundo sprint
+
+
+| Sprint #                        | Sprint 2                                                                             |
+|---------------------------------|--------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                      |
+| Date                            | 22/09/2024                                                                           |
+| Time                            | 06:00 PM                                                                             |
+| Location                        | Servidor de Discord del Equipo                                                       |
+| Prepared By                     | Franz Escalante                                                                      |
+| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya |
+| Sprint 1 Review Summary         |                                                                                      |
+| Sprint 1 Retrospective Summary  |                                                                                      |
+| Sprint Goal & User Stories      |
+| Sprint 1 Goal                   |                                                                                      |
+| Sprint 1 Velocity               | 4 Velocity                                                                           |
+| Sum of Story Points             | 4 Story Points.                                                                      |
+
+
+
+### 5.2.2.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+</table>
+
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. 
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit message body | Committed on |
+|------------|--------|-----------|----------------|---------------------|--------------|
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |        |           |                |                     |              |
+|            |
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega de este primer Sprint no se realizo testeo de la landing page.
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para este segundo entregable, hemos elaborado el front-end del proyecto de "EduSpace". 
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En el presente sprint solo se desarrollo la Landing Page.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+
+Analiticas de Colaboración:
+
+
+
+
+
+
+
+
+
+
+
 # Conclusiones
 
 
