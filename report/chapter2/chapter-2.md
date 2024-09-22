@@ -508,7 +508,7 @@ Distrito: Tacna
 
 Video:
 
-![Entrevista 3](../../assets/entrevistaDocenteRosaLoayza.png)
+![](../../assets/entrevistaDocenteRosaLoayza.png)
 
 Inicio: 9:10
 
