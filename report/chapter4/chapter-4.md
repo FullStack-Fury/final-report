@@ -454,10 +454,58 @@ https://www.figma.com/proto/nLhruFv9tjQadbH3U4TwWg/Wireflow?node-id=2001-921&nod
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![](assets/ContextDiagram.jpg)
+<div>
+  El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software EduSpace, los usuarios, y otros sistemas externos.
+</div>
+<div align="justify">
+  <br>
+
+  ![](../../assets/structurizrC4SystemContext.png)
+</div>
+
 ### 4.6.2. Software Architecture Container Diagrams.
-![](assets/ContainerDiagram.jpg)
+
+<div>
+  El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones, fuentes de datos, y construcción de la Aplicación Web EduSpace.
+</div>
+<br>
+<div align="justify">
+
+  ![](../../assets/structurizrC4ContainersContext.png)
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
+<div>
+  Los diagramas de componentes muestra una vista de las relaciones de los componentes principales de la Aplicación, estos se detallan a nivel de implementación de los respectivos módulos del programa.
+</div>
+<div align="justify">
+
+  <h4>Identity and Access Management Bounded Context</h4>
+  
+  ![](assets/)
+
+  <h4>Teacher Management Bounded Context</h4>
+  
+  ![](../../assets/structurizrC4ComponentTeacherManagement.png)
+
+  <h4>Payroll Management Bounded Context</h4>
+  
+  ![](../../assets/structurizrC4ComponentPayroll.png)
+
+  <h4>Reservation Scheduling Management Bounded Context</h4>
+  
+  ![](../../assets/structurizrC4ComponentResevationScheduling.png)
+
+  <h4>Spaces and Resources Management Bounded Context</h4>
+  
+  ![](../../assets/structurizrC4ComponentSpacesAndResourcesManagement.png)
+
+  <h4>Breakdown Management Bounded Context</h4>
+  
+  ![](../../assets/structurizC4ComponentBreakdown.png)
+</div>
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
