@@ -33,8 +33,8 @@ Grupo: 03
 |  Ventura Allasi, Randel Russell  | U201910669  |
 | Janiel Franz Escalante Baygorrea | U2019112668 |
 |  Huapaya Buitron, Ariana Alheli  | U201819645  |
-|   Camila Leonor, Espinoza Vivas  |  U202214572 |
-|                .                 |     U2      |
+|  Camila Leonor, Espinoza Vivas   | U202214572  |
+|   Huanca Navarro Gustavo Esau    | U202215285  |
 
 Agosto 2024
 
@@ -69,9 +69,9 @@ Agosto 2024
         <ul>
           <li>Ventura Allasi, Randel Russell</li>
           <li>Escalante Baygorrea, Janiel Franz</li>
-          <li>.</li>
-          <li>.</li>
-          <li>.</li>
+          <li>Huanca Navarro, Gustavo Esau</li>
+          <li>Espinoza Vivas, Camila Leonor</li>
+          <li>Huapaya Buitron, Ariana Alheli</li>
         </ul>
       </td>
       <td>
@@ -121,9 +121,10 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
+          <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
+          <li>Escalante Baygorrea, Janiel Franz: Delegación de partes que trabajaria cada integrante, ayuda en temas de gitflow, conventional commits y corrección de errores.</li>
+          <li>Ariana Alehli, Huapaya Buitron: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe</li>
           <li></li>
         </ul> 
       </td>
@@ -139,8 +140,8 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>          
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
-          <li></li>
-          <li></li>
+          <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
+          <li>Ariana Alehli, Huapaya Buitron: Asignacion de los User Personas, User Staks and User Journey Mapping </li>
           <li></li>
           <li></li>
         </ul>
@@ -290,9 +291,9 @@ Además, nuestra solución automatiza el cálculo de salarios, bonificaciones, d
 |----------------------------------|----------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![ ](../../assets/gustavo.png)   | Huanca Navarro, Gutavo Esau      | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades |
 | ![ ](../../assets/franz.png)     | Escalante Baygorrea,Janiel Franz | U201912668           | Ingenieria de Software | Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar                                                                                                    |
-| <img src="https://github.com/user-attachments/assets/2a5188a5-e379-4f3d-923c-34c853b02878" alt="logo-NutriSend" width="500"/>  | Espinoza Vivas, Camila Leonor    | U202214572           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
+| <img src="https://github.com/user-attachments/assets/2a5188a5-e379-4f3d-923c-34c853b02878" alt="logo-NutriSend" width="500"/>  | Espinoza Vivas, Camila Leonor    | U202214572           | Ingenieria de Software | Soy Camila Espinoza, estudiante de Ingeniería de Software. Soy una persona responsable, dedicada y perfeccionista. Para este proyecto cuento con conocimiento en lenguajes de programacion como html, css, java, python y c+  |
 | ![Foto](../../assets/Ariana.png) | Huapaya Buitron, Ariana Alheli   | U201819645           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
-| ![Foto](url_de_foto)             | Ventura Allasi, Randel Russell   | u201910669           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
+| ![](../../assets/Randel.jpeg)             | Ventura Allasi, Randel Russell   | u201910669           | Ingenieria de Software | Soy Randel Ventura, estudio Ingeniería de Software en la UPC y participo en proyectos de AI a nivel profesional. Aspiro a ser desarrollar Web FullStack, AI & ML developer e investigador de Quantum Computation y Software Architecture. Hobbies: idiomas, literatura, tenis, ethical hacking y música.                                                                                                                                                                                                                               |
 
 
 # 1.2. Solution Profile
@@ -498,7 +499,7 @@ Las grandes instituciones educativas que enfrentan problemas en la coordinación
   como minimo un 30% de usuarios de otros paises en el tercer mes.
 #### 1.2.2.4 Lean UX Canvas
 
-![Lean UX Canvas Template](https://github.com/user-attachments/assets/63fef9b5-7072-4bdd-b376-2a773e860f3b)
+![Lean UX Canvas Template](https://github.com/user-attachments/assets/b0bd67bc-152a-40aa-8a84-cae501584851)
 
 ## 1.3. Segmentos Objetivos
 
