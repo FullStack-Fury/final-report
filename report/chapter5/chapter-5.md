@@ -253,34 +253,34 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ed
 
 Sección de Inicio: Se implementó el Header y la página principal de nuestra Landing Page.
 
-![alt text](../../assets/Landing1.png)
+![](../../assets/landing1.PNG)
 
 Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
 
-![alt text](../../assets/Landing2.png)
+![](../../assets/landing2.png)
 
 Sección Tools: Se implementó la sección de las herramientas ofrecidas.
 
-![alt text](../../assets/Landing3.png)
+![](../../assets/landing3.png)
 
 
 Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
 
-![alt text](../../assets/Landing5.png)
+![](../../assets/landing5.png)
 
-![alt text](../../assets/Landing4.png)
+![](../../assets/landing4.png)
 
 Sección de What our customers saying: Se añadió la sección de reseñas.
 
-![alt text](../../assets/Landing6.png)
+![](../../assets/landing6.png)
 
 Sección Plans: Se implementó la sección de los planes disponibles
 
-![alt text](../../assets/Landing7.png)
+![](../../assets/landing7.png)
 
 Sección Contact Us: Se implementó la sección que permite contactarnos
 
-![alt text](../../assets/Landing8.png)
+![](../../assets/landing8.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
