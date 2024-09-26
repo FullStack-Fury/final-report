@@ -148,13 +148,13 @@ una de las tareas identificadas para el sprint.
 | Time                            | 06:00 PM                                                                                                                                                         |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                   |
 | Prepared By                     | Franz Escalante                                                                                                                                                  |
-| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                             |
+| Attendees (to planning meeting) | Franz Escalante/ Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                              |
 | Sprint 1 Review Summary         | En esta primera seccion se planteo el desarrollo de la Landing Page para el proyecto                                                                             |
 | Sprint 1 Retrospective Summary  | En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page |
 | Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | Finalizar con el desarrollo de la Landing Page.                                                                                                                  |
+| Sprint 1 Goal                   | Desarrollar, desplegar y hacer visible la landing page con todos sus componentes y similar a los mockup de la aplicación.                                        |
 | Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
-| Sum of Story Points             | 4 Story Points.                                                                                                                                                  |
+| Sum of Story Points             | 6 Story Points.                                                                                                                                                  |
 
 
 
