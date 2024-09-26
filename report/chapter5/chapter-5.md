@@ -274,11 +274,11 @@ Sección de What our customers saying: Se añadió la sección de reseñas.
 
 ![](../../assets/landing6.PNG)
 
-Sección Plans: Se implementó la sección de los planes disponibles
+Sección Plans: Se implementó la sección de los planes disponibles.
 
 ![](../../assets/landing7.PNG)
 
-Sección Contact Us: Se implementó la sección que permite contactarnos
+Sección Contact Us: Se implementó la sección que permite contactarnos.
 
 ![](../../assets/landing8.PNG)
 
@@ -287,6 +287,9 @@ Sección Contact Us: Se implementó la sección que permite contactarnos
 En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+<p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
+<p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
 
 ![alt text](../../assets/screen-lp.png)
 
