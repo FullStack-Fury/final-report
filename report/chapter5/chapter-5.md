@@ -148,13 +148,13 @@ una de las tareas identificadas para el sprint.
 | Time                            | 06:00 PM                                                                                                                                                         |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                   |
 | Prepared By                     | Franz Escalante                                                                                                                                                  |
-| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                             |
+| Attendees (to planning meeting) | Franz Escalante/ Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                              |
 | Sprint 1 Review Summary         | En esta primera seccion se planteo el desarrollo de la Landing Page para el proyecto                                                                             |
 | Sprint 1 Retrospective Summary  | En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page |
 | Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | Finalizar con el desarrollo de la Landing Page.                                                                                                                  |
+| Sprint 1 Goal                   | Desarrollar, desplegar y hacer visible la landing page con todos sus componentes y similar a los mockup de la aplicación.                                        |
 | Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
-| Sum of Story Points             | 4 Story Points.                                                                                                                                                  |
+| Sum of Story Points             | 6 Story Points.                                                                                                                                                  |
 
 
 
@@ -214,34 +214,34 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ed
 
 Sección de Inicio: Se implementó el Header y la página principal de nuestra Landing Page.
 
-![alt text](../../assets/Landing1.png)
+![](../../assets/landing1.PNG)
 
 Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
 
-![alt text](../../assets/Landing2.png)
+![](../../assets/landing2.PNG)
 
 Sección Tools: Se implementó la sección de las herramientas ofrecidas.
 
-![alt text](../../assets/Landing3.png)
+![](../../assets/landing3.PNG)
 
 
 Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
 
-![alt text](../../assets/Landing5.png)
+![](../../assets/landing5.PNG)
 
-![alt text](../../assets/Landing4.png)
+![](../../assets/landing4.PNG)
 
 Sección de What our customers saying: Se añadió la sección de reseñas.
 
-![alt text](../../assets/Landing6.png)
+![](../../assets/landing6.PNG)
 
-Sección Plans: Se implementó la sección de los planes disponibles
+Sección Plans: Se implementó la sección de los planes disponibles.
 
-![alt text](../../assets/Landing7.png)
+![](../../assets/landing7.PNG)
 
-Sección Contact Us: Se implementó la sección que permite contactarnos
+Sección Contact Us: Se implementó la sección que permite contactarnos.
 
-![alt text](../../assets/Landing8.png)
+![](../../assets/landing8.PNG)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -249,11 +249,43 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
+<p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
+
 ![alt text](../../assets/screen-lp.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Colaboraciones de cada miembro del equipo:
+
+<table>
+   <tr>
+      <th><strong>Alumno</th>
+      <th><strong>Actividad</th>
+   </tr>
+   <tr>
+      <td>Janiel Franz Escalante Baygorrea</td>
+      <td>Implementación del encabezado y vista Brief Introduction y About Us</td>
+   </tr>
+   <tr>
+      <td>Huapaya Buitron, Ariana Alheli</td>
+      <td>Implementación de la sección tools y vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Huanca Navarro Gustavo Esau</td>
+      <td>Imlementación de la vista Dashboard Admin y Education</td>
+   </tr>
+   <tr>
+      <td>Camila Leonor, Espinoza Vivas</td>
+      <td>Imlpementación de la vista Valoraciones y Vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Randel Russell Ventura Allasi</td>
+      <td>Implementación de la sección Contact Us y Footer</td>
+   </tr>   
+</table>
 
 Commits:
 
