@@ -297,6 +297,35 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+Colaboraciones de cada miembro del equipo:
+
+<table>
+   <tr>
+      <th><strong>Alumno</th>
+      <th><strong>Actividad</th>
+   </tr>
+   <tr>
+      <td>Janiel Franz Escalante Baygorrea</td>
+      <td>Implementación del encabezado y vista Brief Introduction y About Us</td>
+   </tr>
+   <tr>
+      <td>Huapaya Buitron, Ariana Alheli</td>
+      <td>Implementación de la sección tools y vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Huanca Navarro Gustavo Esau</td>
+      <td>Imlementación de la vista Dashboard Admin y Education</td>
+   </tr>
+   <tr>
+      <td>Camila Leonor, Espinoza Vivas</td>
+      <td>Imlpementación de la vista Valoraciones y Vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Randel Russell Ventura Allasi</td>
+      <td>Implementación de la sección Contact Us y Footer</td>
+   </tr>   
+</table>
+
 Commits:
 
 ![alt text](../../assets/Insights.png)
