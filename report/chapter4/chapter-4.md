@@ -508,7 +508,61 @@ https://www.figma.com/proto/nLhruFv9tjQadbH3U4TwWg/Wireflow?node-id=2001-921&nod
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+* BC: Teacher management
+  ![](../../assets/uml-bc-1.png)
+* BC: Payroll management
+  ![](../../assets/uml-bc-2.png)
+* BC: Reservation Scheduling
+  ![](../../assets/uml-bc-3.png)
+* BC: Space and resource management
+  ![](../../assets/uml-bc-4.png)
+* BC: Breakdown Management
+  ![](../../assets/uml-bc-5.png)
 ### 4.7.2. Class Dictionary.
+* BC: Teacher management
+    * classroomId: number that identifies the classroom.
+    * name: name of the teacher.
+    * lastName: last name of the teacher.
+    * email: email of the teacher.
+    * phone: phone number of the teacher.
+    * accountId: number that identifies the account of the teacher.
+    * address: address of the teacher.
+    * dni: the dni number of the teacher.
+* BC: Payroll management
+    * id: number that identifies the teacher, resource, space, etc.
+    * salaryAmount: amount of money that the teacher receives.
+    * pensionContribution: amount of money that the teacher contributes to the pension.
+    * salaryBonus: amount of money that the teacher receives as a bonus.
+    * salaryNet: amount of money that the teacher receives after deductions.
+* BC: Reservation Scheduling
+    * sharedSpaceId: number that identifies the shared space.
+    * teacherId: number that identifies the teacher.
+    * hour: time of the reservation.
+    * date: date of the reservation.
+    * title: title of the reservation.
+    * description: description of the reservation.
+    * classroomId: number that identifies the classroom.
+    * administratorId: number that identifies the administrator.
+* BC: Space and resource management
+    * name: name of the space
+    * description: description of the space
+    * classroomCode: code of the classroom
+    * sharedSpaceCode: code of the shared space
+* BC: Breakdown Management
+    * year: year of the resources
+    * state: state of the resources
+    * listener: listen actions from the teacher
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![](../../assets/db.png)
+* BC: Teacher management
+![](../../assets/db-bc-1.png)
+* BC: Payroll management
+  ![](../../assets/db-bc-2.png)
+* BC: Reservation Scheduling
+    ![](../../assets/db-bc-3.png)
+* BC: Space and resource management
+    ![](../../assets/db-bc-4.png)
+* BC: Breakdown Management
+    ![](../../assets/db-bc-5.png)
