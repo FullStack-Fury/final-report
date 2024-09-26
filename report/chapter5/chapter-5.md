@@ -328,11 +328,11 @@ Colaboraciones de cada miembro del equipo:
 
 Commits:
 
-![alt text](../../assets/Insights.png)
+![alt text](../../assets/Insights.PNG)
 
 Analiticas de Colaboración:
 
-![alt text](../../assets/AnaliticasLanding.png)
+![alt text](../../assets/AnaliticasLanding.PNG)
 
 
 
