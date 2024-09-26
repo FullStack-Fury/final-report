@@ -257,30 +257,30 @@ Sección de Inicio: Se implementó el Header y la página principal de nuestra L
 
 Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
 
-![](../../assets/landing2.png)
+![](../../assets/landing2.PNG)
 
 Sección Tools: Se implementó la sección de las herramientas ofrecidas.
 
-![](../../assets/landing3.png)
+![](../../assets/landing3.PNG)
 
 
 Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
 
-![](../../assets/landing5.png)
+![](../../assets/landing5.PNG)
 
-![](../../assets/landing4.png)
+![](../../assets/landing4.PNG)
 
 Sección de What our customers saying: Se añadió la sección de reseñas.
 
-![](../../assets/landing6.png)
+![](../../assets/landing6.PNG)
 
 Sección Plans: Se implementó la sección de los planes disponibles
 
-![](../../assets/landing7.png)
+![](../../assets/landing7.PNG)
 
 Sección Contact Us: Se implementó la sección que permite contactarnos
 
-![](../../assets/landing8.png)
+![](../../assets/landing8.PNG)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
