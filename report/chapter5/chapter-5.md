@@ -212,34 +212,34 @@ Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
 
-Sección de Inicio: Se implementó el Header y la página principal de nuestra Landing Page.
+US02-Encontrar información del propósito de la aplicación
 
 ![](../../assets/landing1.PNG)
 
-Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
+US02-Encontrar información del propósito de la aplicación
 
 ![](../../assets/landing2.PNG)
 
-Sección Tools: Se implementó la sección de las herramientas ofrecidas.
+US04-Tipografía cómoda y agradable estéticamente
 
 ![](../../assets/landing3.PNG)
 
 
-Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
+US03-Visualización de imágenes y gráficos relevantes
 
 ![](../../assets/landing5.PNG)
 
 ![](../../assets/landing4.PNG)
 
-Sección de What our customers saying: Se añadió la sección de reseñas.
+US01-Accesibilidad de la aplicación en diferentes dispositivos
 
 ![](../../assets/landing6.PNG)
 
-Sección Plans: Se implementó la sección de los planes disponibles.
+US03-Visualización de imágenes y gráficos relevantes
 
 ![](../../assets/landing7.PNG)
 
-Sección Contact Us: Se implementó la sección que permite contactarnos.
+US02-Encontrar información del propósito de la aplicación
 
 ![](../../assets/landing8.PNG)
 
