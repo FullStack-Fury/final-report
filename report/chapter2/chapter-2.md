@@ -555,17 +555,16 @@ Este matriz organiza y visualiza las tareas que ambos User Personas realizan par
 |                                                             | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
 |-------------------------------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
 | **TAREAS**                                                  |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
-| Planificacion de Clases                                     |        Alta        |      Alta       |               N/A               |       N/A       | 
+| Planificación de Clases                                     |        Alta        |      Alta       |               N/A               |       N/A       | 
 | Solicitud de Recursos Adicionales                           |       Media        |      Alta       |              Baja               |      Media      | 
-| Gestionar el personal a cargo de cada espacio               |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Registro de cambio de aula                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Recepcion de Notificacion sobre cambios                     |        Alta        |      Alta       |              Alta               |      Alta       | 
-| Administracion de Salarios                                  |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Gestion de Inventarios de Equipos                           |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Coordinacion de mantenimiento de equipos                    |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Registro de los ambientes deportivos, y docente responsable |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Datos de trabajadores(Docentes, personal de limpieza, etc)  |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Verificacion y solicitud de cambios de aula                 |        Alta        |      Alta       |              Media              |      Baja       | 
+| Gestión del Personal a Cargo                                |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro y Solicitud de Cambio de Aula                      |       Media        |      Alta       |              Alta               |      Alta       | 
+| Administración de Salarios                                  |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Inventarios de Equipos                           |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Coordinación de Mantenimiento de Equipos                    |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Registro de Ambientes Deportivos                            |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Datos de Trabajadores                            |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Verificación de Cambios en las Aulas                        |        Alta        |      Alta       |              Media              |      Baja       | 
 
 
 
