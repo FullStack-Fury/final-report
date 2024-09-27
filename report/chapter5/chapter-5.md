@@ -144,3 +144,24 @@ Para el despliegue de nuestra Landing Page, empleamos GitHub Pages como herramie
 Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
 
 ![](../../assets/Github_Pages.PNG)
+
+
+# Conclusiones
+
+- El equipo trabajó de manera efectiva tanto en sesiones presenciales como remotas, lo que sugiere una buena dinámica de trabajo en equipo. La participación activa de todos los miembros en reuniones indica un fuerte compromiso con el proyecto. La delegación clara de responsabilidades y la asignación de tareas específicas, muestran un enfoque organizado que permite que cada miembro aporte su experiencia y habilidades de manera óptima.
+
+- Se establecieron medios de comunicación efectivos, lo que permitió mantener a todos los miembros del equipo informados y alineados. Esto fue funadmental para proyectos donde la coordinación y la colaboración fueron  clave. Las revisiones continuas de los avances y la retroalimentación constructiva indican un ambiente de aprendizaje donde cada miembro tiene la oportunidad de mejorar y contribuir al desarrollo del proyecto.
+
+- La planificación de tareas desde el principio y el establecimiento de metas claras reflejan un enfoque proactivo. Esto no solo ayuda a mantener el rumbo, sino que también permite hacer ajustes en función del progreso observado. La organización de la documentación principal y la estructura del informe del trabajo demuestran un compromiso con la claridad y la calidad, aspectos importantes para la presentación final del proyecto.
+
+# Bibliografía 
+
+Conne, M(2024). The Markdown Guide. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+Facilio. (2024). Facilio: Platform for facilities management. Recuperado de https://facilio.com/
+
+FMX. (2024). Facilities Management eXpress: Software para la gestión de instalaciones. Recuperado de https://www.gofmx.com/
+
+Archibus. (2024). Archibus: Complete facilities management platform. Recuperado de https://archibus.com/
+
+
