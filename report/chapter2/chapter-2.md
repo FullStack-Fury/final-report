@@ -552,19 +552,18 @@ Por un lado, el 100% de los administradores tiene una edad superior a 36 años, 
 
 Este matriz organiza y visualiza las tareas que ambos User Personas realizan para cumplir con sus objetivos dentro de la institución. La matriz está diseñada para resaltar la frecuencia e importancia de cada tarea, proporcionando una visión clara de las responsabilidades y desafíos que enfrentan en su día a día. La identificación de estas tareas permite entender mejor las necesidades y expectativas de cada persona, lo cual es fundamental para el diseño de soluciones efectivas.
 
-|                                                             | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
-|-------------------------------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
-| **TAREAS**                                                  |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
-| Planificación de Clases                                     |        Alta        |      Alta       |               N/A               |       N/A       | 
-| Solicitud de Recursos Adicionales                           |       Media        |      Alta       |              Baja               |      Media      | 
-| Gestión del Personal a Cargo                                |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Registro y Solicitud de Cambio de Aula                      |       Media        |      Alta       |              Alta               |      Alta       | 
-| Administración de Salarios                                  |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Gestión de Inventarios de Equipos                           |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Coordinación de Mantenimiento de Equipos                    |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Registro de Ambientes Deportivos                            |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Gestión de Datos de Trabajadores                            |        N/A         |       N/A       |              Alta               |      Alta       | 
-| Verificación de Cambios en las Aulas                        |        Alta        |      Alta       |              Media              |      Baja       | 
+|                                        | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
+|----------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
+| **TAREAS**                             |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
+| Reserva de Espacios compartidos        |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Planificación de Clases                |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Gestión del Personal a Cargo           |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro y Solicitud de Cambio de Aula |       Media        |      Alta       |              Alta               |      Alta       | 
+| Administración de Salarios             |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Inventarios de Equipos      |        N/A         |       N/A       |              Alta               |      Alta       |
+| Registro de Ambientes Deportivos       |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Datos de Trabajadores       |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Planificacion de reuniones             |        Baja        |      Baja       |              Alta               |      Alta       | 
 
 
 
