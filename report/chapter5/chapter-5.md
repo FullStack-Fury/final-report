@@ -358,20 +358,20 @@ Analiticas de Colaboración:
 Para este segundo sprint
 
 
-| Sprint #                        | Sprint 2                                                                             |
-|---------------------------------|--------------------------------------------------------------------------------------|
-| Sprint Planning Background      |                                                                                      |
-| Date                            | 22/09/2024                                                                           |
-| Time                            | 06:00 PM                                                                             |
-| Location                        | Servidor de Discord del Equipo                                                       |
-| Prepared By                     | Franz Escalante                                                                      |
-| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya |
-| Sprint 1 Review Summary         |                                                                                      |
-| Sprint 1 Retrospective Summary  |                                                                                      |
+| Sprint #                        | Sprint 2                                                                                                        |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                 |
+| Date                            | 22/09/2024                                                                                                      |
+| Time                            | 06:00 PM                                                                                                        |
+| Location                        | Servidor de Discord del Equipo                                                                                  |
+| Prepared By                     | Franz Escalante                                                                                                 |
+| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                            |
+| Sprint 1 Review Summary         |                                                                                                                 |
+| Sprint 1 Retrospective Summary  |                                                                                                                 |
 | Sprint Goal & User Stories      |
-| Sprint 1 Goal                   |                                                                                      |
-| Sprint 1 Velocity               | 4 Velocity                                                                           |
-| Sum of Story Points             | 4 Story Points.                                                                      |
+| Sprint 1 Goal                   | La meta principal es que la aplicación pueda ser usada con todas las funciones descritas en los bounded context |
+| Sprint 1 Velocity               | 4 Velocity                                                                                                      |
+| Sum of Story Points             | 28 Story Points.                                                                                                |
 
 
 
@@ -472,9 +472,9 @@ Para este segundo sprint
     <td colspan="1">TSK008</td>
     <td colspan="2">Vista de espacios</td>
     <td colspan="3">Desarrollar una vista que permita a los docentes visualizar los espacios compartidos disponibles y su estado.</td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">4</td>
+    <td colspan="2">Janiel Franz</td>
+    <td colspan="1">Done</td>
   </tr>
    <tr>
     <td colspan="1">US25</td>
@@ -492,9 +492,9 @@ Para este segundo sprint
     <td colspan="1">TSK010</td>
     <td colspan="2">Sistema de reservas</td>
     <td colspan="3">Crear un sistema que permita a los docentes reservar espacios compartidos de forma sencilla y eficiente.</td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">4</td>
+    <td colspan="2">Janiel Franz Escalante Baygorrea</td>
+    <td colspan="1">Done</td>
   </tr>
    <tr>
     <td colspan="1">US19</td>
