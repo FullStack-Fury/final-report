@@ -353,7 +353,7 @@ Analiticas de Colaboración:
 
 ### 5.2.2. Sprint 2
 
-### 5.2.2.1. Sprint Planning 1
+### 5.2.2.1. Sprint Planning 2
 
 Para este segundo sprint
 
@@ -375,12 +375,12 @@ Para este segundo sprint
 
 
 
-### 5.2.2.2. Sprint Backlog 1
+### 5.2.2.2. Sprint Backlog 2
 
 <table>
   <tr>
     <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 1</th>
+    <th colspan="10">Sprint 2</th>
   </tr>
   <tr>
     <td colspan="3">User Story</td>
@@ -397,31 +397,121 @@ Para este segundo sprint
     <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
+    <td colspan="1">US08</td>
+    <td colspan="2">Registro de información personal del docente</td>
+    <td colspan="1">TSK001</td>
+    <td colspan="2">Formulario de registro</td>
+    <td colspan="3">Desarrollar un formulario que permita a los docentes ingresar su información personal, incluyendo nombre, apellidos, etc.</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="1"></td>
   </tr>
   <tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de información de acceso del docente</td>
+    <td colspan="1">TSK002</td>
+    <td colspan="2">Gestión de credenciales</td>
+    <td colspan="3">Implementar un sistema para que los administradores creen y gestionen los credenciales de acceso al sistema para los docentes.</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1">US10</td>
+    <td colspan="2">Registro de salones</td>
+    <td colspan="1">TSK003</td>
+    <td colspan="2">Registro de aulas</td>
+    <td colspan="3">Crear un módulo para registrar y gestionar información sobre las aulas disponibles, incluyendo capacidad y equipamiento.</td>
+    <td colspan="1"></td>
     <td colspan="2"></td>
-    <td colspan="3"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Registro de espacios compartidos</td>
+    <td colspan="1">TSK004</td>
+    <td colspan="2">Módulo de espacios</td>
+    <td colspan="3">Desarrollar un módulo que permita el registro de espacios compartidos y su disponibilidad.</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Registro de horarios de espacios compartidos</td>
+    <td colspan="1">TSK005</td>
+    <td colspan="2">Gestión de horarios</td>
+    <td colspan="3">Implementar un sistema para registrar los horarios de uso de los espacios compartidos y su disponibilidad.</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US13</td>
+    <td colspan="2">Registro de la hora y lugar de la reunión</td>
+    <td colspan="1">TSK006</td>
+    <td colspan="2">Registro de reuniones</td>
+    <td colspan="3">Desarrollar un formulario para que los administradores registren la hora y lugar de las reuniones que organizan.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Camila Espinoza</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Registro de invitados de la reunión</td>
+    <td colspan="1">TSK007</td>
+    <td colspan="2">Módulo de invitados</td>
+    <td colspan="3">Implementar un sistema para que los administradores registren los invitados a las reuniones, con sus datos de nombre.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Camila Espinoza</td>
+    <td colspan="1">Done</td>
+  </tr>
+   <tr>
+    <td colspan="1">US24</td>
+    <td colspan="2">Visualización de espacios compartidos</td>
+    <td colspan="1">TSK008</td>
+    <td colspan="2">Vista de espacios</td>
+    <td colspan="3">Desarrollar una vista que permita a los docentes visualizar los espacios compartidos disponibles y su estado.</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US25</td>
+    <td colspan="2">Registro de salones</td>
+    <td colspan="1">TSK009</td>
+    <td colspan="2">Sistema de registro de salones</td>
+    <td colspan="3">Crear un sistema que permita a los administradores registrar salones</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US25</td>
+    <td colspan="2">Reserva de espacios compartidos</td>
+    <td colspan="1">TSK010</td>
+    <td colspan="2">Sistema de reservas</td>
+    <td colspan="3">Crear un sistema que permita a los docentes reservar espacios compartidos de forma sencilla y eficiente.</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US19</td>
+    <td colspan="2">Ingreso de salarios del docente</td>
+    <td colspan="1">TSK011</td>
+    <td colspan="2">Registro de salarios</td>
+    <td colspan="3">Desarrollar un módulo que permita el ingreso y actualización de los salarios de los docentes.</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+    <tr>
+    <td colspan="1">US20</td>
+    <td colspan="2">Envío de salarios a docentes</td>
+    <td colspan="1">TSK012</td>
+    <td colspan="2">Sistema de envío de salarios</td>
+    <td colspan="3">Crear un sistema que facilite el envío de salarios a los docentes de manera automatizada.</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="1"></td>
