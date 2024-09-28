@@ -523,32 +523,35 @@ Para este segundo sprint
 
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint.
 
-
-| Repository | Branch | Commit Id | Commit Message | Commit message body | Committed on |
-|------------|--------|-----------|----------------|---------------------|--------------|
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |        |           |                |                     |              |
-|            |
-
+| Repository        | Branch | Commit Id | Commit Message                                                                           | Commit Message Body | Committed on |
+|-------------------|--------|-----------|------------------------------------------------------------------------------------------|---------------------|--------------|
+| eduspace-frontend | master | be30aac   | refactor(reservation-scheduling): change structure of the calendar for reactivity        |                     | 27/09/2024   |
+| eduspace-frontend | master | 918ac1b   | refactor(reservation-scheduling): changed reservations for events                        |                     | 27/09/2024   |
+| eduspace-frontend | master | 7e28dbe   | refactor(reservation-scheduling): attributes of the model reservation changed and the db |                     | 27/09/2024   |
+| eduspace-frontend | master | fa587dd   | feat(reservation-scheduling): receiving the reservations from the service                |                     | 27/09/2024   |
+| eduspace-frontend | master | 93ac1ab   | feat(reservation-scheduling): calendar component added                                   |                     | 27/09/2024   |
+| eduspace-frontend | master | 9e5d59d   | feat(reservation-scheduling): reservation management page added                          |                     | 27/09/2024   |
+| eduspace-frontend | master | 0e1ce7b   | feat(reservation-scheduling): toolbar added                                              |                     | 27/09/2024   |
+| eduspace-frontend | master | b60d840   | fix(.env deleted): deleted .env variables.                                               |                     | 27/09/2024   |
+| eduspace-frontend | master | 1a9a9ff   | feat(payroll-management): added view-component for payroll management of the teacher.    |                     | 27/09/2024   |
+| eduspace-frontend | master | 32ddad0   | feat(services): common http added                                                        |                     | 27/09/2024   |
+| eduspace-frontend | master | 757a4b6   | feat: router added                                                                       |                     | 27/09/2024   |
+| eduspace-frontend | master | f3cb11a   | feat: prime vue added                                                                    |                     | 27/09/2024   |
+| eduspace-frontend | master | 1ad463c   | feat: .env.example added                                                                 |                     | 27/09/2024   |
+| eduspace-frontend | master | dca7d4a   | refactor: i18n added                                                                     |                     | 27/09/2024   |
+| eduspace-frontend | master | 1a5269d   | feat(services): fixed.                                                                   |                     | 27/09/2024   |
+| eduspace-frontend | master | 7cb1c44   | feat(services): fixed.                                                                   |                     | 27/09/2024   |
+| eduspace-frontend | master | 8f54978   | feat(teacher): fixed.                                                                    |                     | 27/09/2024   |
+| eduspace-frontend | master | c8cc404   | feat(teacher): routes fixed.                                                             |                     | 27/09/2024   |
+| eduspace-frontend | master | 64c5cd3   | Merge branch 'payroll-management' into Teacher-Management                                |                     | 27/09/2024   |
+| eduspace-frontend | master | 26bc595   | feat(teacher): routes fixed.                                                             |                     | 27/09/2024   |
+| eduspace-frontend | master | 1ab5f08   | feat(meet): added "Invite" column to the table                                           |                     | 27/09/2024   |
+| eduspace-frontend | master | c8660f3   | feat(services): common http added                                                        |                     | 27/09/2024   |
+| eduspace-frontend | master | 379ebcf   | Update http-common.js                                                                    |                     | 27/09/2024   |
+| eduspace-frontend | master | ee5271c   | feat(http-common): added fake api                                                        |                     | 27/09/2024   |
+| eduspace-frontend | master | 55456a5   | feat(env): deleted file                                                                  |                     | 27/09/2024   |
+| eduspace-frontend | master | a2f6340   | feat(meet): fixed getting time and day correctly                                         |                     | 27/09/2024   |
+| eduspace-frontend | master | 72f4e32   | feat(meet): fixed getting time and day correctly                                         |                     | 27/09/2024   |
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
