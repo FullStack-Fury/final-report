@@ -237,7 +237,7 @@ Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma. En el siguiente enlace se tendra el video que ilustre y explique la visualización y navegación logrados en este Sprint: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EWCZa2Zz0h9EskkkItqhT_oBbx0Z7EluzJkLUkluMIJ2zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xMGbtN
 
 US02-Encontrar información del propósito de la aplicación
 
