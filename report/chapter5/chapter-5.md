@@ -151,7 +151,28 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 
 ![](../../assets/Github_Pages.PNG)
 
-![URL](https://github.com/user-attachments/assets/6720aa9a-fa10-41f4-9649-acdf33786c04)
+
+### Web App deployment:
+Para el despliegue de nuestra web app, utilizamos Vercel como plataforma de hosting y deployment. 
+Esta herramienta nos permitió desplegar la aplicación de manera rápida y eficiente, integrándose de
+forma sencilla con nuestro repositorio de GitHub.
+
+Primero, creamos un repositorio llamado "eduspace-frontend" en GitHub donde alojamos todo el código de nuestra
+aplicación. Luego, vinculamos este repositorio con Vercel, lo que automatiza el proceso de despliegue.
+Cada vez que realizamos un push en la rama principal del repositorio, Vercel ejecuta automáticamente el build 
+y despliega la nueva versión de la aplicación.
+
+![](../../assets/vercel.PNG)
+
+Después de conectar el repositorio, configuramos
+los ajustes de deployment en el panel de Vercel. Especificamos 
+la rama "master" como fuente del build. Una vez completado el proceso de deployment, la plataforma
+nos proporciona una URL pública donde nuestra web app es accesible 
+al público. El enlace para acceder a la web app es:
+https://eduspace-frontend-omega.vercel.app
+
+![](../../assets/vercel1.PNG)
+
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
@@ -278,6 +299,8 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 <p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
 <p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
+
+![URL](https://github.com/user-attachments/assets/6720aa9a-fa10-41f4-9649-acdf33786c04)
 
 ![alt text](../../assets/screen-lp.png)
 
