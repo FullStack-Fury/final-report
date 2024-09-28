@@ -558,11 +558,17 @@ https://www.figma.com/proto/nLhruFv9tjQadbH3U4TwWg/Wireflow?node-id=2001-921&nod
 ### 4.8.1. Database Diagram.
 * BC: Teacher management
 ![](../../assets/db-bc-1.png)
+
+
 * BC: Payroll management
   ![](../../assets/db-bc-2.png)
+
+
 * BC: Reservation Scheduling
     ![](../../assets/db-bc-3.png)
+
 * BC: Space and resource management
     ![](../../assets/db-bc-4.png)
+
 * BC: Breakdown Management
     ![](../../assets/db-bc-5.png)
