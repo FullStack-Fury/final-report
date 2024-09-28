@@ -574,8 +574,7 @@ En el presente sprint solo se desarrollo la Landing Page.
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
-
-Commits:
+![](../../assets/oli.PNG)
 
 
 Analiticas de Colaboración:
