@@ -353,7 +353,7 @@ Analiticas de Colaboración:
 
 ### 5.2.2. Sprint 2
 
-### 5.2.2.1. Sprint Planning 1
+### 5.2.2.1. Sprint Planning 2
 
 Para este segundo sprint
 
@@ -375,7 +375,7 @@ Para este segundo sprint
 
 
 
-### 5.2.2.2. Sprint Backlog 1
+### 5.2.2.2. Sprint Backlog 2
 
 <table>
   <tr>
@@ -397,18 +397,8 @@ Para este segundo sprint
     <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US08</td>
+    <td colspan="2">Registro de información personal del docente</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="3"></td>
@@ -417,8 +407,108 @@ Para este segundo sprint
     <td colspan="1"></td>
   </tr>
   <tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de información de acceso del docente</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1">US10</td>
+    <td colspan="2">Registro de salones</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Registro de espacios compartidos</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Registro de horarios de espacios compartidos</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US13</td>
+    <td colspan="2">Registro  de la hora y lugar de la reunión</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Registro de invitados de la reunión</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US24</td>
+    <td colspan="2">Visualización de espacios compartidos</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US25</td>
+    <td colspan="2">Reserva de espacios compartidos</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US25</td>
+    <td colspan="2">Reserva de espacios compartidos</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+   <tr>
+    <td colspan="1">US19</td>
+    <td colspan="2">Ingreso de salarios del docente</td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+    <tr>
+    <td colspan="1">US20</td>
+    <td colspan="2">Envío de salarios a docentes</td>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="3"></td>
