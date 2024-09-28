@@ -64,6 +64,9 @@ Software Deployment
 
 Ruta de referencia: https://pages.github.com/
 
+2. Vercel: es una plataforma que optimiza el proceso de desarrollo y despliegue de aplicaciones web, especialmente con frameworks como Next.js y React. Proporciona un entorno colaborativo que agiliza los despliegues rápidos y genera previsualizaciones automáticas con cada commit, lo que facilita la revisión de modificaciones antes de su publicación.
+
+Ruta de referencia: https://vercel.com/
 
 ### 5.1.2. Source Code Management.
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
@@ -72,10 +75,13 @@ Repositorio de GitHub:
 - Enlace para acceder a la organización en GitHub: https://github.com/pro-devs-SI730
 - Enlace para acceder al repositorio de la landing Page: https://github.com/pro-devs-SI730/landing-page
 - Enlace para acceder al repositorio del reporte final: https://github.com/pro-devs-SI730/final-report
+- Enlace para acceder al repositorio del front end: https://github.com/pro-devs-SI730/eduspace-frontend
 
 Flujo de trabajo GitFlow
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+
+![Flujo-de-trabajo](https://github.com/user-attachments/assets/5e799894-102b-4e74-9200-ca70a21c72a6)
 
 Estructura de branches (Ramas):
 1. Master branch (Rama principal): Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
@@ -110,7 +116,26 @@ CSS: Entre las prácticas empleadas se menciona:
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
 
+JavaScrip: Algunas de las mejores prácticas para programar incluyen:
 
+1. Utilizar nombres de variables claros: Es importante que los nombres reflejen el propósito de la variable.
+2. Ser consistente con las comillas: Elegir entre comillas simples o dobles y mantener esa elección a lo largo del código.
+3. Incluir comentarios explicativos: Usar comentarios para aclarar bloques de código, especialmente en secciones complejas, facilita la comprensión.
+4. Minimizar el uso de variables globales: Limitar el ámbito de las variables para evitar conflictos y mejorar la mantenibilidad del código.
+5. Encapsular lógica en funciones: Mantener el código modular y reutilizable mediante el uso de funciones.
+6. Seguir un estilo de codificación uniforme: Mantener un formato consistente mejora la legibilidad del código.
+
+   JS: (https://www.w3schools.com/js/DEFAULT.asp)
+
+Vue.js: Para asegurar que el código en Vue.js sea claro y eficiente, se recomiendan las siguientes prácticas:
+
+1. Estructura de carpetas organizada: Mantener una estructura clara para components, pages, model y services.
+2. Crear componentes reutilizables: Diseñar componentes que puedan ser utilizados en diversas partes de la aplicación.
+3. Separar lógica de negocio de la vista: Utilizar métodos y propiedades computadas para mantener la lógica separada de la presentación.
+4. Emplear Vue Router para la navegación: Usar Vue Router para gestionar eficazmente la navegación entre vistas.
+5. Documentar componentes: Incluir comentarios y documentación sobre props, eventos y métodos dentro de los componentes.
+
+Vue: (https://vuejs.org/guide/introduction)
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
@@ -118,13 +143,36 @@ CSS: Entre las prácticas empleadas se menciona:
 Para el despliegue de nuestra Landing Page, empleamos GitHub Pages como herramienta de deployment. Creamos un repositorio en GitHub llamado "landing-page" donde alojamos todo el código de la página, realizando el despliegue directamente desde la rama "main". Esta integración permitió un proceso ágil y automatizado, asegurando que cualquier actualización en el código de la rama principal se reflejara inmediatamente en la página en producción.
 
 ![](../../assets/Github_Repositorio.PNG)
-   
+
 
 ## GithubPages
 
 Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
 
 ![](../../assets/Github_Pages.PNG)
+
+
+### Web App deployment:
+Para el despliegue de nuestra web app, utilizamos Vercel como plataforma de hosting y deployment. 
+Esta herramienta nos permitió desplegar la aplicación de manera rápida y eficiente, integrándose de
+forma sencilla con nuestro repositorio de GitHub.
+
+Primero, creamos un repositorio llamado "eduspace-frontend" en GitHub donde alojamos todo el código de nuestra
+aplicación. Luego, vinculamos este repositorio con Vercel, lo que automatiza el proceso de despliegue.
+Cada vez que realizamos un push en la rama principal del repositorio, Vercel ejecuta automáticamente el build 
+y despliega la nueva versión de la aplicación.
+
+![](../../assets/vercel.PNG)
+
+Después de conectar el repositorio, configuramos
+los ajustes de deployment en el panel de Vercel. Especificamos 
+la rama "master" como fuente del build. Una vez completado el proceso de deployment, la plataforma
+nos proporciona una URL pública donde nuestra web app es accesible 
+al público. El enlace para acceder a la web app es:
+https://eduspace-frontend-omega.vercel.app
+
+![](../../assets/vercel1.PNG)
+
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
@@ -148,13 +196,13 @@ una de las tareas identificadas para el sprint.
 | Time                            | 06:00 PM                                                                                                                                                         |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                   |
 | Prepared By                     | Franz Escalante                                                                                                                                                  |
-| Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                             |
+| Attendees (to planning meeting) | Franz Escalante/ Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                              |
 | Sprint 1 Review Summary         | En esta primera seccion se planteo el desarrollo de la Landing Page para el proyecto                                                                             |
 | Sprint 1 Retrospective Summary  | En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page |
 | Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | Finalizar con el desarrollo de la Landing Page.                                                                                                                  |
+| Sprint 1 Goal                   | Desarrollar, desplegar y hacer visible la landing page con todos sus componentes y similar a los mockup de la aplicación.                                        |
 | Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
-| Sum of Story Points             | 4 Story Points.                                                                                                                                                  |
+| Sum of Story Points             | 6 Story Points.                                                                                                                                                  |
 
 
 
@@ -210,38 +258,38 @@ Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma. En el siguiente enlace se tendra el video que ilustre y explique la visualización y navegación logrados en este Sprint: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EWCZa2Zz0h9EskkkItqhT_oBbx0Z7EluzJkLUkluMIJ2zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xMGbtN
 
-Sección de Inicio: Se implementó el Header y la página principal de nuestra Landing Page.
+US02-Encontrar información del propósito de la aplicación
 
-![alt text](../../assets/Landing1.png)
+![](../../assets/landing1.PNG)
 
-Sección de About Us: Se implementó la sección de la About Us detallando el propósito del proyecto.
+US02-Encontrar información del propósito de la aplicación
 
-![alt text](../../assets/Landing2.png)
+![](../../assets/landing2.PNG)
 
-Sección Tools: Se implementó la sección de las herramientas ofrecidas.
+US04-Tipografía cómoda y agradable estéticamente
 
-![alt text](../../assets/Landing3.png)
+![](../../assets/landing3.PNG)
 
 
-Sección de Dashboard: Se implementó la sección de ver los dashboards del administrado y docente.
+US03-Visualización de imágenes y gráficos relevantes
 
-![alt text](../../assets/Landing5.png)
+![](../../assets/landing5.PNG)
 
-![alt text](../../assets/Landing4.png)
+![](../../assets/landing4.PNG)
 
-Sección de What our customers saying: Se añadió la sección de reseñas.
+US01-Accesibilidad de la aplicación en diferentes dispositivos
 
-![alt text](../../assets/Landing6.png)
+![](../../assets/landing6.PNG)
 
-Sección Plans: Se implementó la sección de los planes disponibles
+US03-Visualización de imágenes y gráficos relevantes
 
-![alt text](../../assets/Landing7.png)
+![](../../assets/landing7.PNG)
 
-Sección Contact Us: Se implementó la sección que permite contactarnos
+US02-Encontrar información del propósito de la aplicación
 
-![alt text](../../assets/Landing8.png)
+![](../../assets/landing8.PNG)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -249,19 +297,53 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
+<p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
+
+![URL](https://github.com/user-attachments/assets/6720aa9a-fa10-41f4-9649-acdf33786c04)
+
 ![alt text](../../assets/screen-lp.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+Colaboraciones de cada miembro del equipo:
+
+<table>
+   <tr>
+      <th><strong>Alumno</th>
+      <th><strong>Actividad</th>
+   </tr>
+   <tr>
+      <td>Janiel Franz Escalante Baygorrea</td>
+      <td>Implementación del encabezado y vista Brief Introduction y About Us</td>
+   </tr>
+   <tr>
+      <td>Huapaya Buitron, Ariana Alheli</td>
+      <td>Implementación de la sección tools y vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Huanca Navarro Gustavo Esau</td>
+      <td>Imlementación de la vista Dashboard Admin y Education</td>
+   </tr>
+   <tr>
+      <td>Camila Leonor, Espinoza Vivas</td>
+      <td>Imlpementación de la vista Valoraciones y Vista de Planes</td>
+   </tr>
+   <tr>
+      <td>Randel Russell Ventura Allasi</td>
+      <td>Implementación de la sección Contact Us y Footer</td>
+   </tr>   
+</table>
+
 Commits:
 
-![alt text](../../assets/Insights.png)
+![alt text](../../assets/Insights.PNG)
 
 Analiticas de Colaboración:
 
-![alt text](../../assets/AnaliticasLanding.png)
+![alt text](../../assets/AnaliticasLanding.PNG)
 
 
 
@@ -349,7 +431,7 @@ Para este segundo sprint
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
-En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. 
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint.
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit message body | Committed on |
@@ -384,7 +466,7 @@ Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Para este segundo entregable, hemos elaborado el front-end del proyecto de "EduSpace". 
+Para este segundo entregable, hemos elaborado el front-end del proyecto de "EduSpace".
 
 
 
@@ -417,8 +499,14 @@ Analiticas de Colaboración:
 
 # Conclusiones
 
+- El equipo trabajó de manera efectiva tanto en sesiones presenciales como remotas. La participación activa de todos los miembros en reuniones indica un fuerte compromiso con el proyecto. La delegación clara de responsabilidades y la asignación de tareas específicas, muestran un enfoque organizado que permite que cada miembro aporte su experiencia y habilidades de manera óptima.
 
-En conclusión, EduSpace
+- Se establecieron medios de comunicación efectivos, lo que permitió mantener a todos los miembros del equipo informados y alineados. Esto fue fundamental para el trabajo donde la coordinación y la colaboración son clave. Las revisiones continuas de los avances y la retroalimentación constructiva indicaron un ambiente de aprendizaje donde cada miembro tuvo la oportunidad de mejorar y contribuir al desarrollo del trabajo.
+
+- La planificación de tareas desde el principio y el establecimiento de metas claras reflejan un enfoque proactivo. Esto no solo ayuda a mantener el rumbo, sino que también permite hacer ajustes en función del progreso observado. La organización de la documentación principal y la estructura del informe del trabajo demuestran un compromiso con la claridad y la calidad, aspectos importantes para la presentación final del proyecto.
 
 # Bibliografia
 - Conne, M(2024). The Markdown Guide. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+- Facilio. (2024). Facilio: Platform for facilities management. Recuperado de https://facilio.com/
+- FMX. (2024). Facilities Management eXpress: Software para la gestión de instalaciones. Recuperado de https://www.gofmx.com/
+- Archibus. (2024). Archibus: Complete facilities management platform. Recuperado de https://archibus.com/

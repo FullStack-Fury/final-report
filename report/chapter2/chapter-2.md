@@ -535,7 +535,7 @@ que alguien se olvidó de hacerlo o que al hacer el registro puede haber un fall
 <h4>Análisis del segmento Administradores de Instituciones Educativas</h4>
 Por un lado, el 100% de los administradores tiene una edad superior a 36 años, de los cuales el 40% se encuentra entre los 40 y 50 años de edad. Asimismo, un 100% de los administradores considera un proceso tedioso el tener que gestionar la administración de recursos, finanzas, recursos humanos y espacios comunes de la institución educativa, la mayoría lo hace en registros word y excel en bases de datos locales de la institución y no disponen de las 24 horas del día para el acceso al registro. Por otro lado, el 100% de los administradores indicó que su medio de comunicación para hacer este registro es a través de WhatsApp, Teams y Meet, en el cual se comunican los registros de la administración y gestión de la IIEE. A su vez, el 100% de los administradores cuenta con más de 8 años y medio de experiencia en adminsitración y gestión educativa, de los cuales el 66% tiene más de 6 años de experiencia utilizando medios tecnológicos en su trabajo. De igual manera, el 100% de los administradores mencionan que los registros se hacen diariamente, y cada uno maneja diferentes horarios según su área. Por otra parte, la totalidad de los administradores afirma que han ocurrido errores en el registro de datos, ya sea porque alguien se olvidó de hacerlo o porque al registrar puede haber fallos al transferir los datos al papel. Asimismo, el 33.3% considera que un problema sería la capacitación del personal administrativo, y se puede añadir que a un 33% le pareció incómodo solo poder trabajar desde la base de datos de su institución. El 100% de los administradores asegura utilizar Google Chrome como su navegador principal. Finalmente, el 100% considera que poder hacer el seguimiento y registro de los espacios comunes de la institución en cualquier momento del día, así como registrar y/o editar las reservas, ampliaría tanto su eficiencia administrativa como el rendimiento general de la institución.
 
-</p>
+
 <p align="justify">En conclusión, los entrevistados destacan la necesidad de simplificar y agilizar el proceso de registrar, visualizar y editar reservas de aulas y espacios abiertos en común de la institución educativa. En ambas situaciones, los entrevistados utilizan métodos tradicionales como documentos físicos, base de datos locales o documentos de Google con poco tiempo de alcance de visualización para llevar un registro de las reservas y espacios abiertos de la institución, enfrentan desafíos como la demora en el proceso, olvidos de los registros o pérdida de estos mismos. Sin embargo, muestran disposición para adoptar nuestras soluciones que faciliten esta tarea. En este contexto, EduSpace emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, registro en tiempo real, visualización de estos mismos en cualquier momento del día y la conexión y comunicación directa con los supervisores, administradores y/o directores de la IIEE. Nuestra aplicación muestra el potencial de simplificar estos procesos tanto para ayudar a nuestros usuarios docentes y administradores de la institución educativa usuaria, ayudando a la IIEE a gestionar de manera más efectiva su administración completa e íntegra dentro de un solo espacio, EduSpace.</p>
 
 <p> </p>
@@ -552,20 +552,18 @@ Por un lado, el 100% de los administradores tiene una edad superior a 36 años, 
 
 Este matriz organiza y visualiza las tareas que ambos User Personas realizan para cumplir con sus objetivos dentro de la institución. La matriz está diseñada para resaltar la frecuencia e importancia de cada tarea, proporcionando una visión clara de las responsabilidades y desafíos que enfrentan en su día a día. La identificación de estas tareas permite entender mejor las necesidades y expectativas de cada persona, lo cual es fundamental para el diseño de soluciones efectivas.
 
-|                                                             | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
-|-------------------------------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
-| **TAREAS**                                                  |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
-| Planificacion de Clases                                     |        Alta        |      Alta       |              Baja               |      Baja       | 
-| Solicitud de Recursos Adicionales                           |       Media        |      Alta       |              Baja               |      Media      | 
-| Gestionar el personal a cargo de cada espacio               |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Registro de cambio de aula                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Recepcion de Notificacion sobre cambios                     |        Alta        |      Alta       |              Alta               |      Alta       | 
-| Administracion de Salarios                                  |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Gestion de Inventarios de Equipos                           |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Coordinacion de mantenimiento de equipos                    |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Registro de los ambientes deportivos, y docente responsable |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Datos de trabajadores(Docentes, personal de limpieza, etc)  |        Baja        |      Baja       |              Alta               |      Alta       | 
-| Verificacion y solicitud de cambios de aula                 |        Alta        |      Alta       |              Media              |      Baja       | 
+|                                        | Ana Ruiz (Docente) |                 | Michael Sanchez (Administrador) |                 |
+|----------------------------------------|:------------------:|:---------------:|:-------------------------------:|:---------------:|
+| **TAREAS**                             |   **FRECUENCIA**   | **IMPORTANCIA** |         **FRECUENCIA**          | **IMPORTANCIA** |
+| Reserva de Espacios compartidos        |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Planificación de Clases                |        Alta        |      Alta       |              Baja               |      Baja       | 
+| Gestión del Personal a Cargo           |        Baja        |      Baja       |              Alta               |      Alta       | 
+| Registro y Solicitud de Cambio de Aula |       Media        |      Alta       |              Alta               |      Alta       | 
+| Administración de Salarios             |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Inventarios de Equipos      |        N/A         |       N/A       |              Alta               |      Alta       |
+| Registro de Ambientes Deportivos       |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Gestión de Datos de Trabajadores       |        N/A         |       N/A       |              Alta               |      Alta       | 
+| Planificacion de reuniones             |        Baja        |      Baja       |              Alta               |      Alta       | 
 
 
 
