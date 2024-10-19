@@ -555,31 +555,49 @@ En esta sección se presentan los avances de implementación con relación a los
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-Para la entrega de este primer Sprint no se realizo testeo de la landing page.
+Para la entrega de este segundo Sprint no se realizo testeo del frontend.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Para este segundo entregable, hemos elaborado el front-end del proyecto de "EduSpace".
+Para este segundo entregable, hemos elaborado el front-end del proyecto de "EduSpace".  
+Enlace del la aplicación web: https://eduspace-frontend-omega.vercel.app/  
 
-
+US24. Visualización de espacios compartidos
+![](../../assets/reservation-1.png)
+US25. Reserva de espacios compartidos
+![](../../assets/reservation-2.png)
+![](../../assets/reservation-3.png)
+US14. Registro de invitados de la reunión
+![](../../assets/meet-1.png)
+US13. Registro de la hora y lugar de la reunión
+![](../../assets/meet-2.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En el presente sprint solo se desarrollo la Landing Page.
+En el presente sprint no se desarrollaron los servicios web. Para no vernos limitados
+trabajamos con un fake API para simular el comportamiento de los servicios web.
+
+| Endpoint                     | Details                                                                                  |
+|------------------------------|------------------------------------------------------------------------------------------|
+| /classrooms                  | Se obtuvieron los datos de las aulas, incluyendo id, nombre, descripción y profesor asociado |
+| /resources                   | Se obtuvieron los recursos relacionados con las aulas, como proyectores, pizarras y más    |
+| /reports                     | Se generaron reportes de recursos con detalles de errores y otros tipos de informes       |
+| /shared-area                 | Se gestionaron las áreas compartidas como la piscina y los patios para estudiantes        |
+| /teachers                    | Se obtuvieron los detalles de los profesores, incluyendo nombre, correo, teléfono y ubicación |
+| /administrators              | Se manejaron los datos de los administradores, incluyendo id, nombre y correo             |
+| /meet                        | Se organizó una reunión con los profesores y se almacenó el día, hora y ubicación         |
+| /shared-area-reservation      | Se realizaron reservas de áreas compartidas por parte de los profesores                   |
+| /payroll                     | Se gestionó la nómina de los profesores, incluyendo salario neto, bonos y deducciones     |
+
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-
+FOTOS DEL DESPLIEGUE FRONTEND
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+Para el desarrollo de este segundo sprint, dos miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 ![](../../assets/oli.PNG)
-
-
-Analiticas de Colaboración:
-
-
 
 
 
