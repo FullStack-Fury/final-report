@@ -595,11 +595,11 @@ Analiticas de Colaboración:
 | Location                        | Servidor de Discord del Equipo                                                                                  |
 | Prepared By                     | Franz Escalante                                                                                                 |
 | Attendees (to planning meeting) | Franz Escalante/ Camila Espinoza / Oscar Antayhua / Andres Torres / Angelo Curi                                 |
-| Sprint 1 Review Summary         |                                                                                                                 |
-| Sprint 1 Retrospective Summary  |                                                                                                                 |
+| Sprint 3 Review Summary         |   Se alcanzaron los objetivos: Funcionamiento y despliegue de nuestra Web API.                                                                                                              |
+| Sprint 3 Retrospective Summary  |   Este sprint ha sido el más desafiante en comparación con los anteriores, ya que, requería que tanto el informe y el Front End esten completos para así realizar la implementación del Backend.                                                                                                              |
 | Sprint Goal & User Stories      |                                                                                                                 |
-| Sprint 1 Goal                   |                                                                                                                 |
-| Sprint 1 Velocity               |                                                                                                                 |
+| Sprint 3 Goal                   |                                                                                                                 |
+| Sprint 3 Velocity               |                                                                                                                 |
 | Sum of Story Points             |                                                                                                                 |
 
 
