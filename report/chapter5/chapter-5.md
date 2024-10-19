@@ -582,7 +582,25 @@ Analiticas de Colaboración:
 
 
 
+### 5.2.3 Sprint 3
 
+### 5.2.3.1.Spring Planning 3
+
+
+| Sprint #                        | Sprint 3                                                                                                        |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                 |
+| Date                            | 19/10/2024                                                                                                      |
+| Time                            | 06:00 PM                                                                                                        |
+| Location                        | Servidor de Discord del Equipo                                                                                  |
+| Prepared By                     | Franz Escalante                                                                                                 |
+| Attendees (to planning meeting) | Franz Escalante/ Camila Espinoza / Oscar Antayhua / Andres Torres / Angelo Curi                                 |
+| Sprint 1 Review Summary         |                                                                                                                 |
+| Sprint 1 Retrospective Summary  |                                                                                                                 |
+| Sprint Goal & User Stories      |                                                                                                                 |
+| Sprint 1 Goal                   |                                                                                                                 |
+| Sprint 1 Velocity               |                                                                                                                 |
+| Sum of Story Points             |                                                                                                                 |
 
 
 
