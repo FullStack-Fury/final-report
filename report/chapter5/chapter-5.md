@@ -167,21 +167,21 @@ Para este primer sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 
+| Sprint #                        | Sprint 1                                                                                                                                    |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                                             |
+| Date                             | 30/08/2024                                                                                                                                 |
+| Time                             | 06:00 PM                                                                                                                                  |
+| Location                         | Servidor de Discord del Equipo                                                                                                             |
+| Prepared By                     | Franz Escalante                                                                                                                            |
+| Attendees (to planning meeting) | Franz Escalante / Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                      |
+| Sprint 1 Review Summary          | En esta primera sección se planteó el desarrollo de la Landing Page para el proyecto.                                                      |
+| Sprint 1 Retrospective Summary    | En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando la Landing Page. |
+| **Sprint Goal & User Stories**  |                                                                                                                                             |
+| Sprint Goal                      | Our focus is on desarrollar una landing page que proporcione información clara y accesible sobre las funcionalidades y beneficios de la plataforma web. We believe it delivers una mejor comprensión y experiencia al usuario, facilitando la decisión de utilizar la plataforma web. This will be confirmed when los usuarios visiten la landing page y encuentren fácilmente la información necesaria, reflejado en un aumento en la tasa de registro de nuevos usuarios. |
+| Sprint 1 Velocity                | 9 Velocity                                                                                                                                |
+| Sum of Story Points              | 12 Story Points.                                                                                                                           |
 
-| Sprint #                        | Sprint 1                                                                                                                                                         |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |                                                                                                                                                                  |
-| Date                            | 30/08/2024                                                                                                                                                       |
-| Time                            | 06:00 PM                                                                                                                                                         |
-| Location                        | Servidor de Discord del Equipo                                                                                                                                   |
-| Prepared By                     | Franz Escalante                                                                                                                                                  |
-| Attendees (to planning meeting) | Franz Escalante/ Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                              |
-| Sprint 1 Review Summary         | En esta primera seccion se planteo el desarrollo de la Landing Page para el proyecto                                                                             |
-| Sprint 1 Retrospective Summary  | En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page |
-| Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | Desarrollar, desplegar y hacer visible la landing page con todos sus componentes y similar a los mockup de la aplicación.                                        |
-| Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
-| Sum of Story Points             | 6 Story Points.                                                                                                                                                  |
 
 
 
