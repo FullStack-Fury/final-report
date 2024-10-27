@@ -603,7 +603,7 @@ Analiticas de Colaboración:
 | Sum of Story Points             |                                                                                                                 |
 
 
-### 5.2.2.2. Sprint Backlog 3
+### 5.2.3.2. Sprint Backlog 3
 
 
 |Sprint#|Sprint 3|||||||
@@ -641,6 +641,27 @@ Analiticas de Colaboración:
 |TS25|Eliminar reserva a un espacios compartido a través de un RESTful API|TSK029|Agregar los comandos a la capa de dominio y usarlos en la de aplicación|Agregar commands e implementarlos en la capa de aplicación|1h|Franz|To-do|
 |TS23|Obtener información de la disponibilidad de espacios compartidos a través de un RESTful API|TSK030|Agregar queries |Agregar queries en la capa de domain y agregar la función para obtener recursos en la capa de interface|1h|Franz|To-do|
 
+### 5.2.3.3. Development Evidence for Sprint Review
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 
 
