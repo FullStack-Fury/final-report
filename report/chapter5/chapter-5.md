@@ -659,6 +659,128 @@ Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos
 
 ### 5.3.1. Diseño de Entrevistas
 
+Dentro de esta sección, se detallan los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la aplicación EduSpace cumpla con las exigencias reales de los usuarios en el manejo integral de espacios educativos en instituciones con grandes infraestructuras. A continuación, se presentan los user goals mencionados:
+
+#### Administrador:
+**User Goal: Iniciar sesión**
+User Persona: Administradores.
+Explicación del flujo: El administrador accede a la aplicación y visualiza un formulario de inicio de sesión donde ingresa su correo electrónico y contraseña. Si los datos son válidos, es redirigido al dashboard; de lo contrario, se le pide que reingrese sus credenciales.
+
+**User Goal: Navegar por el dashboard**
+User Persona: Administradores.
+Explicación del flujo: Al iniciar sesión, el administrador es llevado al dashboard donde tiene acceso a opciones como "Environments and Equipment", "Classroom Changes and Meetings", "Personal Data", "Personnel Management" y "Log out".
+
+**User Goal: Gestionar Entornos y Equipamiento**
+User Persona: Administradores.
+Explicación del flujo: El administrador selecciona "Environments and Equipment", donde puede agregar, editar o eliminar información sobre los entornos educativos y el equipamiento disponible.
+
+**User Goal: Gestionar Cambios de Aula y Reuniones**
+User Persona: Administradores.
+Explicación del flujo: Desde "Classroom Changes and Meetings", el administrador puede registrar cambios en la asignación de aulas, así como programar y gestionar reuniones, incluyendo la hora y los asistentes.
+
+**User Goal: Actualizar Datos Personales**
+User Persona: Administradores.
+Explicación del flujo: El administrador puede acceder a "Personal Data" para ver y actualizar su información personal, asegurándose de que esté siempre al día.
+
+**User Goal: Gestionar Personal**
+User Persona: Administradores.
+Explicación del flujo: Al seleccionar "Personnel Management", el administrador puede agregar, editar o eliminar datos de los empleados, así como gestionar sus roles y responsabilidades.
+
+**User Goal: Cerrar sesión**
+User Persona: Administradores.
+Explicación del flujo: Desde cualquier sección, el administrador puede seleccionar la opción "Log out" para salir de la aplicación de manera segura.
+
+#### Docente:
+**User Goal: Iniciar sesión**
+User Persona: Docentes.
+Explicación del flujo: El docente accede a la aplicación y visualiza un formulario de inicio de sesión donde ingresa su correo electrónico y contraseña. Si los datos son válidos, es redirigido al dashboard; de lo contrario, se le pide que reingrese sus credenciales.
+
+**User Goal: Navegar por el dashboard**
+User Persona: Docentes.
+Explicación del flujo: Al iniciar sesión, el docente es llevado al dashboard donde tiene acceso a opciones como "Notifications", "Reservations", "Breakdown Reports", "Wages" y "Space Availability".
+
+**User Goal: Ver notificaciones**
+User Persona: Docentes.
+Explicación del flujo: Al seleccionar "Notifications", el docente puede ver todas las notificaciones relevantes sobre cambios en horarios, reuniones programadas y cualquier otra información importante relacionada con su trabajo.
+
+***User Goal: Reservar espacios compartidos**
+User Persona: Docentes.
+Explicación del flujo: El docente accede a "Reservations", donde puede consultar la disponibilidad de los espacios compartidos y realizar reservas para actividades o clases.
+
+**User Goal: Generar informes de averías**
+User Persona: Docentes.
+Explicación del flujo: Desde "Breakdown Reports", el docente puede generar un reporte si algún recurso de un aula sufre una avería. Esto incluye la selección del recurso afectado, una descripción del problema y la opción de enviar el reporte para que el personal administrativo lo gestione.
+
+**User Goal: Consultar salarios**
+User Persona: Docentes.
+Explicación del flujo: En "Wages", el docente puede consultar la información sobre sus salarios, incluyendo detalles de pagos y deducciones.
+
+**User Goal: Consultar disponibilidad de espacios**
+User Persona: Docentes.
+Explicación del flujo: Al acceder a "Space Availability", el docente puede verificar la disponibilidad de aulas y otros espacios educativos para programar actividades o clases.
+
+**User Goal: Cerrar sesión**
+User Persona: Docentes.
+Explicación del flujo: Desde cualquier sección, el docente puede seleccionar la opción "Log out" para salir de la aplicación de manera segura.
+
+
+#### Preguntas para las Entrevistas
+
+#### Administrador:
+**Sobre la Navegación:**
+- ¿Qué tan fácil fue para ti encontrar las opciones que necesitabas en el toolbar? ¿Hubo alguna sección que te resultara particularmente difícil de encontrar? ¿Por qué?
+- ¿Qué tan claros consideras que son los nombres de las secciones disponibles en el menú? ¿Hubo algún nombre de sección que te causara confusión o que consideres que podría ser más descriptivo?
+
+**Gestión de Entornos y Equipamiento:** 
+- 3. Al gestionar los entornos y el equipo, ¿encontraste que la información presentada es suficiente y fácil de entender? ¿Qué tipo de información adicional te gustaría ver en esta gestión?
+- 4. Si pudieras modificar o añadir una funcionalidad en esta sección, ¿cuál sería y por qué?
+
+**Cambios en Aulas y Reuniones:** 
+- 5. ¿Puedes describir el proceso que seguiste para registrar cambios de aula? ¿Qué parte te resultó más fácil o complicada?
+- 6. Si tuvieras que priorizar una mejora en esta área, ¿cuál sería y por qué crees que es importante?
+
+**Datos Personales:** 
+- 7. ¿Qué funcionalidades adicionales te gustaría tener para gestionar tu información personal de manera más eficiente?
+- 8. ¿Qué obstáculos has encontrado al intentar actualizar tu información personal?
+
+**Gestión del Personal:** 
+- 9. ¿Hay alguna herramienta o recurso que crees que podría mejorar la gestión del personal?
+- 10. ¿Hay alguna situación específica que hayas enfrentado que resalte una limitación en la gestión del personal?
+
+**Cálculo de Salarios:** 
+- 11. ¿Qué información te gustaría que se mostrara de manera más clara en la sección de cálculo de salarios?
+- 12. ¿Hay algún aspecto del proceso de cálculo de salarios que consideres confuso o complicado?
+
+**Cierre de Sesión:**
+- 13. ¿Has tenido alguna experiencia negativa al cerrar sesión que consideres importante compartir?
+- 14. ¿Cómo mejorarías la experiencia de cierre de sesión si tuvieras la oportunidad?
+
+#### Docente:
+**Sobre la Navegación:**
+
+-¿Hay alguna opción que te resultara difícil de acceder? Si es así, ¿por qué?
+-¿Hay algún nombre que no resuene contigo o que piensas que podría mejorarse?
+
+**Notificaciones:** 
+- 3. ¿Podrías dar un ejemplo de una notificación que consideres especialmente útil o, por el contrario, innecesaria?
+- 4. ¿Qué haría que revisaras las notificaciones con más frecuencia?
+
+**Reservas de Espacios:** 
+- 5. ¿Qué parte del proceso de reserva te resultó más fácil o complicada?
+- 6. Si pudieras cambiar algo en el proceso de reservas, ¿qué sería?
+
+**Generación de Informes de Averías:** 
+- 7. ¿Has tenido problemas al intentar generar un informe? Si es así, ¿qué aspectos fueron confusos?
+- 8. ¿Hay alguna información que crees que falta y que podría hacer el reporte más útil?
+
+**Consulta de Salarios:** 
+- 9. ¿Qué parte de la información sobre tu salario te gustaría que se presentara de manera diferente?
+- 10. ¿Tienes alguna sugerencia sobre cómo podrías obtener más información sobre tus salarios?
+
+**Disponibilidad de Espacios:**
+- 11. ¿Hubo alguna información que te gustaría haber tenido a la mano mientras consultabas la disponibilidad?
+- 12. Si pudieras añadir una funcionalidad o filtro, ¿cuál sería y cómo te ayudaría en tu trabajo?
+
 ### 5.3.2. Registro de Entrevistas
 
 ### 5.3.3. Evaluaciones según heurísticas
