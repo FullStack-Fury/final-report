@@ -732,54 +732,54 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 - ¿Qué tan claros consideras que son los nombres de las secciones disponibles en el menú? ¿Hubo algún nombre de sección que te causara confusión o que consideres que podría ser más descriptivo?
 
 **Gestión de Entornos y Equipamiento:** 
-- 3. Al gestionar los entornos y el equipo, ¿encontraste que la información presentada es suficiente y fácil de entender? ¿Qué tipo de información adicional te gustaría ver en esta gestión?
-- 4. Si pudieras modificar o añadir una funcionalidad en esta sección, ¿cuál sería y por qué?
+- Al gestionar los entornos y el equipo, ¿encontraste que la información presentada es suficiente y fácil de entender? ¿Qué tipo de información adicional te gustaría ver en esta gestión?
+- Si pudieras modificar o añadir una funcionalidad en esta sección, ¿cuál sería y por qué?
 
 **Cambios en Aulas y Reuniones:** 
-- 5. ¿Puedes describir el proceso que seguiste para registrar cambios de aula? ¿Qué parte te resultó más fácil o complicada?
-- 6. Si tuvieras que priorizar una mejora en esta área, ¿cuál sería y por qué crees que es importante?
+- ¿Puedes describir el proceso que seguiste para registrar cambios de aula? ¿Qué parte te resultó más fácil o complicada?
+- Si tuvieras que priorizar una mejora en esta área, ¿cuál sería y por qué crees que es importante?
 
 **Datos Personales:** 
-- 7. ¿Qué funcionalidades adicionales te gustaría tener para gestionar tu información personal de manera más eficiente?
-- 8. ¿Qué obstáculos has encontrado al intentar actualizar tu información personal?
+- ¿Qué funcionalidades adicionales te gustaría tener para gestionar tu información personal de manera más eficiente?
+- ¿Qué obstáculos has encontrado al intentar actualizar tu información personal?
 
 **Gestión del Personal:** 
-- 9. ¿Hay alguna herramienta o recurso que crees que podría mejorar la gestión del personal?
-- 10. ¿Hay alguna situación específica que hayas enfrentado que resalte una limitación en la gestión del personal?
+- ¿Hay alguna herramienta o recurso que crees que podría mejorar la gestión del personal?
+- ¿Hay alguna situación específica que hayas enfrentado que resalte una limitación en la gestión del personal?
 
 **Cálculo de Salarios:** 
-- 11. ¿Qué información te gustaría que se mostrara de manera más clara en la sección de cálculo de salarios?
-- 12. ¿Hay algún aspecto del proceso de cálculo de salarios que consideres confuso o complicado?
+- ¿Qué información te gustaría que se mostrara de manera más clara en la sección de cálculo de salarios?
+- ¿Hay algún aspecto del proceso de cálculo de salarios que consideres confuso o complicado?
 
 **Cierre de Sesión:**
-- 13. ¿Has tenido alguna experiencia negativa al cerrar sesión que consideres importante compartir?
-- 14. ¿Cómo mejorarías la experiencia de cierre de sesión si tuvieras la oportunidad?
+- ¿Has tenido alguna experiencia negativa al cerrar sesión que consideres importante compartir?
+- ¿Cómo mejorarías la experiencia de cierre de sesión si tuvieras la oportunidad?
 
 #### Docente:
 **Sobre la Navegación:**
 
--¿Hay alguna opción que te resultara difícil de acceder? Si es así, ¿por qué?
--¿Hay algún nombre que no resuene contigo o que piensas que podría mejorarse?
+- ¿Hay alguna opción que te resultara difícil de acceder? Si es así, ¿por qué?
+- ¿Hay algún nombre que no resuene contigo o que piensas que podría mejorarse?
 
 **Notificaciones:** 
-- 3. ¿Podrías dar un ejemplo de una notificación que consideres especialmente útil o, por el contrario, innecesaria?
-- 4. ¿Qué haría que revisaras las notificaciones con más frecuencia?
+- ¿Podrías dar un ejemplo de una notificación que consideres especialmente útil o, por el contrario, innecesaria?
+- ¿Qué haría que revisaras las notificaciones con más frecuencia?
 
 **Reservas de Espacios:** 
-- 5. ¿Qué parte del proceso de reserva te resultó más fácil o complicada?
-- 6. Si pudieras cambiar algo en el proceso de reservas, ¿qué sería?
+- ¿Qué parte del proceso de reserva te resultó más fácil o complicada?
+- Si pudieras cambiar algo en el proceso de reservas, ¿qué sería?
 
 **Generación de Informes de Averías:** 
-- 7. ¿Has tenido problemas al intentar generar un informe? Si es así, ¿qué aspectos fueron confusos?
-- 8. ¿Hay alguna información que crees que falta y que podría hacer el reporte más útil?
+- ¿Has tenido problemas al intentar generar un informe? Si es así, ¿qué aspectos fueron confusos?
+- ¿Hay alguna información que crees que falta y que podría hacer el reporte más útil?
 
 **Consulta de Salarios:** 
-- 9. ¿Qué parte de la información sobre tu salario te gustaría que se presentara de manera diferente?
-- 10. ¿Tienes alguna sugerencia sobre cómo podrías obtener más información sobre tus salarios?
+- ¿Qué parte de la información sobre tu salario te gustaría que se presentara de manera diferente?
+- ¿Tienes alguna sugerencia sobre cómo podrías obtener más información sobre tus salarios?
 
 **Disponibilidad de Espacios:**
-- 11. ¿Hubo alguna información que te gustaría haber tenido a la mano mientras consultabas la disponibilidad?
-- 12. Si pudieras añadir una funcionalidad o filtro, ¿cuál sería y cómo te ayudaría en tu trabajo?
+- ¿Hubo alguna información que te gustaría haber tenido a la mano mientras consultabas la disponibilidad?
+- Si pudieras añadir una funcionalidad o filtro, ¿cuál sería y cómo te ayudaría en tu trabajo?
 
 ### 5.3.2. Registro de Entrevistas
 
