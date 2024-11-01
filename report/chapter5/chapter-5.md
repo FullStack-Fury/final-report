@@ -1230,3 +1230,26 @@ Youtube:
 - Facilio. (2024). Facilio: Platform for facilities management. Recuperado de https://facilio.com/
 - FMX. (2024). Facilities Management eXpress: Software para la gestión de instalaciones. Recuperado de https://www.gofmx.com/
 - Archibus. (2024). Archibus: Complete facilities management platform. Recuperado de https://archibus.com/
+
+# Anexos
+
+## Videos de Exposiciones
+
+### Exposición TB1:
+**Título del Proyecto**: EduSpace
+**Participantes**:
+**Link a la Exposición en Microsoft Stream**:
+
+### Exposición TP:
+**Título del Proyecto**: EduSpace
+**Participantes**:
+**Link a la Exposición en Microsoft Stream**:
+
+### Exposición TB2:
+**Título del Proyecto**: EduSpace
+**Participantes**:
+**Link a la Exposición en Microsoft Stream**:
+
+### About The Team
+
+Enlace para acceder al video About The Team subido a Microsoft Stream:
