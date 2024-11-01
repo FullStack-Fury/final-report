@@ -1204,8 +1204,11 @@ Heurística violada:
 A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
 
 Timing:
+
 enlace para acceder al video del About the product:
+
 Microsoft Stream:
+
 Youtube:
 
 
@@ -1236,18 +1239,27 @@ Youtube:
 ## Videos de Exposiciones
 
 ### Exposición TB1:
+
 **Título del Proyecto**: EduSpace
+
 **Participantes**:
+
 **Link a la Exposición en Microsoft Stream**:
 
 ### Exposición TP:
+
 **Título del Proyecto**: EduSpace
+
 **Participantes**:
+
 **Link a la Exposición en Microsoft Stream**:
 
 ### Exposición TB2:
+
 **Título del Proyecto**: EduSpace
+
 **Participantes**:
+
 **Link a la Exposición en Microsoft Stream**:
 
 ### About The Team
