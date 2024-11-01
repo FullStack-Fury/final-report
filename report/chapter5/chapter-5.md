@@ -783,6 +783,40 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento objetivo Administrador
+
+**Entrevistado: 1**
+
+
+**Nombre :** 
+
+
+**Apellidos:** 
+
+
+**Edad :** 
+
+
+**Distrito:** 
+
+
+**Imagen:** 
+
+
+| Resumen de la Entrevista  | Timing | URL  |
+|-----------------------------|--------|------|
+|  |    |      | 
+
+
+
+
+
+
+
+
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
