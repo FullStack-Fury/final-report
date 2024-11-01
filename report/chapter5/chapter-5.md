@@ -922,7 +922,291 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+__________________________________________________________________________________________
+
+<strong> <p style="text-align: center;"> UX Heuristics & Principles Evaluation </p> </strong> 
+
+<p style="text-align: center; font-weight: bold;   font-style: italic;"> Usability – Inclusive Design – Information Architecture </p>
+
+**_CARRERA:_** Ingeniería de Software
+
+**_CURSO:_** Aplicaciones Web
+
+**_SECCIÓN:_** SV51
+
+**_PROFESOR:_** Angel Augusto Velazque Nuñez
+
+**_AUDITOR:_** FullStackFury
+
+**_CLIENTE:_** FullStackFury
+
+__________________________________________________________________________________________
+
+**SITE o APP A EVALUAR:**
+EduSpace
+---
+### TAREAS A EVALUAR:
+
+#### Landing Page
+1. 
+2. 
+3. 
+4. 
+5. 
+
+#### Web Application
+1. 
+2. 
+3. 
+4. 
+5. 
+#### NO INCLUIDAS EN LA EVALUACIÓN:
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+---
+
+
+**ESCALA DE SEVERIDAD:**
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+<table>
+<thead>
+  <tr>
+    <th> Nivel </th>
+    <th> Descripción </th>
+  </tr>
+</thead>
+
+<tbody>
+  <!--========================================= FILA 1 ======================================-->
+  <tr>
+    <td> 1 </td>
+    <td> 
+      Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+      frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo 
+    </td>
+  </tr>
+  <!--========================================= FILA 2 ======================================-->
+  <tr>
+    <td> 2 </td>
+    <td> 
+      Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+      superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+      reléase
+    </td>
+  </tr>
+  <!--========================================= FILA 3 ======================================-->
+  <tr>
+    <td> 3 </td>
+    <td> 
+      Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+      importante que sean corregidos y se les debe asignar una prioridad alta.
+    </td>
+  </tr>
+  <!--========================================= FILA 4 ======================================-->
+  <tr>
+    <td> 4 </td>
+    <td> 
+      Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+      la herramienta. Es imperativo que sea corregido antes del lanzamiento
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+**TABLA DE RESUMEN - LANDING PAGE:**
+
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+  <!--========================================= FILA 2 ======================================-->
+ <tr>
+  <td> 2 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td> 5 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+</tbody>
+</table>
+
+**_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
+
+**_PROBLEMA #1:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problema1.PNG)
+
+**_Recomendación:_**
+
+**_PROBLEMA #2:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problema1.PNG)
+
+**_Recomendación:_**
+
+**_PROBLEMA #3:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problema1.PNG)
+
+**_Recomendación:_**
+
+
+**TABLA DE RESUMEN - WEB APPLICATION:**
+
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td> 2 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td> 5 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+</tbody>
+</table>
+
+**_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
+
+**_PROBLEMA #1:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problemaW1.png)
+
+**_Recomendación:_**
+
+**_PROBLEMA #2:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problemaW2.png)
+
+**_Recomendación:_**
+
+**_PROBLEMA #3:_**
+
+**_Severidad: #_**
+
+Heurística violada:
+
+**_Problema:_**
+
+![](images/problemaW3.png)
+
+**_Recomendación:_**
+
+
 ## 5.4. Video About-the-Product
+
+A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
+
+Timing:
+enlace para acceder al video del About the product:
+Microsoft Stream:
+Youtube:
 
 
 
@@ -933,6 +1217,13 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 - Se establecieron medios de comunicación efectivos, lo que permitió mantener a todos los miembros del equipo informados y alineados. Esto fue fundamental para el trabajo donde la coordinación y la colaboración son clave. Las revisiones continuas de los avances y la retroalimentación constructiva indicaron un ambiente de aprendizaje donde cada miembro tuvo la oportunidad de mejorar y contribuir al desarrollo del trabajo.
 
 - La planificación de tareas desde el principio y el establecimiento de metas claras reflejan un enfoque proactivo. Esto no solo ayuda a mantener el rumbo, sino que también permite hacer ajustes en función del progreso observado. La organización de la documentación principal y la estructura del informe del trabajo demuestran un compromiso con la claridad y la calidad, aspectos importantes para la presentación final del proyecto.
+
+- El desarrollo del backend ha sido fundamental para proporcionar una base sólida para futuras integraciones con el frontend. Las nuevas funcionalidades y la estructura del backend permitirán una gestión más eficiente de los procesos, una vez que se establezca la conexión entre ambos.
+
+- El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados aldilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
+  
+- Los repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
+- 
 
 # Bibliografia
 - Conne, M(2024). The Markdown Guide. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
