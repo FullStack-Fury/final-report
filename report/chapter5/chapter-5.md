@@ -1051,16 +1051,16 @@ EduSpace
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Sección de Herramientas con espacio desaprovechado </td>
+  <td> 3 </td>
+  <td> Usability - Diseño estético y minimalista </td>
 </tr>
 <!--========================================= FILA 4 ======================================-->
 <tr>
   <td> 4 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Barra de navegación estática no accesible durante la navegación </td>
+  <td> 2 </td>
+  <td> Usability - Visibilidad y accesibilidad </td>
 </tr>
 <!--========================================= FILA 5 ======================================-->
 <tr>
@@ -1123,6 +1123,28 @@ La sección de "Herramientas" presenta solo tres cards en un espacio amplio, lo 
 **_Recomendación:_**
 
 Considerar aumentar el número de herramientas presentadas, agregar imágenes o gráficos que complementen el contenido, o incorporar elementos visuales que llenen el espacio vacío. Esto mejorará la estética de la sección y fomentará un mayor interés y participación de los usuarios.
+
+
+
+**_PROBLEMA #4:_** Barra de navegación estática no accesible durante la navegación
+
+**_Severidad: 2_**
+
+Heurística violada: Usability - Visibilidad y accesibilidad
+
+**_Problema:_**
+
+La barra de navegación no está disponible de manera continua mientras el usuario navega por la página. Esto dificulta el acceso a otras secciones y puede llevar a una experiencia de usuario frustrante al tener que desplazarse hacia arriba para volver a acceder a ella.
+
+![](../../assets/heuristicalandin4.jpg)
+
+**_Recomendación:_**
+
+Implementar una barra de navegación que permanezca visible durante el desplazamiento, asegurando que los usuarios puedan acceder a diferentes secciones en cualquier momento. Esto mejorará la fluidez de la navegación y facilitará la interacción con el contenido de la página.
+
+
+
+
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
 
