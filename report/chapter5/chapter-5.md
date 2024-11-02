@@ -649,6 +649,12 @@ Analiticas de Colaboración:
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Esta sección muestra los logros alcanzados en la documentación de Web Services durante el Sprint, detallando la implementación de endpoints para gestionar reservas, informes, nóminas, reuniones, aulas, recursos, áreas compartidas y perfiles de profesores. Cada endpoint incluye su acción correspondiente, el verbo HTTP y los parámetros necesarios para las consultas. Se presentan ejemplos de respuesta y capturas que ilustran la interacción con los datos. Además, se incluye un enlace al repositorio con los commits relacionados con la documentación de este Sprint.
+
+| URL    | Endpoint          | HTTP Verb | Acción Implementada    | Sintaxis de Llamada        | Parámetros Posibles      | Ejemplo de Response                | Explicación del Response                |
+|-----------------|-------------|-----------|----------|-------------------|------------------------------|----------------------------------------|-----------------------------------------|
+|  | /api/v1/Revervations  | GET  | Obtener toda las reservaciones  | 'accept: application/json' | Ninguno | `[{"id": 0,"start": "2024-11-02T23:31:31.713Z","end": "2024-11-02T23:31:31.713Z"}]`| Retorna un array de objetos reservas    |
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
