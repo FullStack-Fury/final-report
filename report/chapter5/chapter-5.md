@@ -300,9 +300,9 @@ En el presente sprint solo se desarrollo la Landing Page.
 <p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
 <p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
 
-![URL](https://github.com/user-attachments/assets/6720aa9a-fa10-41f4-9649-acdf33786c04)
+![URL](https://raw.githubusercontent.com/FullStack-Fury/final-report/refs/heads/main/assets/urlLandingPage.jpg)
 
-![alt text](../../assets/screen-lp.png)
+![alt text](../../assets/LandingPageMockup.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
