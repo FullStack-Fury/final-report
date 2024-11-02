@@ -362,7 +362,7 @@ En esta sección se presentará una representación de la landing page tanto par
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/776cf9ab-2347-4ca2-b9c4-1f5ff35f3ee7" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/776cf9ab-2347-4ca2-b9c4-1f5ff35f3ee7](https://raw.githubusercontent.com/FullStack-Fury/final-report/refs/heads/main/assets/LandingPageMockup.png" alt="LandingPage">
 </div>
 </br>
 
