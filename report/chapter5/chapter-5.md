@@ -297,8 +297,8 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<p> Utilizamos Github Pages para el despligue de la <a href="https://pro-devs-si730.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
-<p> Link URL de la Landing Page : <a href="https://pro-devs-si730.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
+<p> Utilizamos Github Pages para el despligue de la <a href="https://fullstack-fury.github.io/landing-page/">Landing Page de la Aplicación.</a></p>
+<p> Link URL de la Landing Page : <a href="https://fullstack-fury.github.io/landing-page/">https://pro-devs-si730.github.io/landing-page/</a></p>
 
 ![URL](https://raw.githubusercontent.com/FullStack-Fury/final-report/refs/heads/main/assets/urlLandingPage.jpg)
 
