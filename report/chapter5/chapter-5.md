@@ -1108,18 +1108,21 @@ Cuando se reduce el tamaño de la pantalla, el botón de internacionalización d
 Asegurar que el botón de cambio de idioma esté visible y accesible en todas las resoluciones de pantalla mediante ajustes en el diseño responsivo, preferiblemente ubicándolo en un área fija o accesible del menú móvil.
 
 
-**_PROBLEMA #3:_**
+**_PROBLEMA #3:_** Sección de Herramientas con espacio desaprovechado
 
-**_Severidad: #_**
+**_Severidad: 3_**
 
-Heurística violada:
+Heurística violada: Usability - Diseño estético y minimalista
 
 **_Problema:_**
 
-![](images/problema1.PNG)
+La sección de "Herramientas" presenta solo tres cards en un espacio amplio, lo que crea una apariencia de vacío y puede hacer que los usuarios se sientan desinteresados. Este diseño poco atractivo puede llevar a una disminución en la interacción con las herramientas ofrecidas.
+
+![](../../assets/heuristicalandin3.jpg)
 
 **_Recomendación:_**
 
+Considerar aumentar el número de herramientas presentadas, agregar imágenes o gráficos que complementen el contenido, o incorporar elementos visuales que llenen el espacio vacío. Esto mejorará la estética de la sección y fomentará un mayor interés y participación de los usuarios.
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
 
