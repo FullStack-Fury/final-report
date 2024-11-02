@@ -654,6 +654,32 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 | URL    | Endpoint          | HTTP Verb | Acción Implementada    | Sintaxis de Llamada        | Parámetros Posibles      | Ejemplo de Response                | Explicación del Response                |
 |-----------------|-------------|-----------|----------|-------------------|------------------------------|----------------------------------------|-----------------------------------------|
 |  | /api/v1/Revervations  | GET  | Obtener toda las reservaciones  | 'accept: application/json' | Ninguno | `[{"id": 0,"start": "2024-11-02T23:31:31.713Z","end": "2024-11-02T23:31:31.713Z"}]`| Retorna un array de objetos reservas    |
+|  | /api/v1/Classrooms        | GET    |         |           |       |           |          | 
+|  | /api/v1/Classrooms        | POST    |         |           |       |           |          | 
+|  | /api/v1/Classrooms/{classroomId}        | GET    |         |           |       |           |          | 
+|  | /api/v1/Classrooms/{classroomId}/resources    | GET    |         |           |       |           |      | 
+|  | /api/v1/Reservations        | GET    |         |           |       |           |          | 
+|  | /api/v1/Reservations        | POST   |         |           |       |           |          | 
+|  | /api/v1/Reservations/areas/{areaId}        | GET   |         |           |       |           |          | 
+|  | /api/v1/Resource        | GET    |         |           |       |           |          |
+|  | /api/v1/Resource        | POST   |         |           |       |           |          |
+|  | /api/v1/Resource/{resourceId}        | GET   |         |           |       |           |          |
+|  | /api/v1/SharedArea        | GET     |         |           |       |           |          |
+|  | /api/v1/SharedArea        | POST    |         |           |       |           |          |
+|  | /api/v1/SharedArea/{sharedAreaId}        | GET    |         |           |       |           |          |
+|  | /api/v1/Meetings       | GET    |         |           |       |           |          |
+|  | /api/v1/Meetings       | POST    |         |           |       |           |          |
+|  | /api/v1/Meetings/{meetingId}       | GET    |         |           |       |           |          |
+|  | /api/v1/Reports        | GET    |         |           |       |           |          |
+|  | /api/v1/Reports        | POST   |         |           |       |           |          |
+|  | /api/v1/Reports/resources/{resourceId}        | GET    |         |           |       |           |          |
+|  | /api/v1/TeachersProfiles        |  POST   |         |           |       |           |          |
+|  | /api/v1/Payrolls        | GET    |         |           |       |           |          |
+|  | /api/v1/Payrolls        | POST    |         |           |       |           |          |
+
+
+
+
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
