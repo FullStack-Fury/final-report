@@ -199,8 +199,8 @@ una de las tareas identificadas para el sprint.
 | Attendees (to planning meeting) | Franz Escalante/ Randel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                                                                              |
 | Sprint 1 Review Summary         | En esta primera seccion se planteo el desarrollo de la Landing Page para el proyecto                                                                             |
 | Sprint 1 Retrospective Summary  | En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page |
-| Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | Desarrollar, desplegar y hacer visible la landing page con todos sus componentes y similar a los mockup de la aplicación.                                        |
+| Sprint Goal & User Stories      |                            |
+| Sprint 1 Goal                   | Nuestro objetivo es desarrollar, desplegar y hacer visible la landing page, integrando todos sus componentes clave y garantizando una apariencia coherente con los mockups de la aplicación. El éxito se logrará cuando la página esté completamente funcional y accesible para los usuarios.       |
 | Sprint 1 Velocity               | 4 Velocity                                                                                                                                                       |
 | Sum of Story Points             | 6 Story Points.                                                                                                                                                  |
 
