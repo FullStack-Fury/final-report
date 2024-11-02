@@ -657,7 +657,7 @@ A continuación, se describe la configuración detallada del despliegue de cada 
 
 [Link del frontend desplegado](https://eduspace-frontend-omega.vercel.app/)
 
-[Ling de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html)
+[Link de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html)
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
