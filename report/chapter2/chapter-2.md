@@ -544,6 +544,7 @@ Por un lado, el 100% de los administradores tiene una edad superior a 36 años, 
 
 ### 2.3.1.USER PERSONAS
 - User Persona Docente:
+  
 ![docente](https://github.com/user-attachments/assets/ce320abe-8f59-4082-8774-2d8e1ffc7e85)
 
 - User Persona Administrador
