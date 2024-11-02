@@ -544,9 +544,11 @@ Por un lado, el 100% de los administradores tiene una edad superior a 36 años, 
 
 ### 2.3.1.USER PERSONAS
 - User Persona Docente:
-![](../../assets/Ana%20Ruiz-Userpersona.png)
+![docente](https://github.com/user-attachments/assets/ce320abe-8f59-4082-8774-2d8e1ffc7e85)
+
 - User Persona Administrador
-  ![](../../assets/Michael%20Sanchez-User%20persona.png)
+
+![admin](https://github.com/user-attachments/assets/fb77ad97-9319-4d09-8633-f71db571eadf)
 
 ### 2.3.2 USER TASK MATRIX
 
