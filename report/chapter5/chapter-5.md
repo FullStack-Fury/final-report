@@ -651,6 +651,15 @@ Analiticas de Colaboración:
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
+
+[Link del backend desplegado]()
+
+[Link del frontend desplegado](https://eduspace-frontend-omega.vercel.app/)
+
+[Ling de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html)
+
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
