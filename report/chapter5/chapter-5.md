@@ -502,9 +502,9 @@ Para este segundo sprint
     <td colspan="1">TSK011</td>
     <td colspan="2">Registro de salarios</td>
     <td colspan="3">Desarrollar un módulo que permita el ingreso y actualización de los salarios de los docentes.</td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">4</td>
+    <td colspan="2">Antayhua Castillo, Oscar Josué</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US20</td>
