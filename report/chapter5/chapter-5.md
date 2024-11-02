@@ -366,11 +366,11 @@ Para este segundo sprint
 | Location                        | Servidor de Discord del Equipo                                                                                  |
 | Prepared By                     | Franz Escalante                                                                                                 |
 | Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                            |
-| Sprint 1 Review Summary         |                                                                                                                 |
-| Sprint 1 Retrospective Summary  |                                                                                                                 |
+| Sprint 2 Review Summary         |                                                                                                                 |
+| Sprint 2 Retrospective Summary  |                                                                                                                 |
 | Sprint Goal & User Stories      |
-| Sprint 1 Goal                   | La meta principal es que la aplicación pueda ser usada con todas las funciones descritas en los bounded context |
-| Sprint 1 Velocity               | 4 Velocity                                                                                                      |
+| Sprint 2 Goal                   | Nuestro objetivo es implementar las funcionalidades clave descritas en los bounded contexts, incluyendo el registro de información personal y credenciales de docentes, la gestión de aulas y espacios compartidos, y la administración de salarios. Esto implica formularios de registro, gestión de horarios y reservas de espacios, y un sistema automatizado para enviar salarios. El éxito se logrará cuando todos estos módulos estén completamente operativos y accesibles para usuarios y administradores. |
+| Sprint 2 Velocity               | 4 Velocity                                                                                                      |
 | Sum of Story Points             | 28 Story Points.                                                                                                |
 
 
