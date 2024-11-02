@@ -342,7 +342,7 @@ En esta sección se mostrará una representación de la landing page para Deskto
 **Landing Page para Desktop Web Browser:**
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/e7c861f3-781f-4dc2-bc7a-210a4762b4a0" alt="LP-desktop">
+    <img src="https://github.com/user-attachments/assets/6a441643-2bcb-4e45-9ce7-e7f656e2806c" alt="LP-desktop">
 </div>
 </br>
 
@@ -350,7 +350,7 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/016beaa8-5e38-4253-9c81-37a91eb1a3fc" alt="LP-webmobile">
+    <img src="https://github.com/user-attachments/assets/8cd02c5a-8fe8-4516-8cdf-6342b41dc2df" alt="LP-webmobile">
 </div>
 </br>
 
@@ -362,7 +362,7 @@ En esta sección se presentará una representación de la landing page tanto par
 
 <br>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/FullStack-Fury/final-report/refs/heads/main/assets/LandingPageMockup.png" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/bfa6fcee-356d-4d61-89e7-fd845174c53f" alt="LandingPage">
 </div>
 </br>
 
@@ -370,7 +370,7 @@ En esta sección se presentará una representación de la landing page tanto par
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/bd85d9ed-7d92-4e22-854b-3ec0c96f0de5" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/ab8588de-5106-4559-9629-677e29b5287e" alt="LandingPage">
 </div>
 </br>
 
