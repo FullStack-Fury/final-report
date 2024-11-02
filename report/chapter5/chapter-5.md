@@ -948,11 +948,12 @@ EduSpace
 ### TAREAS A EVALUAR:
 
 #### Landing Page
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Información y descripción de la aplicación y sus funcionalidades
+2. Header y footer apropiado para la landing page
+3. Interacción del landing page con la aplicación
+4. Interacción con el formulario de contacto
+5. Navegación en la landing page
+
 
 #### Web Application
 1. 
@@ -962,9 +963,9 @@ EduSpace
 5. 
 #### NO INCLUIDAS EN LA EVALUACIÓN:
 
-1. 
-2. 
-3. 
+1. Redes sociales asociadas al startup
+2. Política de privacidad y condiciones de uso
+3. Integración con sistemas de pago
 4. 
 5. 
 
@@ -1036,16 +1037,16 @@ EduSpace
 <!--========================================= FILA 1 ======================================-->
 <tr>
   <td> 1 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Formulario de contacto sin funcionalidad real de envío </td>
+  <td> 2 </td>
+  <td> Usability - Fiabilidad y expectativas del usuario </td>
 </tr>
   <!--========================================= FILA 2 ======================================-->
  <tr>
   <td> 2 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Desaparición del botón de internacionalización en pantallas pequeñas </td>
+  <td> 3 </td>
+  <td> Usability - Visibilidad y accesibilidad </td>
 </tr>
 <!--========================================= FILA 3 ======================================-->
 <tr>
@@ -1073,29 +1074,39 @@ EduSpace
 
 **_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
 
-**_PROBLEMA #1:_**
+**_PROBLEMA #1:_** Formulario de contacto sin funcionalidad real de envío
 
-**_Severidad: #_**
+**_Severidad: 2_** 
 
-Heurística violada:
+Heurística violada: Usability - Fiabilidad y expectativas del usuario
+
+**_Problema:_** 
+
+La sección "Contáctenos" ofrece un mensaje de confirmación tras el envío de un formulario, pero este no envía realmente el mensaje a ningún destino. Esta discrepancia puede generar confusión en los usuarios, que esperan recibir una respuesta. La falta de funcionalidad real reduce la credibilidad de la página, ya que los usuarios pueden cuestionar la efectividad y profesionalismo de la aplicación.
+
+![](../../assets/heuristicalandin1.jpg)
+
+**_Recomendación:_**
+
+Para mejorar la experiencia del usuario, se puede implementar una simulación de backend que almacene los mensajes, permitiendo a los desarrolladores acceder a ellos para futuras interacciones. 
+
+
+**_PROBLEMA #2:_** Desaparición del botón de internacionalización en pantallas pequeñas
+
+**_Severidad: 3_**
+
+Heurística violada: Usability - Visibilidad y accesibilidad
 
 **_Problema:_**
 
-![](images/problema1.PNG)
+Cuando se reduce el tamaño de la pantalla, el botón de internacionalización desaparece, impidiendo que los usuarios seleccionen su idioma preferido en dispositivos móviles. Esto limita la accesibilidad y flexibilidad de la página.
+
+![](../../assets/heuristicalandin2.jpg)
 
 **_Recomendación:_**
 
-**_PROBLEMA #2:_**
+Asegurar que el botón de cambio de idioma esté visible y accesible en todas las resoluciones de pantalla mediante ajustes en el diseño responsivo, preferiblemente ubicándolo en un área fija o accesible del menú móvil.
 
-**_Severidad: #_**
-
-Heurística violada:
-
-**_Problema:_**
-
-![](images/problema1.PNG)
-
-**_Recomendación:_**
 
 **_PROBLEMA #3:_**
 
