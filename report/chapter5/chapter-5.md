@@ -1179,21 +1179,23 @@ EduSpace
 3. Interacción del landing page con la aplicación
 4. Interacción con el formulario de contacto
 5. Navegación en la landing page
+6. Responsividad y adaptabilidad
 
 
 #### Web Application
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Gestión de usuarios
+2. Funcionalidad de notificaciones y recordatorios
+3. Navegación intuitiva y estructura de menú
+4. Estética general de la interfaz
+5. Funcionalidad de internacionalización
+   
 #### NO INCLUIDAS EN LA EVALUACIÓN:
 
 1. Redes sociales asociadas al startup
 2. Política de privacidad y condiciones de uso
 3. Integración con sistemas de pago
-4. 
-5. 
+4. Funcionalidad de Classroom Changes and Meetings
+5. Funcionalidad de Personal Management
 
 ---
 
@@ -1287,13 +1289,6 @@ EduSpace
   <td> Barra de navegación estática no accesible durante la navegación </td>
   <td> 2 </td>
   <td> Usability - Visibilidad y accesibilidad </td>
-</tr>
-<!--========================================= FILA 5 ======================================-->
-<tr>
-  <td> 5 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
 </tr>
 </tbody>
 </table>
@@ -1408,16 +1403,9 @@ Implementar una barra de navegación que permanezca visible durante el desplazam
 <!--========================================= FILA 4 ======================================-->
 <tr>
   <td> 4 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
-</tr>
-<!--========================================= FILA 5 ======================================-->
-<tr>
-  <td> 5 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Falta de implementación de la funcionalidad de internacionalización </td>
+  <td> 4 </td>
+  <td> Usability – Flexibilidad y eficiencia de uso </td>
 </tr>
 </tbody>
 </table>
@@ -1474,6 +1462,26 @@ En la sección "Meetings Management", se presentan dos opciones para eliminar un
 **_Recomendación:_**
 
 Para resolver este problema, se recomienda eliminar la opción de botón "Delete" si no está funcionando correctamente y conservar únicamente el ícono para eliminar, que es funcional. Además, se debería asegurar que la acción de eliminar esté claramente etiquetada y sea intuitiva para el usuario. Considerar también proporcionar una confirmación antes de llevar a cabo la eliminación para prevenir errores. Esto mejorará la consistencia de la interfaz y facilitará la comprensión y uso por parte de los usuarios.
+
+
+**_PROBLEMA #4:_** Duplicación de opciones para eliminar reuniones en la sección "Meetings Management"
+
+**_Severidad: 4_**
+
+Heurística violada: Usability – Flexibilidad y eficiencia de uso
+
+**_Problema:_**
+
+La aplicación carece de una funcionalidad de internacionalización que permita a los usuarios cambiar el idioma de la interfaz según sus preferencias. Esta omisión limita la accesibilidad y usabilidad de la aplicación, especialmente para usuarios que no dominan el idioma predeterminado. La falta de esta función puede causar frustración y una experiencia de usuario negativa, ya que dificulta la comprensión del contenido y las interacciones con la aplicación.
+
+
+![](../../assets/heuristicaweb4.jpg)
+
+**_Recomendación:_**
+
+Para abordar este problema, se recomienda implementar una función de internacionalización que permita a los usuarios seleccionar su idioma preferido desde un menú accesible. Esto debe incluir la traducción de todos los elementos de la interfaz y del contenido relevante. Es fundamental realizar pruebas con usuarios que hablen diferentes idiomas para asegurar que la implementación sea efectiva y satisfactoria.
+
+
 
 
 ## 5.4. Video About-the-Product
