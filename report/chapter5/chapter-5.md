@@ -71,11 +71,13 @@ Ruta de referencia: https://vercel.com/
 ### 5.1.2. Source Code Management.
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
+
 Repositorio de GitHub:
 - Enlace para acceder a la organización en GitHub: https://github.com/pro-devs-SI730
 - Enlace para acceder al repositorio de la landing Page: https://github.com/pro-devs-SI730/landing-page
 - Enlace para acceder al repositorio del reporte final: https://github.com/pro-devs-SI730/final-report
 - Enlace para acceder al repositorio del front end: https://github.com/pro-devs-SI730/eduspace-frontend
+- Enlace para acceder al repositorio del back end: https://github.com/FullStack-Fury/eduspace-platform
 
 Flujo de trabajo GitFlow
 
@@ -206,6 +208,7 @@ una de las tareas identificadas para el sprint.
 
 
 
+
 ### 5.2.1.2. Sprint Backlog 1
 
 | User Story Id | User Story Title                                  | Work-Item/Task Id | Work-Item/Task Title                                    | Description                                                                                                  | Estimation | Assigned To | Status |
@@ -268,6 +271,9 @@ US02-Encontrar información del propósito de la aplicación
 
 ![](../../assets/landing2.PNG)
 
+![image](https://github.com/user-attachments/assets/601309d5-65b1-4d10-93e0-17cd4ca7417d)
+
+
 US04-Tipografía cómoda y agradable estéticamente
 
 ![](../../assets/landing3.PNG)
@@ -305,6 +311,7 @@ En el presente sprint solo se desarrollo la Landing Page.
 ![alt text](../../assets/LandingPageMockup.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
@@ -346,7 +353,9 @@ Analiticas de Colaboración:
 ![alt text](../../assets/AnaliticasLanding.PNG)
 
 
+Commits Actualizados: 
 
+![image](https://github.com/user-attachments/assets/0953a184-4599-4379-ac1a-f2920539edd9)
 
 
 
@@ -366,14 +375,12 @@ Para este segundo sprint
 | Location                        | Servidor de Discord del Equipo                                                                                  |
 | Prepared By                     | Franz Escalante                                                                                                 |
 | Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                            |
-| Sprint 2 Review Summary         |                                                                                                                 |
-| Sprint 2 Retrospective Summary  |                                                                                                                 |
+| Sprint 2 Review Summary         |    En la reunión se planteo la velocidad y los story points del sprint backlog 2                                                                                                             |
+| Sprint 2 Retrospective Summary  |           En este segundo sprint muchos de los integrantes tuvieron problemas al completar sus user tasks. Hubieron muchas reuniones, sin embargo no fue posible cumplir con la entega de todos los user tasks.                                                                                                      |
 | Sprint Goal & User Stories      |
 | Sprint 2 Goal                   | Nuestro objetivo es implementar las funcionalidades clave descritas en los bounded contexts, incluyendo el registro de información personal y credenciales de docentes, la gestión de aulas y espacios compartidos, y la administración de salarios. Esto implica formularios de registro, gestión de horarios y reservas de espacios, y un sistema automatizado para enviar salarios. El éxito se logrará cuando todos estos módulos estén completamente operativos y accesibles para usuarios y administradores. |
 | Sprint 2 Velocity               | 4 Velocity                                                                                                      |
 | Sum of Story Points             | 28 Story Points.                                                                                                |
-
-
 
 ### 5.2.2.2. Sprint Backlog 2
 
@@ -1100,7 +1107,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-|  |    |      | 
+| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |      | 
 
 **Entrevistado: 2**
 
