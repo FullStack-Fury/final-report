@@ -945,11 +945,11 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
 
-[Link del backend desplegado]()
+[Link del backend desplegado]() : 
 
-[Link del frontend desplegado](https://eduspace-frontend-omega.vercel.app/)
+[Link del frontend desplegado](https://eduspace-frontend-eight.vercel.app/) : https://eduspace-frontend-eight.vercel.app/
 
-[Link de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html)
+[Link de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html) : https://fullstack-fury.github.io/landing-page/index.html
 
 Deploy DataBase:
 
