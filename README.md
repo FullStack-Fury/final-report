@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/upcLogo.png" alt="Logo de UPC" width="100%">
+  <img src="../../assets/upcLogo.png" alt="Logo de UPC" width="100%">
 </p>
 
 <div align="center">
@@ -266,10 +266,14 @@ del ABET – EAC - Student Outcome 5.</p>
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](/report/chapter5/chapter-5.md#53-validation-interviews)
+    - [.3.1. Diseño de Entrevistas](/report/chapter5/chapter-5.md#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](/report/chapter5/chapter-5.md#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](/report/chapter5/chapter-5.md#533-evaluaciones-según-heurísticas)
 
 
-[Conclusiones](#conclusiones)
+[Conclusiones](/report/chapter5/chapter-5.md#conclusiones)
 
-[Bibliografía](#bibliografía)
+[Bibliografía](/report/chapter5/chapter-5.md#bibliografía)
 
-[Anexos](#anexos)
+[Anexos](/report/chapter5/chapter-5.md#anexos)
