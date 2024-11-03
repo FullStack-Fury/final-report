@@ -1401,9 +1401,9 @@ Implementar una barra de navegación que permanezca visible durante el desplazam
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Duplicación de opciones para eliminar reuniones en la sección "Meetings Management" </td>
+  <td> 3 </td>
+  <td> Usability – Consistencia y estándares </td>
 </tr>
 <!--========================================= FILA 4 ======================================-->
 <tr>
@@ -1459,17 +1459,21 @@ En la interfaz, al presionar el botón "Log out", el usuario es desconectado inm
 Para solucionar este problema, se recomienda implementar un mensaje de advertencia que aparezca al presionar "Log out", solicitando la confirmación del usuario antes de proceder con la desconexión. Este mensaje debe informar al usuario que está a punto de cerrar sesión y ofrecer opciones para confirmar o cancelar la acción. Al hacerlo, se mejora la experiencia del usuario y se minimizan los errores accidentales relacionados con la desconexión.
 
 
-**_PROBLEMA #3:_**
+**_PROBLEMA #3:_** Duplicación de opciones para eliminar reuniones en la sección "Meetings Management"
 
-**_Severidad: #_**
+**_Severidad: 3_**
 
-Heurística violada:
+Heurística violada: Usability – Consistencia y estándares
 
 **_Problema:_**
 
-![](images/problemaW3.png)
+En la sección "Meetings Management", se presentan dos opciones para eliminar una reunión: un botón de "Delete" que no funciona y un ícono de eliminar que sí funciona. Esta duplicación de opciones puede causar confusión entre los usuarios, quienes podrían no estar seguros de cuál opción utilizar. Además, la inoperatividad del botón "Delete" genera frustración, ya que los usuarios pueden intentar usarlo sin éxito, lo que afecta negativamente la experiencia general de uso de la aplicación.
+
+![](../../assets/heuristicaweb3.jpg)
 
 **_Recomendación:_**
+
+Para resolver este problema, se recomienda eliminar la opción de botón "Delete" si no está funcionando correctamente y conservar únicamente el ícono para eliminar, que es funcional. Además, se debería asegurar que la acción de eliminar esté claramente etiquetada y sea intuitiva para el usuario. Considerar también proporcionar una confirmación antes de llevar a cabo la eliminación para prevenir errores. Esto mejorará la consistencia de la interfaz y facilitará la comprensión y uso por parte de los usuarios.
 
 
 ## 5.4. Video About-the-Product
