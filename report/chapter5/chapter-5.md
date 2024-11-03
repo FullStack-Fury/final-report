@@ -76,6 +76,7 @@ Repositorio de GitHub:
 - Enlace para acceder al repositorio de la landing Page: https://github.com/pro-devs-SI730/landing-page
 - Enlace para acceder al repositorio del reporte final: https://github.com/pro-devs-SI730/final-report
 - Enlace para acceder al repositorio del front end: https://github.com/pro-devs-SI730/eduspace-frontend
+- Enlace para acceder al repositorio del back end: https://github.com/FullStack-Fury/eduspace-platform
 
 Flujo de trabajo GitFlow
 
@@ -95,9 +96,7 @@ siguientes:
    HTML es "<!DOCTYPE html>”.
 3. Escribir en una línea los comentarios cortos.
 4. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
-5. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
-   disponibilidad del contenido. Por ejemplo:   <img src="abc.img" alt="image name"  
-   style="width:128px;height:128px">
+5. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido.  
 6. Se nos recomienda no usar el espacio al momento de utilizar los signos porque
    es más fácil de leerlo de esta forma.  
    <br>
@@ -147,7 +146,7 @@ Para el despliegue de nuestra Landing Page, empleamos GitHub Pages como herramie
 
 ## GithubPages
 
-Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
+Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://fullstack-fury.github.io/landing-page/ 
 
 ![](../../assets/Github_Pages.PNG)
 
@@ -268,6 +267,9 @@ US02-Encontrar información del propósito de la aplicación
 
 ![](../../assets/landing2.PNG)
 
+![image](https://github.com/user-attachments/assets/601309d5-65b1-4d10-93e0-17cd4ca7417d)
+
+
 US04-Tipografía cómoda y agradable estéticamente
 
 ![](../../assets/landing3.PNG)
@@ -302,7 +304,8 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ![URL](https://raw.githubusercontent.com/FullStack-Fury/final-report/refs/heads/main/assets/urlLandingPage.jpg)
 
-![alt text](../../assets/LandingPageMockup.png)
+![screencapture-fullstack-fury-github-io-landing-page-index-html-2024-11-03-05_44_36](https://github.com/user-attachments/assets/836e3aae-f7e0-4960-b441-3f5aa757685b)
+
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -346,9 +349,9 @@ Analiticas de Colaboración:
 ![alt text](../../assets/AnaliticasLanding.PNG)
 
 
+Commits Actualizados: 
 
-
-
+![image](https://github.com/user-attachments/assets/0953a184-4599-4379-ac1a-f2920539edd9)
 
 
 ### 5.2.2. Sprint 2
@@ -1031,7 +1034,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-|  |    |      | 
+| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario. |  9:45  |  https://drive.google.com/file/d/18oBlduBj0TENGBFgm0PSDYet3VgEfYWZ/view?usp=sharing    | 
 
 **Entrevistado: 2**
 
