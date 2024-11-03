@@ -677,7 +677,9 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 |  | /api/v1/Payrolls        | POST    | Agregar una nueva nómina       |           |       |           |          |
 
 
+url:
 
+imagenes de pruebas de respuestas: 
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
