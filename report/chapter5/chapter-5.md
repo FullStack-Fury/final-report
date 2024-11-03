@@ -1394,9 +1394,9 @@ Implementar una barra de navegación que permanezca visible durante el desplazam
 <!--========================================= FILA 2 ======================================-->
 <tr>
   <td> 2 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Falta de mensaje de advertencia al presionar "Log out" en la interfaz </td>
+  <td> 3 </td>
+  <td> Usability – Prevención de errores </td>
 </tr>
 <!--========================================= FILA 3 ======================================-->
 <tr>
@@ -1441,18 +1441,23 @@ En la sección "Payroll Management", los usuarios no reciben notificaciones que 
 Para abordar este problema, se recomienda implementar un sistema de notificaciones que alerte a los usuarios sobre la cercanía de su fecha de payroll. Esto podría incluir recordatorios enviados a través de correo electrónico o notificaciones dentro de la aplicación. Asegúrese de que las notificaciones sean personalizables y se envíen con suficiente antelación para que los usuarios puedan actuar en consecuencia. Además, considere incluir opciones para que los usuarios configuren sus preferencias de notificación según sus necesidades.
 
 
-**_PROBLEMA #2:_**
+**_PROBLEMA #2:_** Falta de mensaje de advertencia al presionar "Log out" en la interfaz
 
 
-**_Severidad: #_**
+**_Severidad: 3_**
 
-Heurística violada:
+Heurística violada: Usability – Prevención de errores
 
 **_Problema:_**
 
-![](images/problemaW2.png)
+En la interfaz, al presionar el botón "Log out", el usuario es desconectado inmediatamente sin ningún tipo de advertencia o confirmación. Esto puede llevar a que los usuarios se desconecten accidentalmente, lo que resulta en frustración y la necesidad de volver a iniciar sesión. La falta de una advertencia adecuada no solo afecta la experiencia del usuario, sino que también puede interrumpir su flujo de trabajo, causando incomodidad innecesaria.
+
+![](../../assets/heuristicaweb2.jpg)
 
 **_Recomendación:_**
+
+Para solucionar este problema, se recomienda implementar un mensaje de advertencia que aparezca al presionar "Log out", solicitando la confirmación del usuario antes de proceder con la desconexión. Este mensaje debe informar al usuario que está a punto de cerrar sesión y ofrecer opciones para confirmar o cancelar la acción. Al hacerlo, se mejora la experiencia del usuario y se minimizan los errores accidentales relacionados con la desconexión.
+
 
 **_PROBLEMA #3:_**
 
