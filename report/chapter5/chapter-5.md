@@ -740,8 +740,92 @@ Asimismo, se realizó un cambio en el diseño del frontend para que sea más sim
 
 **Back End**
 
-
-
+| Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
+|-------|---------|-----------|-------|----------------------------|---------------------------|
+| FullStackFury/eduspace-platform | develop | 4009869   | feat: app settings and program.cs working with environment variables |                     | 2024-11-01 22:22:13 -0500 |
+| FullStackFury/eduspace-platform | develop | 2cbff5c   | feat(shared): app db context with fluent api                       |                     | 2024-11-01 22:20:45 -0500 |
+| FullStackFury/eduspace-platform | develop | c7729b6   | fix(profiles): controllers working                                   |                     | 2024-11-01 22:19:57 -0500 |
+| FullStackFury/eduspace-platform | develop | 6e5be5a   | refactor(profiles): create amind profile resource updated          |                     | 2024-11-01 22:19:24 -0500 |
+| FullStackFury/eduspace-platform | develop | eaae4a2   | refactor(profiles): create resource updated                         |                     | 2024-11-01 22:18:55 -0500 |
+| FullStackFury/eduspace-platform | develop | be8c306   | feat(profiles): all domain layer added to profiles                 |                     | 2024-11-01 22:18:24 -0500 |
+| FullStackFury/eduspace-platform | develop | 9859e70   | feat(profiles): command and outbound service added                 |                     | 2024-11-01 22:17:54 -0500 |
+| FullStackFury/eduspace-platform | develop | 245a92b   | feat(iam): authorize added to controller                            |                     | 2024-11-01 22:17:26 -0500 |
+| FullStackFury/eduspace-platform | develop | eceb48d   | feat(iam): empty constructor added                                   |                     | 2024-11-01 22:16:18 -0500 |
+| FullStackFury/eduspace-platform | develop | 01adc5f   | refactor(events-scheduling): repository value updated              |                     | 2024-11-01 22:15:49 -0500 |
+| FullStackFury/eduspace-platform | develop | 9d6cb23   | feat(events-scheduling): empty constructor added to value objects   |                     | 2024-11-01 22:12:15 -0500 |
+| FullStackFury/eduspace-platform | develop | edd5afa   | feat(events-scheduling): empty constructor added to aggregate       |                     | 2024-11-01 22:11:30 -0500 |
+| FullStackFury/eduspace-platform | develop | 305e9ce   | feat(events-scheduling): external service interface added           |                     | 2024-11-01 22:10:38 -0500 |
+| FullStackFury/eduspace-platform | develop | e687aab   | feat(events-scheduling): command services added                    |                     | 2024-11-01 22:10:13 -0500 |
+| FullStackFury/eduspace-platform | develop | d2a9218   | things deleted previously                                          |                     | 2024-10-30 10:41:50 -0500 |
+| FullStackFury/eduspace-platform | develop | 76e67f5   | Merge remote-tracking branch 'origin/feature/events-scheduling' into feature/events-scheduling | | 2024-10-30 10:39:55 -0500 |
+| FullStackFury/eduspace-platform | develop | 425e79f   | feat(app-db-context): teacher profile added                        |                     | 2024-10-30 10:34:55 -0500 |
+| FullStackFury/eduspace-platform | develop | 42ac7d6   | fix(events-scheduling): phone from private to public              |                     | 2024-10-30 10:34:27 -0500 |
+| FullStackFury/eduspace-platform | develop | ddb863b   | chore: code for future get commented                               |                     | 2024-10-30 10:34:00 -0500 |
+| FullStackFury/eduspace-platform | develop | bb63f3f   | feat(payroll): eliminate                                          |                     | 2024-10-30 00:53:27 -0500 |
+| FullStackFury/eduspace-platform | develop | 60c3c22   | chore: update                                                    |                     | 2024-10-30 00:53:13 -0500 |
+| FullStackFury/eduspace-platform | develop | 65e4611   | feat(events-scheduling): rest interface added to events scheduling |                     | 2024-10-30 00:32:10 -0500 |
+| FullStackFury/eduspace-platform | develop | f6afe85   | feat(events-scheduling): infrastructure layer fro events scheduling added |              | 2024-10-30 00:31:44 -0500 |
+| FullStackFury/eduspace-platform | develop | cbb450e   | feat(events-scheduling): domain layer for events scheduling       |                     | 2024-10-30 00:31:11 -0500 |
+| FullStackFury/eduspace-platform | develop | 6eefcdb   | feat(events-scheduling): application layer for events scheduling   |                     | 2024-10-30 00:30:50 -0500 |
+| FullStackFury/eduspace-platform | develop | b7902f2   | feat(profiles): teachers profile controller added                 |                     | 2024-10-29 19:16:52 -0500 |
+| FullStackFury/eduspace-platform | develop | d811522   | feat(profiles): administrator controller added                     |                     | 2024-10-29 19:16:25 -0500 |
+| FullStackFury/eduspace-platform | develop | e41e80c   | feat(profiles): interface layer added to profiles                 |                     | 2024-10-29 18:47:57 -0500 |
+| FullStackFury/eduspace-platform | develop | 450bfa8   | feat(profiles): infrastructure layer added to profiles            |                     | 2024-10-29 18:47:16 -0500 |
+| FullStackFury/eduspace-platform | develop | 7fcebd0   | feat(profiles): domain layer added to profiles                    |                     | 2024-10-29 18:46:18 -0500 |
+| FullStackFury/eduspace-platform | develop | dbb90bd   | feat(profiles): application layer added to profiles               |                     | 2024-10-29 18:45:48 -0500 |
+| FullStackFury/eduspace-platform | develop | ad2e458   | feat(iam): authentication controller added to iam                |                     | 2024-10-29 18:45:14 -0500 |
+| FullStackFury/eduspace-platform | develop | 45065f7   | feat(iam): transform added to iam interface                       |                     | 2024-10-29 18:44:41 -0500 |
+| FullStackFury/eduspace-platform | develop | b25a458   | feat(iam): resources added to iam interface                       |                     | 2024-10-29 18:43:30 -0500 |
+| FullStackFury/eduspace-platform | develop | 36b683e   | feat: iam infrastructure layer added                               |                     | 2024-10-29 18:42:57 -0500 |
+| FullStackFury/eduspace-platform | develop | a43d392   | feat: iam domain layer added                                       |                     | 2024-10-29 18:42:37 -0500 |
+| FullStackFury/eduspace-platform | develop | 6d61eb3   | feat: iam application layer added                                   |                     | 2024-10-29 18:42:17 -0500 |
+| FullStackFury/eduspace-platform | develop | 3d01744   | feat(profiles): resources added to the interface layer            |                     | 2024-10-28 15:47:16 -0500 |
+| FullStackFury/eduspace-platform | develop | 2277aee   | feat(profiles): repository added in efc at infrastructure layer   |                     | 2024-10-28 15:01:22 -0500 |
+| FullStackFury/eduspace-platform | develop | 8f5aa27   | feat(profiles): services added to domain layer                    |                     | 2024-10-28 14:34:54 -0500 |
+| FullStackFury/eduspace-platform | develop | f237899   | feat(profiles): repositories contract added to domain             |                     | 2024-10-28 14:34:01 -0500 |
+| FullStackFury/eduspace-platform | develop | b65da4a   | feat(profiles): queries and commands added                        |                     | 2024-10-28 14:33:35 -0500 |
+| FullStackFury/eduspace-platform | develop | 1d3674e   | feat(profiles): value objects added                                |                     | 2024-10-28 14:33:14 -0500 |
+| FullStackFury/eduspace-platform | develop | cb9938e   | feat(profiles): aggregates added                                   |                     | 2024-10-28 14:32:50 -0500 |
+| FullStackFury/eduspace-platform | develop | 1439d83   | feat(payroll-query): update payroll query.                        |                     | 2024-10-28 07:48:24 -0500 |
+| FullStackFury/eduspace-platform | develop | 3cb1acd   | feat(payroll): update payroll.cs                                   |                     | 2024-10-28 07:34:00 -0500 |
+| FullStackFury/eduspace-platform | develop | 1f808b9   | feat(program): updated program.cs                                  |                     | 2024-10-28 07:33:42 -0500 |
+| FullStackFury/eduspace-platform | develop | 3de406e   | feat(db-context): updated dbcontext                                |                     | 2024-10-28 07:33:11 -0500 |
+| FullStackFury/eduspace-platform | develop | 28cbf67   | commit(payroll): added                                            |                     | 2024-10-28 05:37:38 -0500 |
+| FullStackFury/eduspace-platform | develop | 994558a   | feat(db-context): updated dbcontext                                |                     | 2024-10-28 05:36:55 -0500 |
+| FullStackFury/eduspace-platform | develop | c353ad4   | feat(payroll): update payroll.cs                                   |                     | 2024-10-28 05:36:26 -0500 |
+| FullStackFury/eduspace-platform | develop | ad20ead   | feat(value-objects): created more value objects                   |                     | 2024-10-28 05:36:04 -0500 |
+| FullStackFury/eduspace-platform | develop | abb1f74   | commit(appsetting): added connection                               |                     | 2024-10-28 05:35:43 -0500 |
+| FullStackFury/eduspace-platform | develop | 34f4381   | commit(payroll-query): created query for id                       |                     | 2024-10-28 05:35:20 -0500 |
+| FullStackFury/eduspace-platform | develop | 8c4f941   | commit(payroll): update payroll.                                   |                     | 2024-10-28 05:34:44 -0500 |
+| FullStackFury/eduspace-platform | develop | 9d6143c   | chore: update AppDbContext.cs                                     |                     | 2024-10-25 13:43:36 -0500 |
+| FullStackFury/eduspace-platform | develop | e1bb94a   | chore: updated program.cs                                          |                     | 2024-10-25 13:35:05 -0500 |
+| FullStackFury/eduspace-platform | develop | 5dcf38d   | feat(payroll-management): payroll command and query interface added to application layer. | | 2024-10-25 13:32:45 -0500 |
+| FullStackFury/eduspace-platform | develop | 38187ee   | feat(payroll-management): payroll interface repository added to domain layer. | | 2024-10-25 13:22:46 -0500 |
+| FullStackFury/eduspace-platform | develop | 1be766d   | feat(payroll-management): payroll command and query interface added to domain layer. | | 2024-10-25 13:20:25 -0500 |
+| FullStackFury/eduspace-platform | develop | f5c9958   | feat(payroll-management): payroll interface repository added to domain layer | | 2024-10-25 13:19:21 -0500 |
+| FullStackFury/eduspace-platform | develop | 5c667e5   | feat(payroll-management): queries added and setted.              |                     | 2024-10-25 13:18:08 -0500 |
+| FullStackFury/eduspace-platform | develop | 8e6d50a   | feat(payroll-management): value objects created and setted.      |                     | 2024-10-25 13:17:12 -0500 |
+| FullStackFury/eduspace-platform | develop | 992798a   | feat(payroll-management): aggregate added.                        |                     | 2024-10-25 13:15:43 -0500 |
+| FullStackFury/eduspace-platform | develop | a421b29   | feat(payroll-management): commands added                          |                     | 2024-10-25 13:07:39 -0500 |
+| FullStackFury/eduspace-platform | develop | cc95794   | feat(events-scheduling): command service for reservation in application layer implementing the interface | | 2024-10-23 00:17:47 -0500 |
+| FullStackFury/eduspace-platform | develop | d061c9a   | feat(events-scheduling): query to get reservation by areaid, month and day added | | 2024-10-23 00:16:59 -0500 |
+| FullStackFury/eduspace-platform | develop | f7e1a1c   | feat: domain logic to validate if it can be reserved or not      |                     | 2024-10-23 00:16:35 -0500 |
+| FullStackFury/eduspace-platform | develop | 0f341b1   | feat(events-scheduling): new handle added, maybe it's irrelevant |                     | 2024-10-23 00:15:55 -0500 |
+| FullStackFury/eduspace-platform | develop | 0108b53   | feat(events-scheduling): find by areaid month and day method added to repository | | 2024-10-23 00:15:13 -0500 |
+| FullStackFury/eduspace-platform | develop | 2d2db85   | feat(events-scheduling): commands added to command in the model package | | 2024-10-22 17:25:05 -0500 |
+| FullStackFury/eduspace-platform | develop | bf2a1da   | feat(events-scheduling): command constructor added in the aggregate | | 2024-10-22 17:24:31 -0500 |
+| FullStackFury/eduspace-platform | develop | 6826594   | feat(events-scheduling): reservation and query service added to application layer | | 2024-10-22 17:24:11 -0500 |
+| FullStackFury/eduspace-platform | develop | 6d115e2   | feat(events-scheduling): Reservation repository added to infrastructure layer | | 2024-10-22 16:50:14 -0500 |
+| FullStackFury/eduspace-platform | develop | 47e13b5   | feat(events-scheduling): reservation command and query interface added to domain layer | | 2024-10-22 16:50:14 -0500 |
+| FullStackFury/eduspace-platform | develop | 57144da   | feat(events-scheduling): queries fixed                             |                     | 2024-10-22 16:48:49 -0500 |
+| FullStackFury/eduspace-platform | develop | 26d700d   | feat(events-scheduling): reservation interface repository added to domain layer | | 2024-10-22 16:25:24 -0500 |
+| FullStackFury/eduspace-platform | develop | 5290bf9   | feat(events-scheduling): value objects validation added           |                     | 2024-10-22 16:24:45 -0500 |
+| FullStackFury/eduspace-platform | develop | e92806b   | feat(events-scheduling): queries added                            |                     | 2024-10-22 16:24:21 -0500 |
+| FullStackFury/eduspace-platform | develop | 6ad5433   | feat(events-scheduling): commands added                           |                     | 2024-10-22 16:24:05 -0500 |
+| FullStackFury/eduspace-platform | develop | 14c88df   | feat(events-scheduling): aggregate added                          |                     | 2024-10-22 16:22:36 -0500 |
+| FullStackFury/eduspace-platform | develop | 913bbcf   | feat(events-scheduling): areaId and teacherId value object added |                     | 2024-10-22 15:10:44 -0500 |
+| FullStackFury/eduspace-platform | develop | cae1613   | feat(events-scheduling): reservationDate value object with validation | | 2024-10-22 15:10:19 -0500 |
+| FullStackFury/eduspace-platform | develop | f0cc5c3   | chore: base config                                                 |                     | 2024-10-17 22:36:34 -0500 |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
