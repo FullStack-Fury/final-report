@@ -653,13 +653,13 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 | URL    | Endpoint          | HTTP Verb | Acción Implementada    | Sintaxis de Llamada        | Parámetros Posibles      | Ejemplo de Response                | Explicación del Response                |
 |-----------------|-------------|-----------|----------|-------------------|------------------------------|----------------------------------------|-----------------------------------------|
-|  | /api/v1/Classrooms        | GET    |  Obtener toda las aulas       |  'accept: application/json'         |       |           |          | 
-|  | /api/v1/Classrooms        | POST    |  Agregar un nuevo aula       |           |       |           |          | 
-|  | /api/v1/Classrooms/{classroomId}        | GET    |  Obtener un aula por ID       | 'accept: application/json'          |       |           |          | 
-|  | /api/v1/Classrooms/{classroomId}/resources    | GET    |   Obtener recursos por ID del aula      | 'accept: application/json'          |       |           |      | 
-|  | /api/v1/Revervations  | GET  | Obtener toda las reservas | 'accept: application/json' | Ninguno | `[{"id": 0,"start": "2024-11-02T23:31:31.713Z","end": "2024-11-02T23:31:31.713Z"}]`| Retorna un array de objetos reservas    | 
-|  | /api/v1/Reservations        | POST   |  Agregar una nueva reserva        |           |       |           |          | 
-|  | /api/v1/Reservations/areas/{areaId}        | GET   |  Otener reservas de un area por ID       |   'accept: application/json'        |       |           |          | 
+|  | /api/v1/Classrooms        | GET    |  Obtener toda las aulas       |  'accept: application/json'         |  Ninguno     |`{"id": 1,  "name": "A102",  "description": "string"...}`         |  Retorna un array de objetos aulas        | 
+|  | /api/v1/Classrooms        | POST    |  Agregar un nuevo aula       |  'Content-Type: application/json' -d `{"name": "string",  "description": "string"...}`         |  JSON con datos del aula      | `{"id": 10,  "name": "A302",  "description": "Aula del centro"...}`           |   Retorna el objeto aula creado        | 
+|  | /api/v1/Classrooms/{classroomId}        | GET    |  Obtener un aula por ID       | 'accept: application/json'          |  `id` (path parameter)    |  `{"id": 10,  "name": "A302",  "description": "Aula del centro"...}`          |  Retorna un objeto aula especifico        | 
+|  | /api/v1/Classrooms/{classroomId}/resources    | GET    |   Obtener recursos por ID del aula      | 'accept: application/json'          |  `id` (path parameter)      |   `{"id": 3,"name": "Pupitre","kindOfResource": "Mobiliario", "classroom":...}`       | Retorna un array de objeto recursos de un aula especifica      | 
+|  | /api/v1/Revervations  | GET  | Obtener toda las reservas | 'accept: application/json' | Ninguno | `{"id": 10,"start": "2024-11-02","end": "2024-11-10"}`| Retorna un array de objetos reservas    | 
+|  | /api/v1/Reservations        | POST   |  Agregar una nueva reserva        | 'Content-Type: application/json' -d `{"title": "string","start": "2024-11-03T03:21:10.303Z","end": "2024-11-03T03:21:10.303Z"...}`     |  JSON con datos de reserva      |  `{"id": 10,"start": "2024-11-15, "end": "2024-11-30"}`    |  Retorna el objeto reserva creado         | 
+|  | /api/v1/Reservations/areas/{areaId}        | GET   |  Otener reservas de un area por ID       |   'accept: application/json'        |  `id` (path parameter)     | `{"id": 15,"start": "2024-11-25, "end": "2024-12-30"}`          |  Retorna un objeto reserva de una area especifica        | 
 |  | /api/v1/Resource        | GET    |  Otener todo los recursos       |  'accept: application/json'         |       |           |          |
 |  | /api/v1/Resource        | POST   |  Crear un nuevo recurso       |           |       |           |          |
 |  | /api/v1/Resource/{resourceId}        | GET   |  Otener recurso por ID       |  'accept: application/json'         |       |           |          |
