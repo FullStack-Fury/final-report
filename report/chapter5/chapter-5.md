@@ -939,6 +939,11 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 |  | /api/v1/TeachersProfiles        |  POST   |  Agregar un nuevo perfil de profesor        |   'Content-Type: application/json' -d `{"firstName": "string","lastName": "string","email": "string","dni": "string","address": "string","phone": "string","accountId": 0,"username": "string","password": "string","role": "string"}`        |   JSON con datos de perfil del profesor    |   `{"firstName": "Faker","lastName": "Perez","email": "farkerperez@gmail.com","dni": "71655458","address":"Las flores 120","phone": "989545214","accountId": 5,"username": "fa32k","password": "5mundiales","role": "Profesor"}`        |  Retorna un objeto Perfil de profesor     |
 
 
+![validationAdmin1](../../assets/5.jpg)
+![validationAdmin1](../../assets/4.jpg)
+![validationAdmin1](../../assets/3.jpg)
+![validationAdmin1](../../assets/2.jpg)
+![validationAdmin1](../../assets/1.jpg)
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
@@ -956,13 +961,6 @@ Deploy DataBase:
 ![validationAdmin1](../../assets/BaseDatos2.jpg)
 ![validationAdmin1](../../assets/BaseDatos.jpg)
 
-Deploy Web Services:
-
-![validationAdmin1](../../assets/5.jpg)
-![validationAdmin1](../../assets/4.jpg)
-![validationAdmin1](../../assets/3.jpg)
-![validationAdmin1](../../assets/2.jpg)
-![validationAdmin1](../../assets/1.jpg)
 
 
 
