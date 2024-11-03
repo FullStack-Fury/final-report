@@ -126,6 +126,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Oscar Josué Antayhua Castillo: Participé activamente en las reuniones del equipo, corrección de errores y mejoras en los componentes del front-end. Además de realizar mis tareas dentro del plazo establecido.</li>
           <li>Camila Leonor Espinoza Vivas: Participé de manera activa en las reuniones de equipo y me aseguré de completar mi parte del trabajo puntualmente para evitar cualquier inconveniente. Mi grupo me brindó apoyo cada vez que tenía dudas sobre el backend, y también contribuí en el desarrollo del frontend.</li>
           <li>Andrés Alberto Torres García: Participé de forma concurrida en cuanto a las reuniones y en cuanto por el grupo de Whatsapp, tambien cumpliendo con mi parte del proyecto. </li>
+          <li>Angelo Marcio Curi Marcelo: Participé activamente en las reuniones del equipo y me aseguré de cumplir con mis responsabilidades a tiempo para prevenir cualquier problema.  </li>
         </ul> 
       </td>
       <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
@@ -141,7 +142,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
-          <li>Ariana Alehli, Huapaya Buitron: Asignacion de los User Personas, User Staks and User Journey Mapping </li>
+          <li>Curi Marcelo, Angelo Marcio: Asignación del bounded context breakdown management, implementación en Frontend y los endpoints para la backend correspondiente a las techinal stories  </li>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
           <li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
