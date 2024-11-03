@@ -599,8 +599,8 @@ Analiticas de Colaboración:
 | Sprint 3 Retrospective Summary  |   Este sprint ha sido el más desafiante en comparación con los anteriores, ya que, requería que tanto el informe y el Front End esten completos para así realizar la implementación del Backend.                                                                                                                                            |
 | Sprint Goal & User Stories      ||
 | Sprint 3 Goal                   |Nuestro enfoque está en mejorar la accesibilidad del sitio web, implementar nuevas funcionalidades clave para la gestión de aulas y nóminas, y habilitar la interacción del frontendmediante una API robusta. <br> Creemos que esto proporcionará una mejor experiencia de usuario en todos los dispositivos, permitirá una gestión más eficiente de las aulas y nóminas, y facilitará el desarrollo de nuevas integraciones en la plataforma. <br> Esto se confirmará cuando el sitio sea totalmente responsive, las nuevas funcionalidades de Classroom y Payroll Management estén operativas, y los desarrolladores utilicen la API para gestionar el frontend.                                                                                                                     |
-| Sprint 3 Velocity               | 28                                                                                                              |
-| Sum of Story Points             |                                                                                                                 |
+| Sprint 3 Velocity               | 75                                                                                                             |
+| Sum of Story Points             |  81                                                                                                               |
 
 
 ### 5.2.3.2. Sprint Backlog 3
