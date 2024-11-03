@@ -940,10 +940,6 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 
 
-url:
-
-imagenes de pruebas de respuestas: 
-
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -959,6 +955,15 @@ Deploy DataBase:
 
 ![validationAdmin1](../../assets/BaseDatos2.jpg)
 ![validationAdmin1](../../assets/BaseDatos.jpg)
+
+Deploy Web Services:
+
+![validationAdmin1](../../assets/5.jpg)
+![validationAdmin1](../../assets/4.jpg)
+![validationAdmin1](../../assets/3.jpg)
+![validationAdmin1](../../assets/2.jpg)
+![validationAdmin1](../../assets/1.jpg)
+
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
