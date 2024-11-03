@@ -651,7 +651,90 @@ Asimismo, se realizó un cambio en el diseño del frontend para que sea más sim
 
 | Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
 |-------|---------|-----------|-------|----------------------------|---------------------------|
-| FullStack-Fury/eduspace-frontend | develop | 38a6d02   | feat(lot): some lot added to wines.  |        | 2024-10-20 08:17:53 -0500 |
+| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode.                             |                     | 2024-11-02 11:23:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | 9175174   | refactor: eliminate the unnecessary icon                          |                     | 2024-10-29 18:13:58 -0500 |
+| FullStackFury/eduspace-frontend | develop | ad063a4   | refactor: change name space area service                          |                     | 2024-10-29 18:13:18 -0500 |
+| FullStackFury/eduspace-frontend | develop | 71e52d3   | feat: add the action button in space card for go to the add      |                     | 2024-10-29 18:12:55 -0500 |
+| FullStackFury/eduspace-frontend | develop | 30023e7   | feat: add the route for view add                                   |                     | 2024-10-29 18:11:48 -0500 |
+| FullStackFury/eduspace-frontend | develop | 3d87fa6   | feat: create the view add for add share space                     |                     | 2024-10-29 18:11:01 -0500 |
+| FullStackFury/eduspace-frontend | develop | 45c6564   | feat: create the entity space area                                 |                     | 2024-10-29 16:02:03 -0500 |
+| FullStackFury/eduspace-frontend | develop | 576e081   | feat: create the card space card                                   |                     | 2024-10-29 16:01:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | edaa84d   | feat: create the view for the sport facilities                    |                     | 2024-10-29 16:00:34 -0500 |
+| FullStackFury/eduspace-frontend | develop | 1cd24f1   | feat: create the service http for the space area                  |                     | 2024-10-29 15:59:39 -0500 |
+| FullStackFury/eduspace-frontend | develop | 904b99a   | feat(index-js): add route to sport facilities                      |                     | 2024-10-29 15:58:52 -0500 |
+| FullStackFury/eduspace-frontend | develop | 1f723f0   | feat: add route to sport facilities                                 |                     | 2024-10-29 15:58:27 -0500 |
+| FullStackFury/eduspace-frontend | develop | 369ce4e   | docs: add one attribute in shared area                             |                     | 2024-10-29 15:57:02 -0500 |
+| FullStackFury/eduspace-frontend | develop | 1ea49ad   | chore: added env                                                  |                     | 2024-10-28 10:22:03 -0500 |
+| FullStackFury/eduspace-frontend | develop | 34f8cc3   | feat(index-js): fix route                                         |                     | 2024-10-28 09:23:36 -0500 |
+| FullStackFury/eduspace-frontend | develop | e894c03   | feat(teacher): create temporal teacher service                     |                     | 2024-10-28 05:38:52 -0500 |
+| FullStackFury/eduspace-frontend | develop | b873f5f   | chore: update style                                              |                     | 2024-10-28 05:38:34 -0500 |
+| FullStackFury/eduspace-frontend | develop | c9d20bb   | feat(payroll): update component.                                   |                     | 2024-10-28 05:38:17 -0500 |
+| FullStackFury/eduspace-frontend | develop | 37ecc1d   | feat(index-js): update routes.                                     |                     | 2024-10-27 20:25:59 -0500 |
+| FullStackFury/eduspace-frontend | develop | ee536ab   | feat(payroll): updated database.                                   |                     | 2024-10-27 20:25:31 -0500 |
+| FullStackFury/eduspace-frontend | develop | 51a2494   | feat(payroll): fixed payroll components.                           |                     | 2024-10-27 20:25:19 -0500 |
+| FullStackFury/eduspace-frontend | develop | ac8f146   | feat(payroll): fixed payroll entity.                               |                     | 2024-10-27 20:24:52 -0500 |
+| FullStackFury/eduspace-frontend | develop | 9c3a96a   | feat(app): fixed styles.                                          |                     | 2024-10-27 20:24:37 -0500 |
+| FullStackFury/eduspace-frontend | develop | d544d7e   | feat(app): fixed styles.                                          |                     | 2024-10-27 14:09:05 -0500 |
+| FullStackFury/eduspace-frontend | develop | edad26d   | feat(app-vue): fixed styles.                                     |                     | 2024-10-27 11:16:29 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8e3e1d3   | feat(assets): added icons.                                       |                     | 2024-10-27 11:16:12 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8398941   | feat(assets): added icons.                                       |                     | 2024-10-27 00:53:40 -0500 |
+| FullStackFury/eduspace-frontend | develop | d604a47   | feat(style): added font family.                                   |                     | 2024-10-27 00:52:51 -0500 |
+| FullStackFury/eduspace-frontend | develop | d0c5438   | feat(app-vue): fixed teacher name on edit.                       |                     | 2024-10-27 00:52:08 -0500 |
+| FullStackFury/eduspace-frontend | develop | 3f9febc   | feat(meet): fixed teacher name on edit.                          |                     | 2024-10-26 21:18:20 -0500 |
+| FullStackFury/eduspace-frontend | develop | 3436002   | feat(meet): fixed button cancel.                                  |                     | 2024-10-26 21:11:55 -0500 |
+| FullStackFury/eduspace-frontend | develop | 20e6f1e   | feat(app): update                                                 |                     | 2024-10-24 21:52:50 -0500 |
+| FullStackFury/eduspace-frontend | develop | 6e9485a   | feat(app-vue): updated css.                                       |                     | 2024-10-22 20:14:27 -0500 |
+| FullStackFury/eduspace-frontend | develop | d3d0294   | feat(meet): update                                               |                     | 2024-10-20 01:23:59 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5f47a44   | feat(dashboard-teacher): added components                         |                     | 2024-10-20 01:14:24 -0500 |
+| FullStackFury/eduspace-frontend | develop | b731e51   | feat(reservations): added cards                                   |                     | 2024-10-20 01:13:54 -0500 |
+| FullStackFury/eduspace-frontend | develop | 20f78ef   | feat(breakdown-reports): added cards                             |                     | 2024-10-20 01:13:29 -0500 |
+| FullStackFury/eduspace-frontend | develop | 0ec461d   | feat(index): added routes from dashboard teacher                 |                     | 2024-10-20 01:13:03 -0500 |
+| FullStackFury/eduspace-frontend | develop | ca1ce02   | feat(style): fixed                                               |                     | 2024-10-19 23:29:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | 517b021   | feat(environments-equipment): added cards                        |                     | 2024-10-19 23:28:36 -0500 |
+| FullStackFury/eduspace-frontend | develop | 937bab7   | feat(classroom-changes-meeting): added cards                    |                     | 2024-10-19 23:28:04 -0500 |
+| FullStackFury/eduspace-frontend | develop | c7e9aa4   | feat(app): "style" was fixed                                     |                     | 2024-10-19 23:26:32 -0500 |
+| FullStackFury/eduspace-frontend | develop | d7da14a   | feat(app): Fixed sticky sidebar and added routes                 |                     | 2024-10-19 01:09:09 -0500 |
+| FullStackFury/eduspace-frontend | develop | dd6da0c   | feat(dashboard-admin): added components                          |                     | 2024-10-19 01:07:26 -0500 |
+| FullStackFury/eduspace-frontend | develop | be35e93   | feat(router): added new routes for Dashboard Admin              |                     | 2024-10-19 01:04:30 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7b84ec7   | feat(login-component): button for teacher storing id and role    |                     | 2024-10-15 15:23:51 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7791c3c   | refactor(app-vue): toolbar change for teacher and logout working |                     | 2024-10-15 15:22:27 -0500 |
+| FullStackFury/eduspace-frontend | develop | a89b41f   | Merge remote-tracking branch 'origin/develop' into feature/breakdown-management |                     | 2024-10-15 00:15:01 -0500 |
+| FullStackFury/eduspace-frontend | develop | a05994a   | Merge remote-tracking branch 'origin/feature/payroll-management2' into develop |                     | 2024-10-15 00:01:41 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8ae4556   | Merge branch 'feature/reservation-scheduling' into develop      |                     | 2024-10-14 23:55:40 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7020844   | feat(app): update.                                              |                     | 2024-10-14 19:02:29 -0500 |
+| FullStackFury/eduspace-frontend | develop | c83c21f   | feat(payroll): create and set payroll-create-wrapper component. |                     | 2024-10-14 19:02:14 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7965e99   | feat(payroll): updated management and create-and-edit.         |                     | 2024-10-14 19:01:54 -0500 |
+| FullStackFury/eduspace-frontend | develop | efaba74   | feat(main-js): updated.                                        |                     | 2024-10-14 19:01:28 -0500 |
+| FullStackFury/eduspace-frontend | develop | 2dc984f   | feat(index-js): update routes.                                  |                     | 2024-10-14 19:01:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | fae9959   | feat(db): update database.                                     |                     | 2024-10-14 19:00:55 -0500 |
+| FullStackFury/eduspace-frontend | develop | b359c29   | feat(package): update primevue.                                |                     | 2024-10-14 19:00:48 -0500 |
+| FullStackFury/eduspace-frontend | develop | badee12   | feat: Routes for new components are added                      |                     | 2024-10-14 11:31:26 -0500 |
+| FullStackFury/eduspace-frontend | develop | 13b7b84   | feat: added in db.json, resources, classroom, reports         |                     | 2024-10-14 11:30:54 -0500 |
+| FullStackFury/eduspace-frontend | develop | 9c4ea77   | feat: created report service, report-resource component        |                     | 2024-10-14 11:29:39 -0500 |
+| FullStackFury/eduspace-frontend | develop | dceb30d   | feat: created resource-management componente, entity, service  |                     | 2024-10-14 11:29:18 -0500 |
+| FullStackFury/eduspace-frontend | develop | 4fd2ae1   | feat: created classroom-management component                    |                     | 2024-10-14 11:28:49 -0500 |
+| FullStackFury/eduspace-frontend | develop | 29f9c75   | feat: created classroom service, entity                         |                     | 2024-10-14 11:28:33 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7a483c0   | feat(payroll): fixed payroll management component.              |                     | 2024-10-14 06:24:48 -0500 |
+| FullStackFury/eduspace-frontend | develop | 0aa2f52   | feat(payroll):                                                  |                     | 2024-10-14 06:24:33 -0500 |
+| FullStackFury/eduspace-frontend | develop | 07c45ed   | feat(db): fixed database.                                         |                     | 2024-10-14 06:24:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | a289172   | feat(payroll): fixed entity.                                     |                     | 2024-10-14 06:23:05 -0500 |
+| FullStackFury/eduspace-frontend | develop | 0025311   | feat(db): fixed database.                                         |                     | 2024-10-14 06:22:52 -0500 |
+| FullStackFury/eduspace-frontend | develop | 01c0745   | feat(payroll): create and set payroll-management component.      |                     | 2024-10-14 06:20:45 -0500 |
+| FullStackFury/eduspace-frontend | develop | 6cf71eb   | feat(payroll): create and set payroll-create-and-edit component. |                     | 2024-10-14 06:20:33 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5cf7287   | feat(payroll): create and set payroll service.                  |                     | 2024-10-14 06:20:13 -0500 |
+| FullStackFury/eduspace-frontend | develop | aff4cc1   | feat(payroll): create and set payroll entity.                   |                     | 2024-10-14 06:19:59 -0500 |
+| FullStackFury/eduspace-frontend | develop | ace0942   | feat(index-js): added dropdown component.                        |                     | 2024-10-14 06:19:34 -0500 |
+| FullStackFury/eduspace-frontend | develop | 6d1b7f5   | feat(index-js): added payroll-management route.                  |                     | 2024-10-14 06:19:19 -0500 |
+| FullStackFury/eduspace-frontend | develop | ccc4088   | feat(db): added new endpoint.                                    |                     | 2024-10-14 06:18:58 -0500 |
+| FullStackFury/eduspace-frontend | develop | f6c5f96   | feat(app): added wages route.                                    |                     | 2024-10-14 06:18:23 -0500 |
+| FullStackFury/eduspace-frontend | develop | 03cade1   | feat(reservation-scheduling): userId and userRole fetch from store(vuex) |             | 2024-10-13 23:19:02 -0500 |
+| FullStackFury/eduspace-frontend | develop | 57a68be   | feat(reservation-scheduling): weekly calendar receives areaId and UserId from page |            | 2024-10-13 23:18:22 -0500 |
+| FullStackFury/eduspace-frontend | develop | f459238   | feat(reservation-scheduling): dialog component created           |                     | 2024-10-13 23:17:46 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5759f44   | feat: new components from primevue added                         |                     | 2024-10-13 23:17:05 -0500 |
+| FullStackFury/eduspace-frontend | develop | 1312e32   | refactor: new version of vueJs                                   |                     | 2024-10-13 23:16:37 -0500 |
+| FullStackFury/eduspace-frontend | develop | b59bbf3   | fix(http-common): cors error                                     |                     | 2024-10-13 15:55:30 -0500 |
+
+
 
 
 
