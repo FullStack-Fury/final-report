@@ -740,6 +740,8 @@ Asimismo, se realizó un cambio en el diseño del frontend para que sea más sim
 
 **Back End**
 
+En el backend del proyecto FullStackFury/eduspace-platform, se crearon durante este sprint las funcionalidades necesarias para los administradores y docentes. Se desarrollaron controladores y servicios para manejar operaciones CRUD, asegurando una gestión eficiente de la información. Además, se añadió la documentación de Swagger para facilitar la interacción.
+
 | Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
 |-------|---------|-----------|-------|----------------------------|---------------------------|
 | FullStackFury/eduspace-platform | develop | 4009869   | feat: app settings and program.cs working with environment variables |                     | 2024-11-01 22:22:13 -0500 |
