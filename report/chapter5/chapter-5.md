@@ -828,6 +828,75 @@ En el backend del proyecto FullStackFury/eduspace-platform, se crearon durante e
 | FullStackFury/eduspace-platform | develop | 913bbcf   | feat(events-scheduling): areaId and teacherId value object added |                     | 2024-10-22 15:10:44 -0500 |
 | FullStackFury/eduspace-platform | develop | cae1613   | feat(events-scheduling): reservationDate value object with validation | | 2024-10-22 15:10:19 -0500 |
 | FullStackFury/eduspace-platform | develop | f0cc5c3   | chore: base config                                                 |                     | 2024-10-17 22:36:34 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | eddd254   | feat(meeting): update meeting creation.                          |                     | 2024-11-02 11:41:16 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 717c148   | feat(meeting): update                                            |                     | 2024-11-02 00:43:11 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 2635941   | feat(meeting): controller                                        |                     | 2024-11-02 00:42:24 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 3d5c80c   | feat(meeting): add command from resource assembler               |                     | 2024-11-02 00:41:59 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 44bc267   | feat(meeting): add resource from entity assembler                |                     | 2024-11-02 00:41:27 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 805ea94   | feat(meeting): add record resources                              |                     | 2024-11-02 00:39:49 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | ae2d0ef   | feat(meeting): add meeting repository                            |                     | 2024-11-02 00:38:34 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | d2ca91a   | feat(meeting): add interface query service                      |                     | 2024-11-02 00:34:29 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 48307f4   | feat(meeting): add interface command service                    |                     | 2024-11-02 00:33:45 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 6665f08   | feat(meeting): add repository interface                          |                     | 2024-11-02 00:32:54 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 24cf6e8   | feat(meeting): add get queries                                   |                     | 2024-11-02 00:32:05 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 672421d   | feat(meeting): add commands                                      |                     | 2024-11-02 00:31:13 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | f330e4b   | feat(meeting): add query services                                |                     | 2024-11-02 00:30:32 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | c4de6aa   | feat(meeting): add command services                              |                     | 2024-11-02 00:29:30 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 4a74652   | feat(meeting): add aggregates                                    |                     | 2024-11-02 00:28:23 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 427d8f3   | feat(meeting): created entities teacher and administrator        |                     | 2024-11-02 00:27:55 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 76985e0   | merge develop into "space-and-resource-management"             |                     | 2024-11-02 11:15:32 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 7f23dd1   | feat: create the shared area controller                         |                     | 2024-11-01 00:50:34 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 8495244   | feat: create the assemblers to shared area                     |                     | 2024-11-01 00:37:27 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | f990114   | feat: create the resource and Create resource to shared area   |                     | 2024-11-01 00:29:58 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | de6a989   | refactor: organizer the folder                                  |                     | 2024-11-01 00:29:31 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 2ad8df2   | feat: create the repository to shared area                     |                     | 2024-11-01 00:23:13 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | b184174   | refactor: rename sharedArea -> SharedArea                     |                     | 2024-11-01 00:22:54 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | b85ce5f   | feat: Create the query service to shared area                  |                     | 2024-11-01 00:14:36 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | e29d5c2   | feat: create the command service to Shared Area                |                     | 2024-11-01 00:14:19 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | f4d624d   | feat: create the interface to repository to shared area        |                     | 2024-10-31 23:33:18 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 908981e   | feat: create the interface to Query service to Shared area     |                     | 2024-10-31 23:32:55 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 5d74c66   | feat: create the interface to Command service to Shared area   |                     | 2024-10-31 23:32:33 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 50bebba   | feat: create the create command to shared area                 |                     | 2024-10-31 23:15:37 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | bf09ce9   | feat: create the query to get the shared area                  |                     | 2024-10-31 23:15:22 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 6ba5e8d   | feat: create the aggregate sharedArea and SharedAreaAudit     |                     | 2024-10-31 23:13:16 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 5340814   | refactor: moving the files to their respective folder for more organization |                | 2024-10-31 23:12:36 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | c80fbfa   | feat: create the controller for to the endpoint                |                     | 2024-10-31 11:04:53 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 8a387bf   | feat: create the create resource resource                      |                     | 2024-10-31 11:04:18 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 0af7f9e   | feat: create the resource resource                              |                     | 2024-10-31 11:03:57 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | 76693da   | feat: create te Resource to resource from entity assembler     |                     | 2024-10-31 11:03:44 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-management | f75ca92   | feat: create to transform the resource to resource             |                     | 2024-10-31 11:03:16 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | b5a4bb7   | feat: update AppDbContext                                         |                     | 2024-10-27 00:51:18 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | aab037a   | feat: created Repository, Report.cs                             |                     | 2024-10-26 02:22:52 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | af52a57   | feat: created command, service                                   |                     | 2024-10-26 02:22:30 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | e93baca   | feat: Created GeAllReportQuery                                   |                     | 2024-10-26 02:22:11 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | 7b0c0fa   | feat: created GetReportByResourceIdQuery                        |                     | 2024-10-26 02:21:42 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | 048a7e3   | feat: Created service commando, query                           |                     | 2024-10-26 02:21:14 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | 0487566   | feat: created ReportRepository                                   |                     | 2024-10-26 02:20:43 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | fd1d59e   | feat: created valuesObjects                                      |                     | 2024-10-26 02:20:19 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | e6d79f3   | feat: create ReportCommand create, delete                       |                     | 2024-10-26 02:19:56 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | 61ab9d8   | feat: update AppDbContext                                        |                     | 2024-10-26 02:18:52 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | 9d6143c   | chore: update AppDbContext.cs                                    |                     | 2024-10-25 13:43:36 -0500 |
+| FullStackFury/eduspace-platform | breakdown-management | e1bb94a   | chore: updated program.cs                                        |                     | 2024-10-25 13:35:05 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 0a2a6f7   | feat(app-db-context): added payroll context.                      |                     | 2024-11-03 01:51:39 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 6c30d60   | feat(payroll): update payroll.                                    |                     | 2024-11-03 01:51:11 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 899bd21   | feat(payroll-management): unfinished fluent api                  |                     | 2024-11-02 14:26:39 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 6cc2c16   | chore(payroll-management): update method delete from the service interface |                 | 2024-11-02 14:26:02 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 5f03875   | chore(payroll-management): unused update command deleted         |                     | 2024-11-02 14:25:18 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 5777da1   | chore(payroll-management): unused value objects deleted          |                     | 2024-11-02 14:24:46 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 4928217   | refactor(payroll-management): model of payroll refactored for better performance | | 2024-11-02 14:24:21 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 70293ff   | chore(payroll-management): command service without update method |                     | 2024-11-02 14:22:45 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | a61a833   | feat(payroll): set external profile service                      |                     | 2024-10-30 21:23:35 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | e6a1fbd   | feat(payroll): set update payroll resource                       |                     | 2024-10-30 21:23:12 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 93e467f   | feat(payroll): set query service                                 |                     | 2024-10-30 21:22:58 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 77ba57c   | feat(payroll): update command service                            |                     | 2024-10-30 21:22:42 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 8e261d1   | feat(payrrol): update summary                                    |                     | 2024-10-30 21:22:25 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 21384b6   | feat(payroll-command): update summary                            |                     | 2024-10-30 21:21:53 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 731be55   | feat(payroll): set payroll controller                            |                     | 2024-10-30 21:21:31 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 4703648   | feat(payroll): set interface transform                           |                     | 2024-10-30 21:21:08 -0500 |
+| FullStackFury/eduspace-platform | payroll-management      | 4e7b3ff   | feat(payroll): set interface resources                           |                     | 2024-10-30 21:20:48 -0500 |
+
+
+
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
