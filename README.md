@@ -125,6 +125,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Participé activamente en las reuniones del equipo, corrección de errores y mejoras en los componentes del front-end. Además de realizar mis tareas dentro del plazo establecido.</li>
           <li>Camila Leonor Espinoza Vivas: Participé de manera activa en las reuniones de equipo y me aseguré de completar mi parte del trabajo puntualmente para evitar cualquier inconveniente. Mi grupo me brindó apoyo cada vez que tenía dudas sobre el backend, y también contribuí en el desarrollo del frontend.</li>
+          <li>Andrés Alberto Torres García: Participé de forma concurrida en cuanto a las reuniones y en cuanto por el grupo de Whatsapp, tambien cumpliendo con mi parte del proyecto. </li>
         </ul> 
       </td>
       <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
@@ -143,7 +144,8 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Ariana Alehli, Huapaya Buitron: Asignacion de los User Personas, User Staks and User Journey Mapping </li>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
-          </li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
+          <li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
+          <li>Andrés Alberto Torres García: Siempre dispuesto a poder ayudar a mis compopañeron en alguna duda que tengo, hemos plandeados los objetivos para poder terminar en el plazo establezido las metas, tareas y objetivos</li>
         </ul>
       </td>
       <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
