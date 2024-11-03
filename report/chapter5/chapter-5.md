@@ -944,6 +944,7 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 ![validationAdmin1](../../assets/3.jpg)
 ![validationAdmin1](../../assets/2.jpg)
 ![validationAdmin1](../../assets/1.jpg)
+![validationAdmin1](../../assets/6.jpg)
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
