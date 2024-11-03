@@ -1107,7 +1107,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |      | 
+| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETgeG2Iz3BxIhp7AxZn1IIIBNcyiYKns77bIq8gdCK4s-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lGm1fR    | 
 
 **Entrevistado: 2**
 
