@@ -653,27 +653,27 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 | URL    | Endpoint          | HTTP Verb | Acción Implementada    | Sintaxis de Llamada        | Parámetros Posibles      | Ejemplo de Response                | Explicación del Response                |
 |-----------------|-------------|-----------|----------|-------------------|------------------------------|----------------------------------------|-----------------------------------------|
-|  | /api/v1/Classrooms        | GET    |  Obtener toda las aulas       |           |       |           |          | 
+|  | /api/v1/Classrooms        | GET    |  Obtener toda las aulas       |  'accept: application/json'         |       |           |          | 
 |  | /api/v1/Classrooms        | POST    |  Agregar un nuevo aula       |           |       |           |          | 
-|  | /api/v1/Classrooms/{classroomId}        | GET    |  Obtener un aula por ID       |           |       |           |          | 
-|  | /api/v1/Classrooms/{classroomId}/resources    | GET    |   Obtener recursos por ID del aula      |           |       |           |      | 
+|  | /api/v1/Classrooms/{classroomId}        | GET    |  Obtener un aula por ID       | 'accept: application/json'          |       |           |          | 
+|  | /api/v1/Classrooms/{classroomId}/resources    | GET    |   Obtener recursos por ID del aula      | 'accept: application/json'          |       |           |      | 
 |  | /api/v1/Revervations  | GET  | Obtener toda las reservas | 'accept: application/json' | Ninguno | `[{"id": 0,"start": "2024-11-02T23:31:31.713Z","end": "2024-11-02T23:31:31.713Z"}]`| Retorna un array de objetos reservas    | 
 |  | /api/v1/Reservations        | POST   |  Agregar una nueva reserva        |           |       |           |          | 
-|  | /api/v1/Reservations/areas/{areaId}        | GET   |  Otener reservas de un area por ID       |           |       |           |          | 
-|  | /api/v1/Resource        | GET    |  Otener todo los recursos       |           |       |           |          |
+|  | /api/v1/Reservations/areas/{areaId}        | GET   |  Otener reservas de un area por ID       |   'accept: application/json'        |       |           |          | 
+|  | /api/v1/Resource        | GET    |  Otener todo los recursos       |  'accept: application/json'         |       |           |          |
 |  | /api/v1/Resource        | POST   |  Crear un nuevo recurso       |           |       |           |          |
-|  | /api/v1/Resource/{resourceId}        | GET   |  Otener recurso por ID       |           |       |           |          |
-|  | /api/v1/SharedArea        | GET     |  Obtener toda las areas compartidas        |           |       |           |          |
+|  | /api/v1/Resource/{resourceId}        | GET   |  Otener recurso por ID       |  'accept: application/json'         |       |           |          |
+|  | /api/v1/SharedArea        | GET     |  Obtener toda las areas compartidas        |  'accept: application/json'         |       |           |          |
 |  | /api/v1/SharedArea        | POST    |  Agregar una nueva area compartida      |           |       |           |          |
-|  | /api/v1/SharedArea/{sharedAreaId}        | GET    |  Otener una area compartida por ID       |           |       |           |          |
-|  | /api/v1/Meetings       | GET    | Otener todo las reuniones       |           |       |           |          |
+|  | /api/v1/SharedArea/{sharedAreaId}        | GET    |  Otener una area compartida por ID       | 'accept: application/json'          |       |           |          |
+|  | /api/v1/Meetings       | GET    | Otener todo las reuniones       |  'accept: application/json'         |       |           |          |
 |  | /api/v1/Meetings       | POST    |  Agregar una nueva reunión       |           |       |           |          |
-|  | /api/v1/Meetings/{meetingId}       | GET    | Otener una reunión por ID        |           |       |           |          |
-|  | /api/v1/Reports        | GET    |  Obtener todo los reportes de averias       |           |       |           |          |
+|  | /api/v1/Meetings/{meetingId}       | GET    | Otener una reunión por ID        | 'accept: application/json'          |       |           |          |
+|  | /api/v1/Reports        | GET    |  Obtener todo los reportes de averias       |  'accept: application/json'         |       |           |          |
 |  | /api/v1/Reports        | POST   |  Agregar un nuevo reporte de averia       |           |       |           |          |
-|  | /api/v1/Reports/resources/{resourceId}        | GET    |  Otener reportes de un recurso por ID      |           |       |           |          |
+|  | /api/v1/Reports/resources/{resourceId}        | GET    |  Otener reportes de un recurso por ID      |  'accept: application/json'         |       |           |          |
 |  | /api/v1/TeachersProfiles        |  POST   |  Agregar un nuevo perfil de profesor        |           |       |           |          |
-|  | /api/v1/Payrolls        | GET    |  Obtener toda las nóminas     |           |       |           |          |
+|  | /api/v1/Payrolls        | GET    |  Obtener toda las nóminas     |  'accept: application/json'         |       |           |          |
 |  | /api/v1/Payrolls        | POST    | Agregar una nueva nómina       |           |       |           |          |
 
 
