@@ -120,15 +120,13 @@ del ABET – EAC - Student Outcome 5.</p>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ventura Allasi, Randel Russell: Organización de la documentación principal y elaboración estructural de la presentación del informe del trabajo.</li>
-          <li>Gustavo Esau Huanca Navarro: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe.</li>
           <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Escalante Baygorrea, Janiel Franz: Delegación de partes que trabajaria cada integrante, ayuda en temas de gitflow, conventional commits y corrección de errores.</li>
-          <li>Ariana Alehli, Huapaya Buitron: Participé activamente en las reuniones del equipo, colaboré en la revisión y mejora de la estructura del informe</li>
-          <li></li>
+          <p><strong>TB2</strong></p>
+          <li>Oscar Josué Antayhua Castillo: Participé activamente en las reuniones del equipo, corrección de errores y mejoras en los componentes del front-end. Además de realizar mis tareas dentro del plazo establecido.</li>
         </ul> 
       </td>
-      <td><strong>TB1</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
+      <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
@@ -138,15 +136,15 @@ del ABET – EAC - Student Outcome 5.</p>
         objetivos</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
-          <p><strong>TB1</strong></p>          
+          <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
           <li>Ariana Alehli, Huapaya Buitron: Asignacion de los User Personas, User Staks and User Journey Mapping </li>
-          <li></li>
-          <li></li>
+          <p><strong>TB2</strong></p>
+          <li>Oscar Josué Antayhua Castillo: Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
         </ul>
       </td>
-      <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
+      <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
       <br>
   </tbody>
 </table>
@@ -154,12 +152,18 @@ del ABET – EAC - Student Outcome 5.</p>
 # **Contenido**
 ## Tabla de Contenidos
 
-- [Carátula](#universidad-peruana-de-ciencias-aplicadas)  
-- [Registro de Versiones del Informe](#registro-de-versiones-del-Informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
+- [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
+- [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
+- [**Student Outcome**](#student-outcome)
+- [**Contenido**](#contenido)
   - [Tabla de Contenidos](#tabla-de-contenidos)
-- [Student Outcome](#student-outcome)
+      - [Capítulo I: Introducción](#capítulo-i-introducción)
+      - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+      - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+        - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+      - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
 #### [Capítulo I: Introducción](/report/chapter1/chapter-1.md)
 - [1.1. Startup Profile](/report/chapter1/chapter-1.md#11-startup-profile)
     - [1.1.1. Descripción de la Startup](/report/chapter1/chapter-1.md#111-descripción-de-la-starup)
