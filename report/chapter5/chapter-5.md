@@ -369,8 +369,8 @@ Para este segundo sprint
 | Location                        | Servidor de Discord del Equipo                                                                                  |
 | Prepared By                     | Franz Escalante                                                                                                 |
 | Attendees (to planning meeting) | Franz Escalante/ R andel Ventura / Gustavo Huanca / Camila Espinoza / Alheli Huapaya                            |
-| Sprint 2 Review Summary         |                                                                                                                 |
-| Sprint 2 Retrospective Summary  |                                                                                                                 |
+| Sprint 2 Review Summary         |    En la reunión se planteo la velocidad y los story points del sprint backlog 2                                                                                                             |
+| Sprint 2 Retrospective Summary  |           En este segundo sprint muchos de los integrantes tuvieron problemas al completar sus user tasks. Hubieron muchas reuniones, sin embargo no fue posible cumplir con la entega de todos los user tasks.                                                                                                      |
 | Sprint Goal & User Stories      |
 | Sprint 2 Goal                   | Nuestro objetivo es implementar las funcionalidades clave descritas en los bounded contexts, incluyendo el registro de información personal y credenciales de docentes, la gestión de aulas y espacios compartidos, y la administración de salarios. Esto implica formularios de registro, gestión de horarios y reservas de espacios, y un sistema automatizado para enviar salarios. El éxito se logrará cuando todos estos módulos estén completamente operativos y accesibles para usuarios y administradores. |
 | Sprint 2 Velocity               | 4 Velocity                                                                                                      |
