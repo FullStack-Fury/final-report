@@ -645,9 +645,20 @@ Analiticas de Colaboración:
 
 **Front End**
 
+En el frontend del proyecto FullStackFury/Eduspace, se han realizado importantes mejoras. Se añadió un dashboard para cada segmento, incluyendo profesores y administradores, facilitando así la gestión y el acceso a la información relevante. Además, se implementaron las partes que faltaron en la entrega pasada, que incluyen los bounded contexts de Payroll Management, Breakdown Management y Spaces and Resources Management.
+
+Asimismo, se realizó un cambio en el diseño del frontend para que sea más similar a los mockups, mejorando la coherencia visual y la experiencia del usuario. Estas implementaciones y ajustes optimizan la funcionalidad y la usabilidad de la aplicación.
+
+| Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
+|-------|---------|-----------|-------|----------------------------|---------------------------|
+| FullStack-Fury/eduspace-frontend | develop | 38a6d02   | feat(lot): some lot added to wines.  |        | 2024-10-20 08:17:53 -0500 |
+
 
 
 **Back End**
+
+
+
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
