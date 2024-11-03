@@ -127,6 +127,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Camila Leonor Espinoza Vivas: Participé de manera activa en las reuniones de equipo y me aseguré de completar mi parte del trabajo puntualmente para evitar cualquier inconveniente. Mi grupo me brindó apoyo cada vez que tenía dudas sobre el backend, y también contribuí en el desarrollo del frontend.</li>
           <li>Andrés Alberto Torres García: Participé de forma concurrida en cuanto a las reuniones y en cuanto por el grupo de Whatsapp, tambien cumpliendo con mi parte del proyecto. </li>
           <li>Angelo Marcio Curi Marcelo: Participé activamente en las reuniones del equipo y me aseguré de cumplir con mis responsabilidades a tiempo para prevenir cualquier problema.  </li>
+          <li>Janiel Franz Escalante Baygorrea: Me comunique efectivamente con los miembros del equipo y nos separamos las tareas de acuerdo a bounded context, tanto en el backend como el frontend</li>
         </ul> 
       </td>
       <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
@@ -147,6 +148,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
           <li>Andrés Alberto Torres García: Siempre dispuesto a poder ayudar a mis compopañeron en alguna duda que tengo, hemos plandeados los objetivos para poder terminar en el plazo establezido las metas, tareas y objetivos</li>
           <li>Curi Marcelo, Angelo Marcio: Asignación del bounded context breakdown management, implementación en Frontend y los endpoints para la backend correspondiente a las techinal stories  </li>
+          <li>Janiel Franz Escalante Baygorrea: Tuvimos un entorno colaborativo al usar Trello para la gestion de proyectos</li>
         </ul>
       </td>
       <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
