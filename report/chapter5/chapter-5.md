@@ -1565,13 +1565,14 @@ Para abordar este problema, se recomienda implementar una función de internacio
 
 A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
 
-Timing:
+Timing: 9:32
 
 enlace para acceder al video del About the product:
 
-Microsoft Stream:
+Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EXXXDlhz7-hFnuZ9_HXlQTABmKtp0Cgp_P2WCrFSztpOmw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0nzVx9
 
-Youtube:
+
+![](../../assets/abouProduct.jpg)
 
 
 
