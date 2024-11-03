@@ -1013,20 +1013,21 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 **Entrevistado: 1**
 
 
-**Nombre :** 
+**Nombre :** Gabriela 
 
 
-**Apellidos:** 
+**Apellidos:** Sotelo Checa
 
 
-**Edad :** 
+**Edad :** 30
 
 
-**Distrito:** 
+**Distrito:** San Miguel
 
 
 **Imagen:** 
 
+![validationAdmin1](../../assets/entrevista1Administrador.jpg)
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
