@@ -955,6 +955,11 @@ A continuación, se describe la configuración detallada del despliegue de cada 
 
 [Link de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html)
 
+Deploy DataBase:
+
+![validationAdmin1](../../assets/BaseDatos2.jpg)
+![validationAdmin1](../../assets/BaseDatos.jpg)
+
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
