@@ -660,20 +660,20 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 |  | /api/v1/Revervations  | GET  | Obtener toda las reservas | 'accept: application/json' | Ninguno | `{"id": 10,"start": "2024-11-02","end": "2024-11-10"}`| Retorna un array de objetos reservas    | 
 |  | /api/v1/Reservations        | POST   |  Agregar una nueva reserva        | 'Content-Type: application/json' -d `{"title": "string","start": "2024-11-03T03:21:10.303Z","end": "2024-11-03T03:21:10.303Z"...}`     |  JSON con datos de reserva      |  `{"id": 10,"start": "2024-11-15, "end": "2024-11-30"}`    |  Retorna el objeto reserva creado         | 
 |  | /api/v1/Reservations/areas/{areaId}        | GET   |  Otener reservas de un area por ID       |   'accept: application/json'        |  `id` (path parameter)     | `{"id": 15,"start": "2024-11-25, "end": "2024-12-30"}`          |  Retorna un objeto reserva de una area especifica        | 
-|  | /api/v1/Resource        | GET    |  Otener todo los recursos       |  'accept: application/json'         |       |           |          |
-|  | /api/v1/Resource        | POST   |  Crear un nuevo recurso       |           |       |           |          |
-|  | /api/v1/Resource/{resourceId}        | GET   |  Otener recurso por ID       |  'accept: application/json'         |       |           |          |
-|  | /api/v1/SharedArea        | GET     |  Obtener toda las areas compartidas        |  'accept: application/json'         |       |           |          |
+|  | /api/v1/Resource        | GET    |  Otener todo los recursos       |  'accept: application/json'         |  Ninguno     |  `{"id": 6,"name": "Pupitre","kindOfResource": "Mobiliario", "classroom":...}`         |  Retorna un arraya de objetos recursos  |
+|  | /api/v1/Resource        | POST   |  Crear un nuevo recurso       | 'Content-Type: application/json' -d `{"name": "string","kindOfResource": "string","classroomId": 0}` | JSON con datos del recurso      |  `{"id": 3,"name": "Pupitre","kindOfResource": "Mobiliario", "classroom":...}`         |  Retorna el objeto recurso creado         |
+|  | /api/v1/Resource/{resourceId}        | GET   |  Otener recurso por ID       |  'accept: application/json'         |  `id` (path parameter)  | `{"id": 10,"name": "Pizarra","kindOfResource": "Mobiliario", "classroom":...}`          | Retorna un objeto recurso especifico         |
+|  | /api/v1/SharedArea        | GET     |  Obtener toda las areas compartidas        |  'accept: application/json'         | Ninguno      |            |          |
 |  | /api/v1/SharedArea        | POST    |  Agregar una nueva area compartida      |           |       |           |          |
 |  | /api/v1/SharedArea/{sharedAreaId}        | GET    |  Otener una area compartida por ID       | 'accept: application/json'          |       |           |          |
-|  | /api/v1/Meetings       | GET    | Otener todo las reuniones       |  'accept: application/json'         |       |           |          |
+|  | /api/v1/Meetings       | GET    | Otener todo las reuniones       |  'accept: application/json'         | Ninguno      |           |          |
 |  | /api/v1/Meetings       | POST    |  Agregar una nueva reunión       |           |       |           |          |
 |  | /api/v1/Meetings/{meetingId}       | GET    | Otener una reunión por ID        | 'accept: application/json'          |       |           |          |
-|  | /api/v1/Reports        | GET    |  Obtener todo los reportes de averias       |  'accept: application/json'         |       |           |          |
+|  | /api/v1/Reports        | GET    |  Obtener todo los reportes de averias       |  'accept: application/json'         | Ninguno      |           |          |
 |  | /api/v1/Reports        | POST   |  Agregar un nuevo reporte de averia       |           |       |           |          |
 |  | /api/v1/Reports/resources/{resourceId}        | GET    |  Otener reportes de un recurso por ID      |  'accept: application/json'         |       |           |          |
 |  | /api/v1/TeachersProfiles        |  POST   |  Agregar un nuevo perfil de profesor        |           |       |           |          |
-|  | /api/v1/Payrolls        | GET    |  Obtener toda las nóminas     |  'accept: application/json'         |       |           |          |
+|  | /api/v1/Payrolls        | GET    |  Obtener toda las nóminas     |  'accept: application/json'         |  Ninguno     |           |          |
 |  | /api/v1/Payrolls        | POST    | Agregar una nueva nómina       |           |       |           |          |
 
 
