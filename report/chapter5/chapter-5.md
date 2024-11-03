@@ -965,21 +965,21 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 - Al gestionar los entornos y el equipo, ¿encontraste que la información presentada es suficiente y fácil de entender? ¿Qué tipo de información adicional te gustaría ver en esta gestión?
 - Si pudieras modificar o añadir una funcionalidad en esta sección, ¿cuál sería y por qué?
 
-**Cambios en Aulas y Reuniones:** 
-- ¿Puedes describir el proceso que seguiste para registrar cambios de aula? ¿Qué parte te resultó más fácil o complicada?
-- Si tuvieras que priorizar una mejora en esta área, ¿cuál sería y por qué crees que es importante?
-
 **Datos Personales:** 
 - ¿Qué funcionalidades adicionales te gustaría tener para gestionar tu información personal de manera más eficiente?
 - ¿Qué obstáculos has encontrado al intentar actualizar tu información personal?
 
-**Gestión del Personal:** 
-- ¿Hay alguna herramienta o recurso que crees que podría mejorar la gestión del personal?
-- ¿Hay alguna situación específica que hayas enfrentado que resalte una limitación en la gestión del personal?
-
 **Cálculo de Salarios:** 
 - ¿Qué información te gustaría que se mostrara de manera más clara en la sección de cálculo de salarios?
 - ¿Hay algún aspecto del proceso de cálculo de salarios que consideres confuso o complicado?
+
+**Gestión de Reuniones:**
+- ¿Qué tan fácil fue programar y gestionar reuniones a través de la plataforma? ¿Encontraste alguna parte del proceso que podría mejorarse?
+- ¿Qué características adicionales te gustaría tener para facilitar la gestión de reuniones, como la programación de recordatorios o la integración con calendarios externos?
+
+**Instalaciones Deportivas:** 
+- Al gestionar las instalaciones deportivas, ¿consideras que la información sobre disponibilidad y reservas es clara y accesible?
+- ¿Qué tipo de información o funcionalidades adicionales te gustaría ver para mejorar la gestión de las instalaciones deportivas?
 
 **Cierre de Sesión:**
 - ¿Has tenido alguna experiencia negativa al cerrar sesión que consideres importante compartir?
@@ -987,13 +987,8 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 #### Docente:
 **Sobre la Navegación:**
-
 - ¿Hay alguna opción que te resultara difícil de acceder? Si es así, ¿por qué?
 - ¿Hay algún nombre que no resuene contigo o que piensas que podría mejorarse?
-
-**Notificaciones:** 
-- ¿Podrías dar un ejemplo de una notificación que consideres especialmente útil o, por el contrario, innecesaria?
-- ¿Qué haría que revisaras las notificaciones con más frecuencia?
 
 **Reservas de Espacios:** 
 - ¿Qué parte del proceso de reserva te resultó más fácil o complicada?
