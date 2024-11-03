@@ -967,6 +967,9 @@ Deploy DataBase:
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
+![validationAdmin1](../../assets/insight.jpg)
+
+
 ## 5.3. Validation Interviews
 
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la plataforma EduSpace, diseñada para optimizar la gestión integral de espacios educativos en instituciones con grandes infraestructuras. Esta fase crítica del proyecto se centra en llevar a cabo entrevistas estructuradas y diálogos interactivos con nuestros usuarios clave: administradores de instituciones educativas, docentes y auxiliares. A través de estas entrevistas, buscamos captar sus impresiones, necesidades y sugerencias para garantizar que EduSpace no solo cumpla con los estándares técnicos, sino que también se alinee con las dinámicas operativas y expectativas de cada perfil de usuario.
