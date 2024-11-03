@@ -1387,9 +1387,9 @@ Implementar una barra de navegación que permanezca visible durante el desplazam
 <!--========================================= FILA 1 ======================================-->
 <tr>
   <td> 1 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Falta de notificación en la sección "Payroll Management" para alertar al usuario sobre la cercanía de su fecha de payroll </td>
+  <td> 4 </td>
+  <td> Usability – Prevención de errores </td>
 </tr>
 <!--========================================= FILA 2 ======================================-->
 <tr>
@@ -1424,19 +1424,25 @@ Implementar una barra de navegación que permanezca visible durante el desplazam
 
 **_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
 
-**_PROBLEMA #1:_**
+**_PROBLEMA #1:_** Falta de notificación en la sección "Payroll Management" para alertar al usuario sobre la cercanía de su fecha de payroll
 
-**_Severidad: #_**
+**_Severidad: 4_**
 
-Heurística violada:
+Heurística violada: Usability – Prevención de errores
 
 **_Problema:_**
 
-![](images/problemaW1.png)
+En la sección "Payroll Management", los usuarios no reciben notificaciones que les informen sobre la proximidad de su fecha de payroll. Esta ausencia de alertas impide que los usuarios se preparen adecuadamente para el cierre de su nómina, lo que puede resultar en la falta de cumplimiento con los plazos y generar estrés innecesario. La falta de comunicación efectiva puede llevar a errores en la gestión de sueldos y afectar la satisfacción general del usuario.
+
+![](../../assets/heuristicaweb.jpg)
 
 **_Recomendación:_**
 
+Para abordar este problema, se recomienda implementar un sistema de notificaciones que alerte a los usuarios sobre la cercanía de su fecha de payroll. Esto podría incluir recordatorios enviados a través de correo electrónico o notificaciones dentro de la aplicación. Asegúrese de que las notificaciones sean personalizables y se envíen con suficiente antelación para que los usuarios puedan actuar en consecuencia. Además, considere incluir opciones para que los usuarios configuren sus preferencias de notificación según sus necesidades.
+
+
 **_PROBLEMA #2:_**
+
 
 **_Severidad: #_**
 
