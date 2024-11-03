@@ -937,8 +937,7 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 |  | /api/v1/Reports        | POST   |  Agregar un nuevo reporte de averia       | 'Content-Type: application/json' -d `{"kindOfReport": "string","description": "string","resourceId": 0,"createdAt": "2024-11-03T04:22:23.075Z"}`|  JSON con datos de reporte |  `{"kindOfReport": "Red","description": "Desconexión frecuente...","resourceId": 10,"createdAt": "2024-11-03"}`  | Retorna un objeto reporte creado          |
 |  | /api/v1/Reports/resources/{resourceId}        | GET    |  Otener reportes de un recurso por ID      |  'accept: application/json'         | `id` (path parameter) | `{"kindOfReport": "Equipos","description": "Dejo de funcionar...","resourceId": 10,"createdAt": "2024-11-03"},...`          |  Retorna un array de objetos reportes de un recurso especifico        |
 |  | /api/v1/TeachersProfiles        |  POST   |  Agregar un nuevo perfil de profesor        |   'Content-Type: application/json' -d `{"firstName": "string","lastName": "string","email": "string","dni": "string","address": "string","phone": "string","accountId": 0,"username": "string","password": "string","role": "string"}`        |   JSON con datos de perfil del profesor    |   `{"firstName": "Faker","lastName": "Perez","email": "farkerperez@gmail.com","dni": "71655458","address":"Las flores 120","phone": "989545214","accountId": 5,"username": "fa32k","password": "5mundiales","role": "Profesor"}`        |  Retorna un objeto Perfil de profesor     |
-|  | /api/v1/Payrolls        | GET    |  Obtener toda las nóminas     |  'accept: application/json'         |  Ninguno     |           |          |
-|  | /api/v1/Payrolls        | POST    | Agregar una nueva nómina       |           |       |           |          |
+
 
 
 url:
