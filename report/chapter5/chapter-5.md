@@ -1627,4 +1627,6 @@ Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_u
 
 ### About The Team
 
-Enlace para acceder al video About The Team subido a Microsoft Stream:
+Enlace para acceder al video About The Team subido a Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EUsgoujPxuNFrq8GONSDodYBz3eUA49LydZwvIQR60C7Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rn7QFz
+
+![](../../assets/abouttheteam.jpg)
