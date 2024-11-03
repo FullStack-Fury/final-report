@@ -945,7 +945,7 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
 
-[Link del backend desplegado]() : 
+[Link del backend desplegado](http://eduspace-db.c1gic626oxoq.us-east-2.rds.amazonaws.com) : http://eduspace-db.c1gic626oxoq.us-east-2.rds.amazonaws.com
 
 [Link del frontend desplegado](https://eduspace-frontend-eight.vercel.app/) : https://eduspace-frontend-eight.vercel.app/
 
