@@ -142,11 +142,11 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>
           <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
-          <li>Curi Marcelo, Angelo Marcio: Asignación del bounded context breakdown management, implementación en Frontend y los endpoints para la backend correspondiente a las techinal stories  </li>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
           <li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
           <li>Andrés Alberto Torres García: Siempre dispuesto a poder ayudar a mis compopañeron en alguna duda que tengo, hemos plandeados los objetivos para poder terminar en el plazo establezido las metas, tareas y objetivos</li>
+          <li>Curi Marcelo, Angelo Marcio: Asignación del bounded context breakdown management, implementación en Frontend y los endpoints para la backend correspondiente a las techinal stories  </li>
         </ul>
       </td>
       <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
