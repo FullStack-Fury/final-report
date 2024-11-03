@@ -643,7 +643,15 @@ Analiticas de Colaboración:
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
+**Front End**
+
+
+
+**Back End**
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+No se realizaron tests durante el sprint
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
