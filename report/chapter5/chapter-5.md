@@ -151,7 +151,7 @@ Para el despliegue de nuestra Landing Page, empleamos GitHub Pages como herramie
 
 Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web. Enlace del Landing Page: https://pro-devs-si730.github.io/landing-page/
 
-![](../../assets/Github_Pages.PNG)
+![](../../assets/Github_Pages.PNG)p
 
 
 ### Web App deployment:
@@ -617,36 +617,36 @@ Analiticas de Colaboración:
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item/Task|||||||
 |Id|Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/InProcess/To-Review/Done)|
-|TS19|Añadir información del salario del docente través de un RESTful API	|TSK001|Desarrollar la capa <br>“domain”|Desarrollar la capa de dominio para encapsular la lógica del cálculo de salario usando OOP.|3h|Oscar|To-do|
-|TS19|Añadir información del salario del docente través de un RESTful API	|TSK002|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para el cálculo del salario.	|3h|Oscar|To-do|
-|TS19|Añadir información del salario del docente través de un RESTful API|TSK003|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los objetos de datos en la base de datos para almacenar la información del salario.	|2h	|Oscar|To-do|
-|TS19|Añadir información del salario del docente través de un RESTful API	|TSK004|Desarrollar la capa “interface”	|Desarrollar la capa de interfaz que comunique el API con el exterior, implementando el endpoint REST para añadir salarios.	|3h|Oscar|To-do|
-|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK005|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio utilizando OOP.|3h|Angelo|To-do|
-|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK006|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios que utilicen la lógica de la capa de dominio.|3h|Angelo|To-do|
-|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK007|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para conectar las entidades del dominio con la base de datos.|3h|Angelo|To-do|
-|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK008|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para permitir la comunicación entre el API REST con el exterior.|2h|Angelo|To-do|
-|TS08 |Añadir información de salones a través de un RESTful API|TSK009|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Andres|To-do|
-|TS08 |Añadir información de salones a través de un RESTful API|TSK010|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|3h|Andres|To-do|
-|TS08 |Añadir información de salones a través de un RESTful API|TSK011|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|3h|Andres|To-do|
-|TS08 |Añadir información de salones a través de un RESTful API|TSK012|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Andres|To-do|
-|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK013|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Andres|To-do|
-|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK014|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|3h|Andres|To-do|
-|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK015|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|3h|Andres|To-do|
-|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK016|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Andres|To-do|
-|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK017|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP para gestionar reuniones.|3h|Camila|To-do|
-|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK018|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para las reuniones.|3h|Camila|To-do|
-|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK019|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los objetos de datos en la base de datos para las reuniones.|3h|Camila|To-do|
-|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK020|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para implementar el endpoint REST para añadir la información de reuniones.|3h|Camila|To-do|
-|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK021|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio sobre la gestión de invitados a reuniones.|3h|Camila|To-do|
-|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK022|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para los invitados|3h|Camila|To-do|
-|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK023|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los datos de invitados en la base de datos.|3h|Camila|To-do|
-|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK024|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para implementar el endpoint REST para añadir la información de invitados.|3h|Camila|To-do|
-|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK025|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Franz|To-do|
-|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK026|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|2h|Franz|To-do|
-|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK027|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|1h|Franz|To-do|
-|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK028|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Franz|To-do|
-|TS25|Eliminar reserva a un espacios compartido a través de un RESTful API|TSK029|Agregar los comandos a la capa de dominio y usarlos en la de aplicación|Agregar commands e implementarlos en la capa de aplicación|1h|Franz|To-do|
-|TS23|Obtener información de la disponibilidad de espacios compartidos a través de un RESTful API|TSK030|Agregar queries |Agregar queries en la capa de domain y agregar la función para obtener recursos en la capa de interface|1h|Franz|To-do|
+|TS19|Añadir información del salario del docente través de un RESTful API	|TSK001|Desarrollar la capa <br>“domain”|Desarrollar la capa de dominio para encapsular la lógica del cálculo de salario usando OOP.|3h|Oscar|Done|
+|TS19|Añadir información del salario del docente través de un RESTful API	|TSK002|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para el cálculo del salario.	|3h|Oscar|Done|
+|TS19|Añadir información del salario del docente través de un RESTful API|TSK003|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los objetos de datos en la base de datos para almacenar la información del salario.	|2h	|Oscar|Done|
+|TS19|Añadir información del salario del docente través de un RESTful API	|TSK004|Desarrollar la capa “interface”	|Desarrollar la capa de interfaz que comunique el API con el exterior, implementando el endpoint REST para añadir salarios.	|3h|Oscar|Done|
+|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK005|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio utilizando OOP.|3h|Angelo|Done|
+|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK006|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios que utilicen la lógica de la capa de dominio.|3h|Angelo|Done|
+|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK007|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para conectar las entidades del dominio con la base de datos.|3h|Angelo|Done|
+|TS26|Añadir información del reporte de avería a través de un RESTful API|TSK008|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para permitir la comunicación entre el API REST con el exterior.|2h|Angelo|Done|
+|TS08 |Añadir información de salones a través de un RESTful API|TSK009|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Andres|Done|
+|TS08 |Añadir información de salones a través de un RESTful API|TSK010|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|3h|Andres|Done|
+|TS08 |Añadir información de salones a través de un RESTful API|TSK011|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|3h|Andres|Done|
+|TS08 |Añadir información de salones a través de un RESTful API|TSK012|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Andres|Done|
+|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK013|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Andres|Done|
+|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK014|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|3h|Andres|Done|
+|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK015|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|3h|Andres|Done|
+|TS09|Añadir información de espacios compartidos través de un RESTful API|TSK016|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Andres|Done|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK017|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP para gestionar reuniones.|3h|Camila|Done|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK018|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para las reuniones.|3h|Camila|Done|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK019|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los objetos de datos en la base de datos para las reuniones.|3h|Camila|Done|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK020|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para implementar el endpoint REST para añadir la información de reuniones.|3h|Camila|Done|
+|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK021|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio sobre la gestión de invitados a reuniones.|3h|Camila|Done|
+|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK022|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio para los invitados|3h|Camila|Done|
+|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK023|Desarrollar la capa “infrastructure”|Desarrollar la capa de infraestructura para mapear los datos de invitados en la base de datos.|3h|Camila|Done|
+|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK024|Desarrollar la capa “interface”|Desarrollar la capa de interfaz para implementar el endpoint REST para añadir la información de invitados.|3h|Camila|Done|
+|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK025|Desarrollar la capa “domain”|Desarrollar la capa de dominio para encapsular la lógica de negocio usando OOP. |3h|Franz|Done|
+|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK026|Desarrollar la capa “application”|Desarrollar la capa de aplicación para implementar los servicios de la capa de dominio.|2h|Franz|Done|
+|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK027|Desarrollar la capa “infrastructure”|Desarrollar la capa de infrastructure para mapear los objetos en la base de datos.|1h|Franz|Done|
+|TS24|Añadir reserva a un espacios compartido a través de un RESTful API|TSK028|Desarrollar la capa “interface”|Desarrollar la capa de interface para comunicar el endpoint con el exterior usando REST|3h|Franz|Done|
+|TS25|Eliminar reserva a un espacios compartido a través de un RESTful API|TSK029|Agregar los comandos a la capa de dominio y usarlos en la de aplicación|Agregar commands e implementarlos en la capa de aplicación|1h|Franz|Done|
+|TS23|Obtener información de la disponibilidad de espacios compartidos a través de un RESTful API|TSK030|Agregar queries |Agregar queries en la capa de domain y agregar la función para obtener recursos en la capa de interface|1h|Franz|Done|
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -1109,7 +1109,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 **Edad :** 30
 
 
-**Distrito:** San Miguel
+**Distrito:** San Borja
 
 
 **Imagen:** 
@@ -1118,7 +1118,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EUpNIU5NSO1AtmmdvTXKXDUBnzpf8u-w_OraceUHSCpsfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Dbcp3B
+| Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |    https://bit.ly/4hMQOLn
  | 
 
 **Entrevistado: 2**
@@ -1580,7 +1580,7 @@ Timing: 9:32
 
 enlace para acceder al video del About the product:
 
-**Microsoft Stream**: https://bit.ly/3UPIHE79
+**Microsoft Stream**: https://bit.ly/3UPIHE7
 **Youtube**: 
 
 
