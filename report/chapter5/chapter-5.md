@@ -1119,7 +1119,6 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
 | Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  9:45  |    https://bit.ly/4hMQOLn
- | 
 
 **Entrevistado: 2**
 
@@ -1581,7 +1580,7 @@ Timing: 9:32
 enlace para acceder al video del About the product:
 
 **Microsoft Stream**: https://bit.ly/3UPIHE7
-**Youtube**: 
+**Youtube**: https://youtu.be/j8Mj2Hk4KQk
 
 
 ![](../../assets/abouProduct.jpg)
@@ -1640,6 +1639,6 @@ enlace para acceder al video del About the product:
 ### About The Team
 
 **Microsoft Stream**: https://bit.ly/3ULw8tq
-**Youtube**:
+**Youtube**: https://youtu.be/7C6oQpjYr9Q
 
 ![](../../assets/abouttheteam.jpg)
