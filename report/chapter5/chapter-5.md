@@ -261,7 +261,7 @@ Para la entrega de este primer Sprint no se realizo testeo de la landing page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma. En el siguiente enlace se tendra el video que ilustre y explique la visualización y navegación logrados en este Sprint: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EWCZa2Zz0h9EskkkItqhT_oBbx0Z7EluzJkLUkluMIJ2zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xMGbtN
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "EduSpace". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma. En el siguiente enlace se tendra el video que ilustre y explique la visualización y navegación logrados en este Sprint: https://bit.ly/40FxRnZ
 
 US02-Encontrar información del propósito de la aplicación
 
@@ -951,11 +951,11 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
 
-[Link del backend desplegado](http://eduspace-db.c1gic626oxoq.us-east-2.rds.amazonaws.com) : http://eduspace-db.c1gic626oxoq.us-east-2.rds.amazonaws.com
+**Link del backend desplegado** : https://bit.ly/3AHEfAp
 
-[Link del frontend desplegado](https://eduspace-frontend-eight.vercel.app/) : https://eduspace-frontend-eight.vercel.app/
+**Link del frontend desplegado** : https://bit.ly/40LdfKR
 
-[Link de la landing page desplegada](https://fullstack-fury.github.io/landing-page/index.html) : https://fullstack-fury.github.io/landing-page/index.html
+**Link de la landing page desplegada** : https://bit.ly/3VcWJjx
 
 Deploy DataBase:
 
@@ -1580,7 +1580,8 @@ Timing: 9:32
 
 enlace para acceder al video del About the product:
 
-Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EXXXDlhz7-hFnuZ9_HXlQTABmKtp0Cgp_P2WCrFSztpOmw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0nzVx9
+**Microsoft Stream**: https://bit.ly/3UPIHE79
+**Youtube**: 
 
 
 ![](../../assets/abouProduct.jpg)
@@ -1638,6 +1639,7 @@ Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_u
 
 ### About The Team
 
-Enlace para acceder al video About The Team subido a Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EUsgoujPxuNFrq8GONSDodYBz3eUA49LydZwvIQR60C7Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rn7QFz
+**Microsoft Stream**: https://bit.ly/3ULw8tq
+**Youtube**:
 
 ![](../../assets/abouttheteam.jpg)
