@@ -977,7 +977,7 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 ### 5.2.4.1 Spring Planning 4.
 
-| Sprint #                        | Sprint 3                                                                                                        |
+| Sprint #                        | Sprint 4                                                                                                        |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |   |
 | Date                            | 18/11/2024 |
