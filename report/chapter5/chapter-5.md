@@ -973,6 +973,72 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 ![validationAdmin1](../../assets/insight.jpg)
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1 Spring Planning 4.
+
+| Sprint #                        | Sprint 3                                                                                                        |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |   |
+| Date                            | 19/10/2024 |
+| Time                            | 06:00 PM  |
+| Location                        | Servidor de Discord del Equipo   |
+| Prepared By                     | Franz Escalante  |
+| Attendees (to planning meeting) | Franz Escalante/ Camila Espinoza / Oscar Antayhua / Andres Torres / Angelo Curi |
+| Sprint 3 Review Summary         |    |
+| Sprint 3 Retrospective Summary  |    |
+| Sprint Goal & User Stories      |     |
+| Sprint 3 Goal                   |   |
+| Sprint 3 Velocity               |   |
+| Sum of Story Points             |    |
+
+
+
+### 5.2.4.2 Sprint Backlog 4.
+
+|Sprint#|Sprint 4|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item/Task|||||||
+|Id|Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/InProcess/To-Review/Done)|
+|TS19|Añadir información del salario del docente través de un RESTful API	|TSK001|Desarrollar la capa <br>“domain”|Desarrollar la capa de dominio para encapsular la lógica del cálculo de salario usando OOP.|3h|Oscar|Done|
+
+
+### 5.2.4.3 Development Evidence for Sprint Review.
+
+**Front-end:**
+
+En el frontend del proyecto FullStackFury/Eduspace, se han realizado importantes mejoras. Se mejoró el bounded context Meeting Management, añadiendo funcionalidades clave y optimizando su flujo de trabajo. También se implementó la funcionalidad de Notificaciones, lo que permite a los usuarios estar al tanto de eventos importantes en tiempo real.
+
+Además, se realizaron avances significativos en el bounded context Breakdown Management, solucionando aspectos pendientes de la entrega pasada, y se implementaron las funcionalidades del bounded context Personal Management. Se añadió un sistema de Login que asegura una correcta autenticación e integración con el backend.
+
+
+| Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
+|-------|---------|-----------|-------|----------------------------|---------------------------|
+| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
+
+**Back-end:**
+
+En el backend del proyecto FullStackFury/eduspace-platform, se lograron importantes avances durante este sprint. Se completaron los endpoints de todos los bounded contexts, incorporando las operaciones CRUD necesarias para garantizar una gestión eficiente de los datos.
+
+Además, se implementó el uso de tokens para mejorar la autenticación y seguridad de la plataforma. También se optimizó la estructura y calidad del código, asegurando mayor legibilidad y mantenibilidad. Por último, se añadió y actualizó la documentación con Swagger, facilitando la interacción y comprensión de los servicios del backend por parte de los desarrolladores.
+
+| Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
+|-------|---------|-----------|-------|----------------------------|---------------------------|
+| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode.                             |                     | 2024-11-02 11:23:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
+
+
+### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+### 5.2.4.5 Execution Evidence for Sprint Review.
+
+### 5.2.4.6 Services Documentation Evidence for Sprint Review.
+
+### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+### 5.2.4.8 Team Collaboration Insights during Sprint.
+
 
 ## 5.3. Validation Interviews
 
