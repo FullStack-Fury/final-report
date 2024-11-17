@@ -967,6 +967,10 @@ Deploy DataBase:
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Para la realización de los commits de nuestro Sprint, hemos hecho uso de la herramienta Rider y Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Web Storm/ Rider y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+**Back-end:**
+
 ![validationAdmin1](../../assets/insight.jpg)
 
 
