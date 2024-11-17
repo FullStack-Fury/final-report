@@ -1682,22 +1682,6 @@ enlace para acceder al video del About the product:
 
 ## Videos de Exposiciones
 
-### Exposición TB1:
-
-**Título del Proyecto**: EduSpace
-
-**Participantes**:
-
-**Link a la Exposición en Microsoft Stream**:
-
-### Exposición TP:
-
-**Título del Proyecto**: EduSpace
-
-**Participantes**:
-
-**Link a la Exposición en Microsoft Stream**:
-
 ### Exposición TB2:
 
 **Título del Proyecto**: EduSpace
