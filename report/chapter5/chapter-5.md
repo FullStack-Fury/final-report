@@ -980,16 +980,16 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 | Sprint #                        | Sprint 3                                                                                                        |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |   |
-| Date                            | 19/10/2024 |
+| Date                            | 18/11/2024 |
 | Time                            | 06:00 PM  |
 | Location                        | Servidor de Discord del Equipo   |
 | Prepared By                     | Franz Escalante  |
 | Attendees (to planning meeting) | Franz Escalante/ Camila Espinoza / Oscar Antayhua / Andres Torres / Angelo Curi |
-| Sprint 3 Review Summary         |    |
-| Sprint 3 Retrospective Summary  |    |
+| Sprint 4 Review Summary         |    |
+| Sprint 4 Retrospective Summary  |    |
 | Sprint Goal & User Stories      |     |
-| Sprint 3 Goal                   |   |
-| Sprint 3 Velocity               |   |
+| Sprint 4 Goal                   |   |
+| Sprint 4 Velocity               |   |
 | Sum of Story Points             |    |
 
 
