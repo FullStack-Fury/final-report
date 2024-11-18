@@ -122,6 +122,8 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>
           <li>Camila Leonor Espinoza Vivas: Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Escalante Baygorrea, Janiel Franz: Delegación de partes que trabajaria cada integrante, ayuda en temas de gitflow, conventional commits y corrección de errores.</li>
+          <p><strong>TP</strong></p>
+          <li>Camila Leonor Espinoza Vivas: Contribuí de manera activa en las reuniones de equipo, cumplí con mis tareas dentro de los plazos acordados, apoyé en la revisión del código de mis compañeros y ofrecí comentarios constructivos.</li>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Participé activamente en las reuniones del equipo, corrección de errores y mejoras en los componentes del front-end. Además de realizar mis tareas dentro del plazo establecido.</li>
           <li>Camila Leonor Espinoza Vivas: Participé de manera activa en las reuniones de equipo y me aseguré de completar mi parte del trabajo puntualmente para evitar cualquier inconveniente. Mi grupo me brindó apoyo cada vez que tenía dudas sobre el backend, y también contribuí en el desarrollo del frontend.</li>
@@ -141,8 +143,10 @@ del ABET – EAC - Student Outcome 5.</p>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ventura Allasi, Randel Russell: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
+          <li>Espinoza Vivas, Camila Leonor: Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Escalante Baygorrea, Janiel Franz: Asignación de user tasks y revisión de avances de los integrantes</li>
+          <p><strong>TP</strong></p>
+          <li>Camila Leonor Espinoza Vivas: Participación en reuniones de equipo, disposición para apoyar a otros miembros del equipo y cumplimiento mi parte del trabajo</li>
           <p><strong>TB2</strong></p>
           <li>Oscar Josué Antayhua Castillo: Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
           <li>Camila Leonor Espinoza Vivas:  Asignación de los bounded context a mejorar con respecto a la versión preliminar del front-end, además de realizar las capas correspondientes a mis technical stories dentro del plazo establecido</li>
