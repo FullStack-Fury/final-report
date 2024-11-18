@@ -1067,7 +1067,28 @@ Además, se realizaron avances significativos en el bounded context Breakdown Ma
 | FullStackFury/eduspace-frontend | develop | e5cc9e9   | feat(dashboard): update dashboard. |       | 2024-11-05 00:56:26 -0500 |
 | FullStackFury/eduspace-frontend | develop | 4f96683   | Merge remote-tracking branch 'origin/master' into feature/dashboard |       | 2024-11-04 19:09:31 -0500 |
 | FullStackFury/eduspace-frontend | develop | 58561e1   | Merge remote-tracking branch 'origin/develop' into feature/dashboard |       | 2024-11-04 19:07:31 -0500 |
-
+| FullStackFury/eduspace-frontend | spaces-and-resources | d8f0674   | feat(admin): update |       | 2024-11-17 15:10:48 -0500 |
+| FullStackFury/eduspace-frontend | spaces-and-resources | ce9fd7d   | feat(admin): update |       | 2024-11-17 15:09:27 -0500 |
+| FullStackFury/eduspace-frontend | spaces-and-resources | a192264   | Merge remote-tracking branch 'origin/feature/breakdown-management2' into develop |       | 2024-11-17 14:28:43 -0500 |
+| FullStackFury/eduspace-frontend | spaces-and-resources | 1e50b22   | feat(breakdown): update reports-management |       | 2024-11-17 14:25:22 -0500 |
+| FullStackFury/eduspace-frontend | spaces-and-resources | ba8d5d9   | feat(breakdown): added idTeacher |       | 2024-11-17 14:14:57 -0500 |
+| FullStackFury/eduspace-frontend | spaces-and-resources | 28dd651   | feat(payroll): update |       | 2024-11-17 13:38:37 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 1d70c94   | feat: added notifications |       | 2024-11-07 01:46:18 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 8c2ebe7   | feat: created notification logic |       | 2024-11-07 01:45:20 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 491dbd6   | feat: created notification-management |       | 2024-11-07 01:44:43 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 5f77606   | feat: added notification service |       | 2024-11-07 01:44:23 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 0ad9ef1   | feat(personal-management): merge. |       | 2024-11-06 10:09:03 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 8bda836   | feat(personal-management): added pv component. |       | 2024-11-06 00:48:28 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 6cf4db1   | feat: created personal-management |       | 2024-11-06 00:36:03 -0500 |
+| FullStackFury/eduspace-frontend | personal-management | 2da3555   | feat: delete personnel |       | 2024-11-06 00:35:18 -0500 |
+| FullStackFury/eduspace-frontend | iam | 0c7db34   | refactor(login): app.vue updated with new roles |       | 2024-11-16 12:56:39 -0500 |
+| FullStackFury/eduspace-frontend | iam | 30d22b0   | refactor(login): login component added |       | 2024-11-16 12:56:15 -0500 |
+| FullStackFury/eduspace-frontend | iam | a9940e5   | feat(login): model updated |       | 2024-11-16 12:54:08 -0500 |
+| FullStackFury/eduspace-frontend | iam | 6086f0d   | refactor(store): login service refactored |       | 2024-11-16 12:53:34 -0500 |
+| FullStackFury/eduspace-frontend | iam | ffa01b9   | feat(store): token added to user vuex |       | 2024-11-16 12:52:54 -0500 |
+| FullStackFury/eduspace-frontend | dashboard | e2d6ea9   | feat(db): update |       | 2024-11-15 20:58:06 -0500 |
+| FullStackFury/eduspace-frontend | dashboard | a51e3d3   | Update db.json |       | 2024-11-15 20:55:35 -0500 |
+| FullStackFury/eduspace-frontend | dashboard | d6672c1   | Update db.json |       | 2024-11-15 20:54:15 -0500 |
 
 **Back-end:**
 
