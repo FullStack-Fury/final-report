@@ -1091,6 +1091,7 @@ Además, se implementó el uso de tokens para mejorar la autenticación y seguri
 
 ### 5.2.4.8 Team Collaboration Insights during Sprint.
 
+Durante el Sprint 4, el equipo utilizó JetBrains Rider, WebStorm y Git para optimizar el desarrollo. Tras inicializar el repositorio con un commit inicial, los integrantes lo clonaron localmente para trabajar en tareas asignadas de forma independiente. Cada funcionalidad se desarrolló en ramas dedicadas, garantizando una colaboración limpia y evitando conflictos.
 
 ## 5.3. Validation Interviews
 
