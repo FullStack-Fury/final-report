@@ -985,10 +985,10 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 | Location                        | Servidor de Discord del Equipo   |
 | Prepared By                     | Franz Escalante  |
 | Attendees (to planning meeting) | Franz Escalante/ Camila Espinoza / Oscar Antayhua / Andres Torres / Angelo Curi |
-| Sprint 4 Review Summary         |    |
-| Sprint 4 Retrospective Summary  |    |
+| Sprint 4 Review Summary         | Se lograron alcanzar los objetivos establecidos: Corrección de los endpoints, Conexión entre el Front-end y el Back-End, Integración del Hash.   |
+| Sprint 4 Retrospective Summary  |Este sprint ha sido muy complejo debido a las correcciones que debimos de realizar tanto para el front-end como el back-end, además de integrar las validaciones del token dentro del inicio de sesión del usuario para así concluir con todo el proyecto completo.   |
 | Sprint Goal & User Stories      |     |
-| Sprint 4 Goal                   |   |
+| Sprint 4 Goal                   |Nuestro enfoque es permitir a las instituciones educativas registrarse y acceder a todas nuestras características, incluyendo la capacidad de crear cuentas para su personal y gestionar integralmente sus espacios. Creemos que implementar estas características nos permitirá ofrecer una aplicación útil para los administradores educativos y su personal. Esto se confirmará cuando, al elegir su plan, el administrador de la institución educativa sea capaz de registrar y gestionar cada ambiente, como aulas y áreas deportivas, incluyendo aforo, responsables y equipamiento. Por otro lado, los docentes podrán registrar su disponibilidad y actividades, mejorando la coordinación y comunicación en la institución.  |
 | Sprint 4 Velocity               |   |
 | Sum of Story Points             |    |
 
@@ -1000,8 +1000,31 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item/Task|||||||
 |Id|Title|Id|Title|Description|Estimation|Asigned To|Status (To-do/InProcess/To-Review/Done)|
-|TS19|Añadir información del salario del docente través de un RESTful API	|TSK001|Desarrollar la capa <br>“domain”|Desarrollar la capa de dominio para encapsular la lógica del cálculo de salario usando OOP.|3h|Oscar|Done|
-
+|TS01|Añadir administrador a través de un RESTful API|TSK01|Agregar hasheo|Agregar hasheo a la contraseña del administrador|2h|Franz|To-do|
+|TS01|Añadir administrador a través de un RESTful API|TSK02|Agregar token|Entregar token al realizar el registro del administrador|4h|Franz|To-do|
+|TS02|Añadir un docente a través de un RESTful API|TSK03|Agregar hasheo|Agregar hasheo a la contraseña del docente|2h|Franz|To-do|
+|TS05|Inicio de sesión a través de un RESTful API|TSK04|Buscar usuario y contraseña|Buscar el usuario y comparar contraseñas usando hasheo|1h|Franz|To-do|
+|TS05|Inicio de sesión a través de un RESTful API|TSK05|Enviar rol y id en el payload|Enviar rol y id en el payload del token|1h|Franz|To-do|
+|TS05|Inicio de sesión a través de un RESTful API|TSK06|Permitir uso de endpoints de acuerdo al rol|Permitir uso de endpoints de acuerdo al rol asignado en el payload del token|5h|Franz|To-do|
+|TS11|Añadir información de los recursos de un salón a través de un RESTful API|TSK07|Añadir endpoint para registrar recursos de un salón a través de un RESTful API|Crear un endpoint HTTP POST que permita registrar un nuevo recurso para un salón, utilizando el ID del profesor para asociar el recurso con un salón específico|3h|Andres|To-do|
+|TS11|Añadir información de los recursos de un salón a través de un RESTful API|TSK08|Eliminar recurso de un salón asociado a un profesor a través de un RESTful API|Crear un endpoint HTTP DELETE que permita eliminar un recurso de un salón, utilizando el ID del recurso y el ID del profesor|3h|Andres|To-do|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK09|Añadir endpoint para actualizar la reunión a través de un RESTful API|Crear un endpoint HTTP PUT que permita actualizar una reunión, utilizando el ID de la reunión|4h|Camila|To-do|
+|TS12|Añadir información de hora y lugar de una reunión a través de un RESTful API|TSK10|Añadir un endpoint para eliminar la reunión a través de un RESTful API|Crear un endpoint HTTP DELETE que permita eliminar una reunión, utilizando el ID de la reunión|4h|Camila|To-do|
+|TS13|Añadir información de los invitados de una reunión a través de un RESTful API|TSK11|Añadir un recurso para que guarde los invitados de una reunión a través de un RESTful API|Agregar método para añadir a los invitados en una reunión|4h|Camila|To-do|
+|TS14|Obtener notificación de reporte a través de un RESTful API|TSK12|Actualizar el diagrama físico de la base de datos|Actualizar el diagrama físico de la base de datos. Añadiendo tabla para notificaciones y corrección de errores|1h|Franz|To-do|
+|TS14|Obtener notificación de reporte a través de un RESTful API|TSK13|Agregar eventos y comunicación entre bounded context|Emitir evento después de que ocurra un reporte y enviarlo al bounded context del administrador|6h|Franz|To-do|
+|TS15|Obtener notificación de asistencia a través de un RESTful API|TSK14|Actualizar el diagrama físico de la base de datos|Actualizar el diagrama físico de la base de datos en base al registro de asistencia y la notificación|1h|Franz|To-do|
+|TS15|Obtener notificación de asistencia a través de un RESTful API|TSK15|Agregar eventos y comunicación entre bounded context|Agregar la emisión del evento al confirmar la asistencia. Si no está el recurso de confirmar asistencia se debe agregar.|4h|Franz|To-do|
+|TS16|Obtener notificación de creación de reunión a través de un RESTful API|TSK16|Actualizar el diagrama físico de la base de datos|Actualizar el diagrama físico de la base de datos en base al registro de reunión y la notificación|1h|Franz|To-do|
+|TS16|Obtener notificación de creación de reunión a través de un RESTful API|TSK17|Agregar eventos y comunicación entre bounded context|Agregar la emisión del evento al agregar participantes en la reunión. Si no está el recurso de agregar participantes a la reunión se debe agregar.|4h|Franz|To-do|
+|TS17|Añadir información del encargado del aula a través de un RESTful API|TSK18|Agregar eventos y comunicación entre bounded context|Asignar un docente a un aula dentro del registro del mismo.|4h|Oscar|To-do|
+|TS18|Actualizar información del encargado del aula a través de un RESTful API|TSK19|Agregar eventos y comunicación entre bounded context|Actualizar el docente encargado de un aula ante cualquier eventualidad|4h|Oscar|To-do|
+| TS22 | Obtener notificación de actualización envío de salario a través de un RESTful API | TSK20 | Actualizar el diagrama físico de la base de datos | Actualizar el diagrama físico de la base de datos en base al registro del salario y la notificación | 1h | Franz | To-do |
+| TS22 | Obtener notificación de actualización envío de salario a través de un RESTful API | TSK21 | Agregar eventos y comunicación entre bounded context | Agregar la emisión del evento al asignar el salario a un docente. | 3h | Franz | To-do |
+| TS26 | Añadir información del reporte de avería a través de un RESTful API | TSK22 | Añadir endpoint para registrar reporte de avería a través de un RESTful API | Crear un endpoint HTTP POST que permita registrar un nuevo reporte de avería, utilizando el ID de recursos para asociar el reporte con un recurso específico | 3h | Angelo | To-do |
+| TS26 | Añadir información del reporte de avería a través de un RESTful API | TSK23 | Eliminar reporte de avería asociado a un recurso específico a través de un RESTful API | Crear un endpoint HTTP DELETE que permita eliminar un reporte de avería, mediante el ID del recurso y el ID del reporte de avería | 3h | Angelo | To-do |
+| US26 | Reserva de espacios compartidos | TSK24 | Enviar verbo HTTP POST al reservar | Enviar verbo HTTP POST al reservar un espacio compartido | 3h | Franz | To-do |
+| US26 | Reserva de espacios compartidos | TSK25 | Enviar verbo HTTP DELETE al eliminar | Enviar verbo HTTP DELETE al eliminar la reserva de un espacio compartido | 3h | Franz | To-do |
 
 ### 5.2.4.3 Development Evidence for Sprint Review.
 
