@@ -30,11 +30,11 @@ Grupo: 03
 
 |           Integrantes            |   Código    |
 |:--------------------------------:|:-----------:|
-|  Ventura Allasi, Randel Russell  | U201910669  |
+|  Andrés Alberto Torres García  | -  |
 | Janiel Franz Escalante Baygorrea | U2019112668 |
-|  Huapaya Buitron, Ariana Alheli  | U201819645  |
-|  Camila Leonor, Espinoza Vivas   | U202214572  |
-|   Huanca Navarro Gustavo Esau    | U202215285  |
+|  Oscar Josué Antayhua Castillo  | - |
+|  Camila Leonor Espinoza Vivas   | U202214572  |
+|   Curi Marcelo Angelo Marcio    | u202022387  |
 
 Agosto 2024
 
