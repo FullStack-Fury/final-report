@@ -1098,8 +1098,74 @@ Además, se implementó el uso de tokens para mejorar la autenticación y seguri
 
 | Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
 |-------|---------|-----------|-------|----------------------------|---------------------------|
-| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode.                             |                     | 2024-11-02 11:23:11 -0500 |
-| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 3a5cd54   | refactor: delete teacher |       | 2024-11-18 02:41:16 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | b2b054c   | feat(shared-area): added delete and update shared area |       | 2024-11-18 02:40:59 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 7086067   | feat(Resource): added delete and update resource |       | 2024-11-18 02:40:22 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | d1fd07e   | feat(classroom): added delete and update classroom |       | 2024-11-18 02:39:42 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 8b5cf04   | merge |       | 2024-11-17 23:57:01 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | ec3596d   | Merge branch 'feature/reservation-scheduling' of https://github.com/FullStack-Fury/eduspace-platform into feature/reservation-scheduling |       | 2024-11-17 23:50:33 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 6f00d3d   | feat(space-and-resource): ClassroomsController.cs and Resource.cs |       | 2024-11-17 23:50:12 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | de2c977   | feat(meeting): add update meeting and delete meeting |       | 2024-11-17 18:57:33 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 15c2ee0   | feat(meeting): add update meeting |       | 2024-11-17 18:57:19 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 2c0fbb8   | feat(meeting): add update meeting |       | 2024-11-17 18:57:12 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | a3a432d   | feat(meeting): add update meeting |       | 2024-11-17 18:57:04 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 69a97aa   | feat(meeting): add update meeting command from resource assembler |       | 2024-11-17 18:56:53 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | dea012c   | feat(meeting): add update meeting resource |       | 2024-11-17 18:56:34 -0500 |
+| FullStackFury/eduspace-platform | spaces-and-resources-managament | 08e66f5   | feat(meeting): add update meeting command |       | 2024-11-17 18:56:14 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 455a436   | fix: camila's error fixed |       | 2024-11-18 14:34:35 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 6b2192d   | Merge remote-tracking branch 'origin/develop' into feature/reservation-scheduling |       | 2024-11-18 13:30:18 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | cf444c8   | feat: last version |       | 2024-11-18 00:16:35 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | bcf07ec   | Merge remote-tracking branch 'origin/feature/reservation-scheduling' into feature/reservation-scheduling |       | 2024-11-18 00:13:59 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 8b5cf04   | merge |       | 2024-11-17 23:57:01 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | ec3596d   | Merge branch 'feature/reservation-scheduling' of https://github.com/FullStack-Fury/eduspace-platform into feature/reservation-scheduling |       | 2024-11-17 23:50:33 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 6f00d3d   | feat(space-and-resource): ClassroomsController.cs and Resource.cs |       | 2024-11-17 23:50:12 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 2bb0136   | Merge remote-tracking branch 'origin/develop' into feature/reservation-scheduling |       | 2024-11-17 20:58:37 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | de2c977   | feat(meeting): add update meeting and delete meeting |       | 2024-11-17 18:57:33 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 15c2ee0   | feat(meeting): add update meeting |       | 2024-11-17 18:57:19 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 2c0fbb8   | feat(meeting): add update meeting |       | 2024-11-17 18:57:12 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | a3a432d   | feat(meeting): add update meeting |       | 2024-11-17 18:57:04 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 69a97aa   | feat(meeting): add update meeting command from resource assembler |       | 2024-11-17 18:56:53 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | dea012c   | feat(meeting): add update meeting resource |       | 2024-11-17 18:56:34 -0500 |
+| FullStackFury/eduspace-platform | reservation-scheduling | 08e66f5   | feat(meeting): add update meeting command |       | 2024-11-17 18:56:14 -0500 |
+| FullStackFury/eduspace-platform | derelease | 7dd760c   | fix(meeting): Andres fixed |       | Sun Nov 17 00:12:12 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease | 5a2c67b   | feat(meet): update |       | Sat Nov 16 23:36:35 2024 -0500 | --date=iso
+| FullStackFury/eduspace-platform | derelease |a1cf4af   | refactor(space-and-resource): rename rest shared area id |       | Sat Nov 16 23:32:32 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease | 4ae0447   | fix: franz fixed |       | Sat Nov 16 23:21:51 2024 -0500 |
+| FullStackFury/eduspace-platform | derelease |51da401   | feat(meet): update |       | Sat Nov 16 22:34:47 2024 -0500 | --date=iso
+| FullStackFury/eduspace-platform | derelease |43e6cce   | feat(space-and-resource): connection to DB |       | Sat Nov 16 22:33:25 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |4f91647   | fix: franz fixed |       | Sat Nov 16 22:16:56 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |039a583   | feat(meet):update |       | Sat Nov 16 21:42:01 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |2312d00   | Merge branch 'feature/iam' into feature/spaces-and-resources-management |       | Sat Nov 16 18:53:03 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |dcb1d15   | docs: environments |       | Sat Nov 16 18:44:40 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |7aa5865   | fix: CORS error fixed |       | Sat Nov 16 13:07:18 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |cf421b4   | merge iam into spaces and resources management |       | Sat Nov 16 13:01:25 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |bd71821   | Merge branch 'feature/spaces-and-resources-management' into feature/reservation-scheduling |       | Sat Nov 16 11:29:12 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |0bfb4fc   | fix(iam): returning role |       | Fri Nov 15 22:21:53 2024 -0500 | 
+| FullStackFury/eduspace-platform | derelease |96b07b4   | aa |       | Fri Nov 15 21:13:47 2024 -0500 | 
+| FullStackFury/eduspace-platform | repayroll-managment | c2c9138   | feat(payroll): update payroll. |       | Sun Nov 17 14:26:12 2024 -0500 | 
+| FullStackFury/eduspace-platform | iam | 7aa5865   | fix: CORS error fixed |       | Sat Nov 16 13:07:18 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 0bfb4fc   | fix(iam): returning role |       | Fri Nov 15 22:21:53 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 19a41c0   | feat: new dependencies added |       | Wed Nov 13 21:01:03 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 71e733a   | refactor: app db context refactored |       | Wed Nov 13 21:00:39 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| a088cb4   | refactor(profiles): command and resources refactored |       | Wed Nov 13 20:56:08 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 845e1af   | refactor(iam): rest controller, resources and transform classes refactored |       | Wed Nov 13 20:55:03 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 2c3539a   | refactor(iam): acl folder changed |       | Wed Nov 13 20:54:05 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| a5499fc   | fix: interface resource and controller updated |       | Wed Nov 13 20:50:46 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 1d7859c   | feat(iam): hashing and token service added |       | Wed Nov 13 20:50:25 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| f1ebbf5   | feat(iam): hashing and token service contracts |       | Wed Nov 13 20:49:47 2024 -0500 |
+| FullStackFury/eduspace-platform | iam| 404fdde   | fix(iam): domain layer updated |       | Wed Nov 13 20:49:13 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| b0ba59b   | feat(breakdown): update Report Resource |       | Sat Nov 16 21:08:39 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 5c8867e   | feat: created detele Report and GetByIdQuery |       | Thu Nov 14 19:40:10 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 3271114   | feat: created update |       | Thu Nov 14 19:39:50 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 51688a3   | feat: update Report final |       | Thu Nov 14 19:39:26 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| ec666a5   | feat: update Resource status, Entity |       | Thu Nov 14 19:38:55 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 9a262d9   | feat: update Report Repository |       | Thu Nov 14 19:38:29 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| a2be4a0   | feat: update ReportCommand |       | Thu Nov 14 19:38:12 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 9f38830   | feat: update Report queries |       | Thu Nov 14 19:37:55 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| dc21313   | feat: update ReportCommand |       | Thu Nov 14 19:37:31 2024 -0500 |
+| FullStackFury/eduspace-platform | breakdown-managament| 9435364   | feat: update dbContext |       | Thu Nov 14 19:37:05 2024 -0500 |
+
+
 
 
 ### 5.2.4.4 Testing Suite Evidence for Sprint Review.
