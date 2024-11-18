@@ -1114,7 +1114,7 @@ A continuación, se describe cómo se realizó el último despliegue de cada com
 
 **Link del backend desplegado** : https://bit.ly/3AHEfAp
 
-[**Link del frontend desplegado** : ](https://eduspace-frontend-six.vercel.app/login) : https://eduspace-frontend-six.vercel.app/login
+[**Link del frontend desplegado**  ](https://eduspace-frontend-six.vercel.app) : https://eduspace-frontend-six.vercel.app/login
 
 **Link de la landing page desplegada** : https://bit.ly/3VcWJjx
 
