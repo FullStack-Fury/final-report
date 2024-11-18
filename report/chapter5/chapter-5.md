@@ -1476,74 +1476,104 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 |-----------------------------|--------|------|
 | Para mejorar la experiencia del usuario en la sección de Datos Personales y Gestión de Personal, se recomienda eliminar confusiones y redundancias en la información presentada. En el Dashboard de Inicio, se sugiere incluir recomendaciones claras y accesibles, asegurando que la arquitectura del front end esté bien establecida. Además, es fundamental implementar un sistema de verificación para las funciones de inicio de sesión y eliminación de cuenta, reforzando la seguridad y la privacidad del usuario.|  0:00 - 9:45  |   [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EQ4vkqg58l5GkUVnUK_ZI2MBUhA5YhdQp0lvafEmcPwzTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wk6Ksq) : https://n9.cl/q5gdgf |
 
-
 **Entrevistado: 2**
 
 
-**Nombre :** 
+**Nombre :** Harris
 
 
-**Apellidos:** 
+**Apellidos:**  Herrada
 
 
-**Edad :** 
+**Edad :** 19 años
 
 
-**Distrito:** 
+**Distrito:**  Nápoles
 
 
 **Imagen:** 
 
+![image](https://github.com/user-attachments/assets/9254f449-ed98-4a61-8bcc-633e1a191322)
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-|  |    |      | 
+| La plataforma web de EduSpace le gustó porque cumple con las necesidades principales de los usuarios, como la gestión eficiente de espacios, la automatización de tareas administrativas y la facilidad de acceso a la información. Hay elementos que cambiar, como el diseño de ciertas interfaces o la organización de algunos menús, pero en sí le gustó en general por su funcionalidad. Quería que el Home tuviera más atractivo visual, con un diseño más dinámico e interactivo y accesos rápidos a las funcionalidades clave. | 4:13 |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ESyi5HuiTgpPmXmaNnLZzmoB_M2bt_AzKdTOk5t_m1SJ8A?e=ituEeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D    | 
 
 **Entrevistado: 3**
 
 
-**Nombre :** 
+**Nombre :** Valery
 
 
-**Apellidos:** 
+**Apellidos:** Ortiz
 
 
-**Edad :** 
+**Edad :** 20 años
 
 
-**Distrito:** 
+**Distrito:** Barranco
 
 
 **Imagen:** 
 
+![image](https://github.com/user-attachments/assets/4a38d032-4fd4-41ef-b1ce-aabf2f267fe3)
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-|  |    |      | 
+| Le pareció intuitivo y muy fácil de usar, destacando que tiene características que otras plataformas no ofrecen. Además, encontró el diseño organizado y fresco, lo que encaja perfectamente con el mensaje y los objetivos de la plataforma. También valoró como una buena opción la inclusión de notificaciones, ya que considera que esto mejora la experiencia del usuario al mantenerlo informado en tiempo real. | 7:21 | https://drive.google.com/file/d/1WpXBtHjiToBLkMvghbi4ACwndjFTp9Xl/view?usp=sharing | 
+
+**Entrevistado: 4**
+
+
+**Nombre :** Frabicio 
+ 
+
+**Apellidos:** Sanchez 
+
+
+**Edad :**  21 años
+
+
+**Distrito:** Chorrillos
+
+
+**Imagen:** 
+
+![image](https://github.com/user-attachments/assets/b3e94f20-f975-4970-9be3-a9976336e2d5)
+
+
+| Resumen de la Entrevista  | Timing | URL  |
+|-----------------------------|--------|------|
+| Considera que la plataforma está bien distribuida, con las secciones organizadas de manera clara y funcional. Destacó que es exactamente lo que busca, ya que todo está bien implementado. Sin embargo, señaló que falta la opción de editar el perfil y le gustaría que se incluyera un apartado específico para gestionar información personal. A pesar de este detalle, en general, ve la plataforma como una solución completa y bien diseñada. |  7:52  |     https://drive.google.com/file/d/1At3AFKmSC4UuDa_IxGNv1KQ1kUc8s8sK/view?usp=sharing | 
+
 
 #### Segmento objetivo Teacher
 
 **Entrevistado: 1**
 
 
-**Nombre :** 
+**Nombre : Valentino** 
 
 
-**Apellidos:** 
+**Apellidos: Montoro** 
 
 
-**Edad :** 
+**Edad : 19** 
 
 
-**Distrito:** 
+**Distrito: Surco Viejo** 
 
 
 **Imagen:** 
 
 
+![image](https://github.com/user-attachments/assets/f3b0b4ca-6ebd-4475-9766-8391e320acfb)
+
+
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-|  |    |      | 
+| Le gustó la plataforma web de EduSpace, pero le gustaría que se añadieran más opciones en la sección de reserva de espacios. Nos comentó que en otras plataformas tuvo dificultades al gestionar los intervalos de tiempo para las reservas, lo que complicó su experiencia. Por ello, considera importante incluir funciones más avanzadas que permitan personalizar y ajustar los horarios con mayor precisión. A pesar de esto, destacó que la plataforma cumple con sus expectativas generales y cubre todas las necesidades principales. | 4:14   |   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EULNA9CyGJhJvfqpgx7i56oBcFBgVKaAAr6bAfriSAmgew?e=IcGKzL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D   | 
+
 
 **Entrevistado: 2**
 
