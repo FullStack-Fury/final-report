@@ -1497,7 +1497,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| La plataforma web de EduSpace le gustó porque cumple con las necesidades principales de los usuarios, como la gestión eficiente de espacios, la automatización de tareas administrativas y la facilidad de acceso a la información. Hay elementos que cambiar, como el diseño de ciertas interfaces o la organización de algunos menús, pero en sí le gustó en general por su funcionalidad. Quería que el Home tuviera más atractivo visual, con un diseño más dinámico e interactivo y accesos rápidos a las funcionalidades clave. | 4:13 |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ESyi5HuiTgpPmXmaNnLZzmoB_M2bt_AzKdTOk5t_m1SJ8A?e=ituEeJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D    | 
+| La plataforma web de EduSpace le gustó porque cumple con las necesidades principales de los usuarios, como la gestión eficiente de espacios, la automatización de tareas administrativas y la facilidad de acceso a la información. Hay elementos que cambiar, como el diseño de ciertas interfaces o la organización de algunos menús, pero en sí le gustó en general por su funcionalidad. Quería que el Home tuviera más atractivo visual, con un diseño más dinámico e interactivo y accesos rápidos a las funcionalidades clave. | 4:13 |  [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EQ4vkqg58l5GkUVnUK_ZI2MBUhA5YhdQp0lvafEmcPwzTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wk6Ksq) : https://n9.cl/q5gdgf    | 
 
 **Entrevistado: 3**
 
@@ -1520,7 +1520,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| Le pareció intuitivo y muy fácil de usar, destacando que tiene características que otras plataformas no ofrecen. Además, encontró el diseño organizado y fresco, lo que encaja perfectamente con el mensaje y los objetivos de la plataforma. También valoró como una buena opción la inclusión de notificaciones, ya que considera que esto mejora la experiencia del usuario al mantenerlo informado en tiempo real. | 7:21 | https://drive.google.com/file/d/1WpXBtHjiToBLkMvghbi4ACwndjFTp9Xl/view?usp=sharing | 
+| Le pareció intuitivo y muy fácil de usar, destacando que tiene características que otras plataformas no ofrecen. Además, encontró el diseño organizado y fresco, lo que encaja perfectamente con el mensaje y los objetivos de la plataforma. También valoró como una buena opción la inclusión de notificaciones, ya que considera que esto mejora la experiencia del usuario al mantenerlo informado en tiempo real. | 7:21 | [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EQ4vkqg58l5GkUVnUK_ZI2MBUhA5YhdQp0lvafEmcPwzTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wk6Ksq) : https://n9.cl/q5gdgf | 
 
 **Entrevistado: 4**
 
@@ -1544,7 +1544,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| Considera que la plataforma está bien distribuida, con las secciones organizadas de manera clara y funcional. Destacó que es exactamente lo que busca, ya que todo está bien implementado. Sin embargo, señaló que falta la opción de editar el perfil y le gustaría que se incluyera un apartado específico para gestionar información personal. A pesar de este detalle, en general, ve la plataforma como una solución completa y bien diseñada. |  7:52  |     https://drive.google.com/file/d/1At3AFKmSC4UuDa_IxGNv1KQ1kUc8s8sK/view?usp=sharing | 
+| Considera que la plataforma está bien distribuida, con las secciones organizadas de manera clara y funcional. Destacó que es exactamente lo que busca, ya que todo está bien implementado. Sin embargo, señaló que falta la opción de editar el perfil y le gustaría que se incluyera un apartado específico para gestionar información personal. A pesar de este detalle, en general, ve la plataforma como una solución completa y bien diseñada. |  7:52  | [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EQ4vkqg58l5GkUVnUK_ZI2MBUhA5YhdQp0lvafEmcPwzTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wk6Ksq) : https://n9.cl/q5gdgf | 
 
 
 #### Segmento objetivo Teacher
@@ -1572,52 +1572,7 @@ Explicación del flujo: Desde cualquier sección, el docente puede seleccionar l
 
 | Resumen de la Entrevista  | Timing | URL  |
 |-----------------------------|--------|------|
-| Le gustó la plataforma web de EduSpace, pero le gustaría que se añadieran más opciones en la sección de reserva de espacios. Nos comentó que en otras plataformas tuvo dificultades al gestionar los intervalos de tiempo para las reservas, lo que complicó su experiencia. Por ello, considera importante incluir funciones más avanzadas que permitan personalizar y ajustar los horarios con mayor precisión. A pesar de esto, destacó que la plataforma cumple con sus expectativas generales y cubre todas las necesidades principales. | 4:14   |   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EULNA9CyGJhJvfqpgx7i56oBcFBgVKaAAr6bAfriSAmgew?e=IcGKzL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D   | 
-
-
-**Entrevistado: 2**
-
-
-**Nombre :** 
-
-
-**Apellidos:** 
-
-
-**Edad :** 
-
-
-**Distrito:** 
-
-
-**Imagen:** 
-
-
-| Resumen de la Entrevista  | Timing | URL  |
-|-----------------------------|--------|------|
-|  |    |      | 
-
-**Entrevistado: 3**
-
-
-**Nombre :** 
-
-
-**Apellidos:** 
-
-
-**Edad :** 
-
-
-**Distrito:** 
-
-
-**Imagen:** 
-
-
-| Resumen de la Entrevista  | Timing | URL  |
-|-----------------------------|--------|------|
-|  |    |      | 
+| Le gustó la plataforma web de EduSpace, pero le gustaría que se añadieran más opciones en la sección de reserva de espacios. Nos comentó que en otras plataformas tuvo dificultades al gestionar los intervalos de tiempo para las reservas, lo que complicó su experiencia. Por ello, considera importante incluir funciones más avanzadas que permitan personalizar y ajustar los horarios con mayor precisión. A pesar de esto, destacó que la plataforma cumple con sus expectativas generales y cubre todas las necesidades principales. | 4:14   |   [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EQ4vkqg58l5GkUVnUK_ZI2MBUhA5YhdQp0lvafEmcPwzTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wk6Ksq) : https://n9.cl/q5gdgf  | 
 
 
 ### 5.3.3. Evaluaciones según heurísticas
