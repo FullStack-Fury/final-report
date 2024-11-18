@@ -154,16 +154,20 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Andrés Alberto Torres García: Participé de forma concurrida en cuanto a las reuniones y en cuanto por el grupo de Whatsapp, tambien cumpliendo con mi parte del proyecto. </li>
           <li>Angelo Marcio Curi Marcelo: Participé activamente en las reuniones del equipo y me aseguré de cumplir con mis responsabilidades a tiempo para prevenir cualquier problema.  </li>
           <li>Janiel Franz Escalante Baygorrea: Me comunique efectivamente con los miembros del equipo y nos separamos las tareas de acuerdo a bounded context, tanto en el backend como el frontend</li>
+          <p><strong>TF</strong></p>
+          <li>Camila Leonor Espinoza Vivas: Me encargué de la implementación de nuevas funcionalidades en el backend, optimizando procesos y asegurando la calidad del código. Colaboré estrechamente con el equipo en la integración de servicios y trabajé en la mejora de la infraestructura</li>
+          <li>Oscar Josué Antayhua Castillo: Contribuí de manera significativa en la implementación de nuevas funcionalidades en el backend, optimicé consultas a bases de datos para mejorar el rendimiento y mantuve una comunicación constante con el equipo para asegurar la correcta integración de los servicios.</li>
+          <li>Andrés Alberto Torres García: Me encargué de la integración de las API backend, asegurando su correcta implementación y desempeño. Colaboré activamente en la revisión de código, sugiriendo mejoras en la arquitectura del sistema</li>
+          <li>Curi Marcelo, Angelo Marcio: Desarrollé nuevas funcionalidades backend según los requerimientos del proyecto, asegurando la calidad del código y su alineación con las buenas prácticas de desarrollo.</li>
+          <li>Janiel Franz Escalante Baygorrea: Fui responsable de la integración de sistemas backend con servicios externos y me enfoqué en la mejora de la eficiencia de las APIs.</li>  
         </ul> 
       </td>
       <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
+        <td><strong>TB2</strong><p align="justify">El equipo trabajó de manera colaborativa en el desarrollo de nuevas funcionalidades para el backend, optimizando procesos, integrando servicios y mejorando la infraestructura del sistema. A través de una comunicación constante, nos aseguramos de que las APIs y la arquitectura estuvieran alineadas con los estándares de calidad y buenas prácticas.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e
-        inclusivo, establece metas,
-        planifica tareas y cumple
-        objetivos</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas,    planifica tareas y cumple     objetivos</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
@@ -177,9 +181,16 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Andrés Alberto Torres García: Siempre dispuesto a poder ayudar a mis compopañeron en alguna duda que tengo, hemos plandeados los objetivos para poder terminar en el plazo establezido las metas, tareas y objetivos</li>
           <li>Curi Marcelo, Angelo Marcio: Asignación del bounded context breakdown management, implementación en Frontend y los endpoints para la backend correspondiente a las techinal stories  </li>
           <li>Janiel Franz Escalante Baygorrea: Tuvimos un entorno colaborativo al usar Trello para la gestion de proyectos</li>
+          <p><strong>TF</strong></p>
+          <li>Camila Leonor Espinoza Vivas: Me encargué de identificar y asignar los bounded context que necesitaban mejoras, optimizando el código backend y garantizando que las tareas técnicas se completaran con éxito dentro del plazo.</li>
+          <li>Oscar Josué Antayhua Castillo: Contribuí al análisis y la mejora de los bounded context del backend, asegurando la correcta implementación de las funcionalidades en mis historias técnicas y entregándolas en tiempo y forma.</li>
+          <li>Andrés Alberto Torres García: : Estuve disponible para ofrecer soporte a mis compañeros, ayudando a resolver dudas técnicas, y participando activamente en la planificación y distribución de tareas para cumplir con los plazos establecidos.</li>
+          <li>Curi Marcelo, Angelo Marcio: Asumí la responsabilidad de la implementación de un bounded context y me aseguré de que tanto el frontend como el backend estuvieran alineados para completar las historias técnicas dentro del tiempo asignado.</li>
+          <li>Janiel Franz Escalante Baygorrea: Mantuve una comunicación fluida con el equipo, gestionando eficientemente las tareas y plazos a través de Trello, lo que permitió asegurar que todos los miembros avanzaran de manera sincronizada en sus responsabilidades.</li>          
         </ul>
       </td>
       <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
+        <td><p><strong>TF</strong></p><p align="justify">El equipo trabajó de manera sinérgica, priorizando la colaboración a través de intercambios frecuentes y efectivos. Utilizamos diversas herramientas de comunicación para coordinar esfuerzos, organizar tareas y asegurar el progreso continuo del proyecto. Cada miembro contribuyó activamente a la revisión y mejora de los entregables, participando en discusiones constructivas y proponiendo soluciones. Con una planificación clara desde el inicio, establecimos objetivos alcanzables y revisamos regularmente el avance, ajustando las tareas y los plazos según las necesidades del proyecto, lo que permitió avanzar de forma eficiente hacia el éxito colectivo.</p>
       <br>
   </tbody>
 </table>
