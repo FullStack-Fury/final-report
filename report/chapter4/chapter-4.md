@@ -407,7 +407,7 @@ A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que i
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d361d2dd-7a6c-46f1-bd61-1099bc82b459" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/29be2bb3-9fe4-43c2-bcee-8d5206b5c97c" alt="Web App">
 </div>
 </br>
 
@@ -415,15 +415,18 @@ A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que i
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/057a4816-13e9-48fa-ab9b-bfb4e6792343" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/2e1c09f1-3107-4eb5-b8a1-ce30c0e2b38b" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/233d61b7-eba1-4adf-8fdd-e3586868ed92" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/e6348a92-c2dd-4039-8976-9401582e9d74" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/e25a3963-d8d3-4e28-8c49-d2769bf66925" alt="Web App">
 </div>
 </br>
 
 **Dashboard Admin**
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/98214b30-34d2-4506-96bb-9811bed528a4" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/357473b3-6a86-456c-93ac-c31d19d9bc93" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/9d08ec3c-e353-451e-9722-6121c3631de4" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/928f5d70-0473-491c-bbb1-78cb96ccbaa3" alt="Web App">
 </div>
 </br>
 
