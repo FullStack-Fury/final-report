@@ -1037,8 +1037,37 @@ Además, se realizaron avances significativos en el bounded context Breakdown Ma
 
 | Repository | Branch  | Commit Id | Commit Message   | Commit message body  | Committed on |
 |-------|---------|-----------|-------|----------------------------|---------------------------|
-| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
-| FullStackFury/eduspace-frontend | develop | fb728ff   | chore: fixed dark mode to light mode. |       | 2024-11-02 11:23:11 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5639d27   | feat(payroll): update |       | 2024-11-16 22:53:54 -0500 |
+| FullStackFury/eduspace-frontend | develop | f4d6bb6   | feat(payroll): update |       | 2024-11-16 21:47:10 -0500 |
+| FullStackFury/eduspace-frontend | develop | 7897fef   | feat(meet-dialog): update |       | 2024-11-16 17:34:02 -0500 |
+| FullStackFury/eduspace-frontend | develop | f5f5f1c   | feat(meet): update |       | 2024-11-16 16:34:30 -0500 |
+| FullStackFury/eduspace-frontend | develop | 98c86ab   | feat(meet): update |       | 2024-11-16 01:16:04 -0500 |
+| FullStackFury/eduspace-frontend | develop | 849aed6   | feat(meet-dialog): update |       | 2024-11-15 23:48:33 -0500 |
+| FullStackFury/eduspace-frontend | develop | 3522ac1   | feat(meet-dialog): update |       | 2024-11-15 21:10:03 -0500 |
+| FullStackFury/eduspace-frontend | develop | 19539ae   | feat(db): update |       | 2024-11-15 20:47:13 -0500 |
+| FullStackFury/eduspace-frontend | develop | 2a8e533   | feat(payroll): update. |       | 2024-11-15 14:09:47 -0500 |
+| FullStackFury/eduspace-frontend | develop | 9ed00bc   | merge 'spaces-and-resources' into 'develop' |       | 2024-11-11 00:24:31 -0500 |
+| FullStackFury/eduspace-frontend | develop | 6109428   | fix: the space and resource management |       | 2024-11-11 00:15:48 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8160f73   | feat: dbjson |       | 2024-11-10 23:51:04 -0500 |
+| FullStackFury/eduspace-frontend | develop | c88c0ad   | refactor: change the name of the component and the route to classrooms and shared spaces |       | 2024-11-10 23:50:28 -0500 |
+| FullStackFury/eduspace-frontend | develop | ef70610   | refactor: change the name component to classroom |       | 2024-11-10 23:49:56 -0500 |
+| FullStackFury/eduspace-frontend | develop | 1c9f162   | refactor: change the name component to classroom |       | 2024-11-10 23:49:53 -0500 |
+| FullStackFury/eduspace-frontend | develop | 2469d27   | refactor: change the name component to classroom |       | 2024-11-10 23:49:50 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5349a20   | refactor: change the name component to classroom |       | 2024-11-10 23:49:48 -0500 |
+| FullStackFury/eduspace-frontend | develop | d6cf114   | refactor: change the name component to classroom |       | 2024-11-10 23:49:45 -0500 |
+| FullStackFury/eduspace-frontend | develop | bde404a   | refactor: change the name route |       | 2024-11-10 23:49:22 -0500 |
+| FullStackFury/eduspace-frontend | develop | 061a61b   | refactor: delete component |       | 2024-11-10 23:48:58 -0500 |
+| FullStackFury/eduspace-frontend | develop | 03a8420   | refactor: change the name component to shared space |       | 2024-11-10 23:48:40 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8c299dd   | refactor: change the name component to shared space |       | 2024-11-10 23:48:36 -0500 |
+| FullStackFury/eduspace-frontend | develop | 5709b7a   | refactor: change the name component to shared space |       | 2024-11-10 23:48:33 -0500 |
+| FullStackFury/eduspace-frontend | develop | 8073804   | refactor: change the name component to shared space |       | 2024-11-10 23:48:25 -0500 |
+| FullStackFury/eduspace-frontend | develop | 69684c6   | refactor: change the name |       | 2024-11-10 23:42:01 -0500 |
+| FullStackFury/eduspace-frontend | develop | 884870c   | feat(asset): added default profile image. |       | 2024-11-05 19:15:13 -0500 |
+| FullStackFury/eduspace-frontend | develop | 035a6f7   | feat(dashboard): update dashboard. |       | 2024-11-05 19:14:51 -0500 |
+| FullStackFury/eduspace-frontend | develop | e5cc9e9   | feat(dashboard): update dashboard. |       | 2024-11-05 00:56:26 -0500 |
+| FullStackFury/eduspace-frontend | develop | 4f96683   | Merge remote-tracking branch 'origin/master' into feature/dashboard |       | 2024-11-04 19:09:31 -0500 |
+| FullStackFury/eduspace-frontend | develop | 58561e1   | Merge remote-tracking branch 'origin/develop' into feature/dashboard |       | 2024-11-04 19:07:31 -0500 |
+
 
 **Back-end:**
 
