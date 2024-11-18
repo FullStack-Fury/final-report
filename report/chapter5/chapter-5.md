@@ -1206,11 +1206,11 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 A continuación, se describe cómo se realizó el último despliegue de cada componente de la solución, detallando los pasos seguidos para lograr la publicación exitosa de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
 
-**Link del backend desplegado** : https://bit.ly/3AHEfAp
+[**Link del backend desplegado** :](https://bit.ly/3AHEfAp): https://bit.ly/3AHEfAp
 
-[**Link del frontend desplegado**  ](https://eduspace-frontend-six.vercel.app) : https://eduspace-frontend-six.vercel.app/login
+[**Link del frontend desplegado**:  ](https://eduspace-frontend-six.vercel.app) : https://eduspace-frontend-six.vercel.app/login
 
-**Link de la landing page desplegada** : https://bit.ly/3VcWJjx
+[**Link de la landing page desplegada** :](https://bit.ly/3VcWJjx) https://bit.ly/3VcWJjx
 
 #### Front-end:
 
