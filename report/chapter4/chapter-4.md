@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3708a1d1-e1e8-4c71-9a69-08ac3a98dafe)# Capítulo IV: Product Design
+# Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 
 Debido al enfoque de nuestra solución web en la gestión de espacios educativos y administrativos, es necesario que tenga un estilo profesional y organizado, que facilite la navegación y promueva la eficiencia en las tareas de los administradores y docentes.
@@ -407,7 +407,7 @@ A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que i
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/318c61e8-4d74-4cbe-94ba-993e3e949a21" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/d361d2dd-7a6c-46f1-bd61-1099bc82b459" alt="Web App">
 </div>
 </br>
 
@@ -415,19 +415,15 @@ A continuación se exhiben los mock-ups de la aplicación web de EduSpace, que i
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/ec2aba57-27d6-40a1-b318-58886abcf2ef" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/7e045a1c-4a58-49ff-9820-508affcb8a5c" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/60c99092-93fd-47c9-ba71-230a2b22449c" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/af52b16e-fafc-4219-b269-38b5b0b0bd7d" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/057a4816-13e9-48fa-ab9b-bfb4e6792343" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/2e1c09f1-3107-4eb5-b8a1-ce30c0e2b38b" alt="Web App">
 </div>
 </br>
 
 **Dashboard Admin**
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/30e3bfba-0b90-47ed-85b7-bbf8e80107eb" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/6ca22825-14b3-4f89-ba58-337194063c96" alt="Web App">
-    <img src="https://github.com/user-attachments/assets/96f48744-131f-44da-9256-a1855466272f" alt="Web App">
+    <img src="https://github.com/user-attachments/assets/98214b30-34d2-4506-96bb-9811bed528a4" alt="Web App">
 </div>
 </br>
 
