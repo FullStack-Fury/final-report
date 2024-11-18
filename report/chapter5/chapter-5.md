@@ -962,7 +962,43 @@ Deploy DataBase:
 ![validationAdmin1](../../assets/BaseDatos2.jpg)
 ![validationAdmin1](../../assets/BaseDatos.jpg)
 
+#### Despliegue del Web Service:
 
+Para el despliegue del Web Service, se utilizó la plataforma MonsterASP
+![Deploy1](../../assets/D-back1.png)
+
+**1-. Primero debemos de registrarnos para hacer uso de la plataforma.**
+![Deploy2](../../assets/D-back2.png)
+
+**2-. Una vez ingresados creamos un nuevo website.**
+![Deploy3](../../assets/D-back9.png)
+
+**3-. Luego en el panel de control, nos dirigimos al apartado deploy y en WebDeploy Access lo colocamos en "Enable" y descargarmos el perfil de publicación**
+
+![Deploy4](../../assets/D-back3.png)
+
+**4-. Para utilizar el perfil debemos primero cargar nuestro proyecto dentro de Visual Studio**
+![Deploy5](../../assets/D-back4.png)
+
+
+**5-. Una vez cargado el proyecto, le damos click derecho sobre este y luego a "Publicar"**
+![Deploy6](../../assets/D-back5.png)
+
+**6-. Configuramos el program.cs para que el Swagger este disponible para producción"**
+![Deploy7](../../assets/D-back10.png)
+
+**6-. Seleccionamos la opción de "Importar Pefil"**
+![Deploy7](../../assets/D-back6.png)
+
+
+**7-. Seleccionamos el perfil que descargamos en el panel de control de MonsterAsp"**
+![Deploy8](../../assets/D-back7.png)
+
+
+**8-. Con esto ya tenemos desplegado nuestro Web Service**
+![Deploy9](../../assets/D-back8.png)
+
+Link del Web Service desplegado: http://eduspace-platform.runasp.net/swagger/index.html
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -1219,11 +1255,9 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 
 A continuación, se describe cómo se realizó el último despliegue de cada componente de la solución, detallando los pasos seguidos para lograr la publicación exitosa de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
 
-[**Link del backend desplegado** :](https://bit.ly/3AHEfAp): https://bit.ly/3AHEfAp
+**Link del backend desplegado** : https://bit.ly/3AHEfAp
 
-[**Link del frontend desplegado**:  ](https://eduspace-frontend-six.vercel.app) : https://eduspace-frontend-six.vercel.app/login
-
-[**Link de la landing page desplegada** :](https://bit.ly/3VcWJjx) https://bit.ly/3VcWJjx
+**Link de la landing page desplegada** : https://bit.ly/3VcWJjx
 
 #### Front-end:
 
@@ -1243,10 +1277,42 @@ Para el despliegue del frontend, se utilizó la plataforma Vercel, siguiendo est
 
 ![Deploy4](../../assets/deploy4.png)
 
+[**Link del frontend desplegado**  ](https://eduspace-frontend-six.vercel.app) : https://eduspace-frontend-six.vercel.app/login
+
 #### Back-end:
 
+Para el despliegue del Back-End, se utilizó la plataforma MonsterASP
+![Deploy1](../../assets/D-back1.png)
+
+**1-. Primero debemos de registrarnos para hacer uso de la plataforma.**
+![Deploy2](../../assets/D-back2.png)
+
+**2-. Una vez ingresados creamos un nuevo website.**
+![Deploy3](../../assets/D-back9.png)
+
+**3-. Luego en el panel de control, nos dirigimos al apartado deploy y en WebDeploy Access lo colocamos en "Enable" y descargarmos el perfil de publicación**
+
+![Deploy4](../../assets/D-back3.png)
+
+**4-. Para utilizar el perfil debemos primero cargar nuestro proyecto dentro de Visual Studio**
+![Deploy5](../../assets/D-back4.png)
 
 
+**5-. Una vez cargado el proyecto, le damos click derecho sobre este y luego a "Publicar"**
+![Deploy6](../../assets/D-back5.png)
+
+**6-. Seleccionamos la opción de "Importar Pefil"**
+![Deploy7](../../assets/D-back6.png)
+
+
+**7-. Seleccionamos el perfil que descargamos en el panel de control de MonsterAsp"**
+![Deploy8](../../assets/D-back7.png)
+
+
+**8-. Y con esto ya tenemos desplegado nuestro Web Service**
+![Deploy9](../../assets/D-back8.png)
+
+Link del Web Service desplegado: http://eduspace-platform.runasp.net/swagger/index.html
 
 ### 5.2.4.8 Team Collaboration Insights during Sprint.
 
