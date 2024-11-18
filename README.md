@@ -163,7 +163,7 @@ del ABET – EAC - Student Outcome 5.</p>
         </ul> 
       </td>
       <td><strong>TB2</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.</p>
-        <td><strong>TB2</strong><p align="justify">El equipo trabajó de manera colaborativa en el desarrollo de nuevas funcionalidades para el backend, optimizando procesos, integrando servicios y mejorando la infraestructura del sistema. A través de una comunicación constante, nos aseguramos de que las APIs y la arquitectura estuvieran alineadas con los estándares de calidad y buenas prácticas.</p>
+      <strong>TF</strong><p align="justify">El equipo trabajó de manera colaborativa en el desarrollo de nuevas funcionalidades para el backend, optimizando procesos, integrando servicios y mejorando la infraestructura del sistema. A través de una comunicación constante, nos aseguramos de que las APIs y la arquitectura estuvieran alineadas con los estándares de calidad y buenas prácticas.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
@@ -190,7 +190,7 @@ del ABET – EAC - Student Outcome 5.</p>
         </ul>
       </td>
       <td><p><strong>TB2</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
-        <td><p><strong>TF</strong></p><p align="justify">El equipo trabajó de manera sinérgica, priorizando la colaboración a través de intercambios frecuentes y efectivos. Utilizamos diversas herramientas de comunicación para coordinar esfuerzos, organizar tareas y asegurar el progreso continuo del proyecto. Cada miembro contribuyó activamente a la revisión y mejora de los entregables, participando en discusiones constructivas y proponiendo soluciones. Con una planificación clara desde el inicio, establecimos objetivos alcanzables y revisamos regularmente el avance, ajustando las tareas y los plazos según las necesidades del proyecto, lo que permitió avanzar de forma eficiente hacia el éxito colectivo.</p>
+      <p><strong>TF</strong></p><p align="justify">El equipo trabajó de manera sinérgica, priorizando la colaboración a través de intercambios frecuentes y efectivos. Utilizamos diversas herramientas de comunicación para coordinar esfuerzos, organizar tareas y asegurar el progreso continuo del proyecto. Cada miembro contribuyó activamente a la revisión y mejora de los entregables, participando en discusiones constructivas y proponiendo soluciones. Con una planificación clara desde el inicio, establecimos objetivos alcanzables y revisamos regularmente el avance, ajustando las tareas y los plazos según las necesidades del proyecto, lo que permitió avanzar de forma eficiente hacia el éxito colectivo.</p>
       <br>
   </tbody>
 </table>
