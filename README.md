@@ -86,6 +86,30 @@ Agosto 2024
         </ul>
       </td>
   </tr>
+<tr>
+      <td><strong>TF</strong></td>
+      <td>18 de noviembre</td>
+      <td>
+        <ul>
+          <li>Andrés Alberto Torres García</li>
+          <li>Escalante Baygorrea, Janiel Franz</li>
+          <li>Oscar Josué Antayhua Castillo</li>
+          <li>Camila Leonor Espinoza Vivas</li>
+          <li>Curi Marcelo Angelo Marcio</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo V: Sprint 4</li>
+          <li>Capítulo V: Actualización Evaluaciones según herísticas</li>
+          <li>Capítulo V: Actualización de entrevistas</li>
+          <li>Capítulo V: Deploy versión final de backend y frontend</li>
+          <li>Actualización: Videos de exposión </li>
+          <li>Actualización: User stories  </li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
