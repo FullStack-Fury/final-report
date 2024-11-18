@@ -1107,8 +1107,39 @@ Además, se implementó el uso de tokens para mejorar la autenticación y seguri
 ### 5.2.4.5 Execution Evidence for Sprint Review.
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
-
+https://eduspace-frontend-six.vercel.app/login
 ### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+A continuación, se describe cómo se realizó el último despliegue de cada componente de la solución, detallando los pasos seguidos para lograr la publicación exitosa de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
+
+**Link del backend desplegado** : https://bit.ly/3AHEfAp
+
+[**Link del frontend desplegado** : ](https://eduspace-frontend-six.vercel.app/login)
+
+**Link de la landing page desplegada** : https://bit.ly/3VcWJjx
+
+#### Front-end:
+
+Para el despliegue del frontend, se utilizó la plataforma Vercel, siguiendo estos pasos:
+
+**1-. Se eligió el repositorio FullStack-Fury y se seleccionó la carpeta eduspace-frontend para importar.**
+
+![Deploy1](../../assets/deploy1.png)
+
+**2-. En la configuración, se creó un nuevo proyecto, seleccionando la rama master, asignando un nombre al proyecto y presionando Deploy para iniciar el proceso de despliegue.**
+
+![Deploy2](../../assets/deploy2.png)
+
+![Deploy3](../../assets/deploy3.png)
+
+**3.- Al finalizar, apareció el mensaje de Congratulations, indicando que el despliegue fue exitoso.**
+
+![Deploy4](../../assets/deploy4.png)
+
+#### Back-end:
+
+
+
 
 ### 5.2.4.8 Team Collaboration Insights during Sprint.
 
