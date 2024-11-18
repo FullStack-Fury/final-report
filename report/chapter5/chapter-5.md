@@ -1798,7 +1798,7 @@ enlace para acceder al video del About the product:
 
 ### About The Team
 
-**Microsoft Stream**: https://bit.ly/3ULw8tq
-**Youtube**: https://youtu.be/7C6oQpjYr9Q
+[**Microsoft Stream**:](https://bit.ly/3ULw8tq) https://bit.ly/3ULw8tq
+[**Youtube**:](https://youtu.be/7C6oQpjYr9Q) https://youtu.be/7C6oQpjYr9Q
 
 ![](../../assets/abouttheteam.jpg)
