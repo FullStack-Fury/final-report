@@ -35,6 +35,8 @@ Grupo: 03
 |  Oscar Josué Antayhua Castillo  | U20191E414 |
 |  Camila Leonor Espinoza Vivas   | U202214572  |
 |   Curi Marcelo Angelo Marcio    | u202022387  |
+
+
 Agosto 2024
 
 </div>
