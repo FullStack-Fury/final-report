@@ -1025,8 +1025,8 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 | Sprint 4 Retrospective Summary  |Este sprint ha sido muy complejo debido a las correcciones que debimos de realizar tanto para el front-end como el back-end, además de integrar las validaciones del token dentro del inicio de sesión del usuario para así concluir con todo el proyecto completo.   |
 | Sprint Goal & User Stories      |     |
 | Sprint 4 Goal                   |Nuestro enfoque es permitir a las instituciones educativas registrarse y acceder a todas nuestras características, incluyendo la capacidad de crear cuentas para su personal y gestionar integralmente sus espacios. Creemos que implementar estas características nos permitirá ofrecer una aplicación útil para los administradores educativos y su personal. Esto se confirmará cuando, al elegir su plan, el administrador de la institución educativa sea capaz de registrar y gestionar cada ambiente, como aulas y áreas deportivas, incluyendo aforo, responsables y equipamiento. Por otro lado, los docentes podrán registrar su disponibilidad y actividades, mejorando la coordinación y comunicación en la institución.  |
-| Sprint 4 Velocity               |   |
-| Sum of Story Points             |    |
+| Sprint 4 Velocity               |  75 |
+| Sum of Story Points             |  81  |
 
 
 
