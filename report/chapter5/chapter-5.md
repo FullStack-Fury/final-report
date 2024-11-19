@@ -1911,8 +1911,27 @@ La aplicación carece de una funcionalidad de internacionalización que permita 
 Para abordar este problema, se recomienda implementar una función de internacionalización que permita a los usuarios seleccionar su idioma preferido desde un menú accesible. Esto debe incluir la traducción de todos los elementos de la interfaz y del contenido relevante. Es fundamental realizar pruebas con usuarios que hablen diferentes idiomas para asegurar que la implementación sea efectiva y satisfactoria.
 
 
+**_PROBLEMA #5:_** Falta de funcionalidad para editar datos en el Home del administrador
+
+**_Severidad: 3_**
+
+Heurística violada: Control y libertad del usuario – Falta de acceso a funciones esenciales
+
+**_Problema:_**
+
+En el Home de la vista de administrador, donde se presenta información clave sobre los datos gestionados, no existe una opción para editar los datos directamente desde esta sección. Esto obliga a los usuarios a navegar a otras áreas de la aplicación, lo que reduce la eficiencia y complica el flujo de trabajo. La ausencia de esta funcionalidad limita la flexibilidad del usuario y puede generar frustración al requerir pasos adicionales para tareas básicas de edición.
 
 
+![](../../assets/heruristica5.png)
+
+**_Recomendación:_**
+
+Agregar una funcionalidad que permita editar datos directamente desde el Home del administrador, idealmente mediante iconos o botones visibles y accesibles en cada sección o tarjeta de datos. Esta implementación debe incluir:
+
+Un flujo claro y directo para realizar ediciones (por ejemplo, un botón "Editar" que abra un modal o redirija a un formulario editable).
+Indicadores visuales que diferencien los datos editables de los que no lo son.
+Salvaguardas como confirmaciones antes de guardar cambios y validaciones para evitar errores.
+Probar esta funcionalidad con los administradores que utilizarán la herramienta ayudará a asegurar que cumpla con sus necesidades y mejore su experiencia de usuario.
 ## 5.4. Video About-the-Product
 
 A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
