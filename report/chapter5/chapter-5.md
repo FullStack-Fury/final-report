@@ -1968,23 +1968,13 @@ enlace para acceder al video del About the product:
 - Facilio. (2024). Facilio: Platform for facilities management. Recuperado de https://facilio.com/
 - FMX. (2024). Facilities Management eXpress: Software para la gestión de instalaciones. Recuperado de https://www.gofmx.com/
 - Archibus. (2024). Archibus: Complete facilities management platform. Recuperado de https://archibus.com/
+- Lumiform. (2024). Software de gestión de instalaciones de Lumiform. Recuperado de: https://lumiformapp.com/es
+- Frontu. (2024). ¿Qué es el software de gestión de instalaciones? Recuperado de: 
+https://frontu.com/es/blog/que-es-el-software-de-gestion-de-instalaciones
 
 # Anexos
 
-## Videos de Exposiciones
-
-### Exposición TB2:
-
-**Título del Proyecto**: EduSpace
-
-**Participantes**:
-
-**Link a la Exposición en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EcniNlTiPzZBvo-CpI3eGz8BDKc8qVo_Lx-XgNO-BEYzNw?e=1sP93S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-### About The Team
-
-[**Microsoft Stream**:](https://bit.ly/3ULw8tq) https://bit.ly/3ULw8tq
-
-[**Youtube**:](https://youtu.be/7C6oQpjYr9Q) https://youtu.be/7C6oQpjYr9Q
-
-![](../../assets/abouttheteam.jpg)
+| Sección    | Características   |  Descripción  | Link    |
+|--------------|--------------|--------------|--------------|
+| About the product| Nomenclatura:upc-pre-202402-si730-sv51-fullstackfury-about-the-product-sprint-3 | Video de presentación de nuestro producto |  **Microsoft Stream**: https://bit.ly/3UPIHE7 **Youtube**: https://youtu.be/j8Mj2Hk4KQk| 
+| About the team	| Informe| Video de presentación del equipo | [**Microsoft Stream**:](https://bit.ly/3ULw8tq) https://bit.ly/3ULw8tq [**Youtube**:](https://youtu.be/7C6oQpjYr9Q) https://youtu.be/7C6oQpjYr9Q|
