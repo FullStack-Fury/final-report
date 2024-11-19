@@ -1960,7 +1960,7 @@ enlace para acceder al video del About the product:
 
 **Participantes**:
 
-**Link a la Exposición en Microsoft Stream**:
+**Link a la Exposición en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EcniNlTiPzZBvo-CpI3eGz8BDKc8qVo_Lx-XgNO-BEYzNw?e=1sP93S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### About The Team
 
